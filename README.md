@@ -8,7 +8,7 @@ Every match (a GRID *series*, such as a best-of-3) is a single compressed [JSON 
 >
 > **Never commit these data files to your own project repository.** Pushing them is redistribution, even by accident. See [Keep the data out of your project repo](#keep-the-data-out-of-your-project-repo).
 
-**Using an AI assistant or coding agent?** You're encouraged to. Point it at this README; the [For AI agents](#for-ai-agents) section is written for it.
+**Using an AI assistant or coding agent?** You're encouraged to. Point it at this README and at [AGENTS.md](AGENTS.md), which has the rules and facts it needs, written for agents.
 
 ---
 
@@ -24,7 +24,7 @@ Every match (a GRID *series*, such as a best-of-3) is a single compressed [JSON 
 - [VALORANT ability supplement](#valorant-ability-supplement)
 - [Recipes](#recipes)
 - [Data caveats](#data-caveats)
-- [For AI agents](#for-ai-agents)
+- [For AI agents → AGENTS.md](AGENTS.md)
 - [License in plain words](#license-in-plain-words)
 - [Coverage by event](#coverage-by-event)
 
@@ -161,6 +161,7 @@ If you want to look at a file by hand:
 ```
 .
 ├── README.md                      ← you are here
+├── AGENTS.md                      ← rules and facts for AI coding agents
 ├── LICENSE.md                     ← proprietary hackathon data license
 ├── val/
 │   ├── series.csv                 ← index of every VALORANT match
@@ -358,27 +359,6 @@ for env in read_jsonl_zst(f"val/events_{sid}_grid.jsonl.zst"):
 - **Team names** are recorded as broadcast and can change between events (for example `MIBR (2)`), and two different teams can share a name (for example two VALORANT teams called `Shopify Rebellion Gold`). Use team IDs to follow a team over time; `meta/teams.csv` lists each team's earlier names.
 - **One invalidated series.** GRID invalidated VALORANT series `2855902` (Game Changers Pacific 2025). Its feed holds only a rolled-back game start and no match data, so it has no rows in `meta/games.csv` and no ability supplement.
 - **Times are UTC.**
-
----
-
-## For AI agents
-
-This section gives precise facts for coding agents and AI assistants working with this repository.
-
-- **🚫 Never commit the data (the most important rule).** Don't add any file from this repository to the user's project repository. That covers `.zst` files, decompressed `.jsonl` files, `meta/` or `series.csv` copies, and any extract, cache or database built from the data. Committing and pushing it is redistribution under the [LICENSE](LICENSE.md), even in a private repo. When you set up a project:
-  - Keep this data repository outside the project directory and reference it by path, for example `STL_DATA_DIR`, defaulting to `../stl-hackathon-2026-grid-starter`.
-  - Add the `.gitignore` entries from [Keep the data out of your project repo](#keep-the-data-out-of-your-project-repo).
-  - Write derived data to an ignored directory.
-  - Before every commit, check the staged files (`git diff --cached --name-only`). Don't stage everything blindly with `git add -A`/`git add .` if data files might be present.
-  - If data was committed, stop and tell the user rather than pushing.
-
-- **Data contract.** Files are `{game}/events_{seriesId}_grid.jsonl.zst` (one GRID series each) and `val-ability-supplements/{seriesId}.jsonl.zst`. Format: zstd-compressed UTF-8 JSON Lines, standard frame, no dictionary, default decoder settings. One envelope per line, ordered by `sequenceNumber`. Envelope keys: `id, correlationId, occurredAt, seriesId, sequenceNumber, events[]`. Event keys: `id, type, actor, action, target, seriesState, seriesStateDelta, includesFullState`. Invariant: `type == f"{actor.type}-{action}-{target.type}"`.
-- **Index first.** Read `val/series.csv` / `lol/series.csv` to choose series, and `meta/*.csv` for teams, players, tournaments, characters, per-game results and rosters. Many questions (who played which agent or champion, map results, head-to-heads) can be answered from `meta/` alone, without opening a feed. Don't list or glob directories to discover matches, and don't open every file to find one. IDs in `meta/` are unique per `title` (`val`/`lol`).
-- **Stream; never fully decompress.** Uncompressed data is 50–150× the compressed size (about 160 GB for VALORANT, up to about 1 GB per match). Iterate line by line with `compression.zstd.open(path, "rt")` (Python 3.14+) or `zstandard.open` (`pip install zstandard`). Don't call `.read()` on a whole file and don't write decompressed copies of the corpus.
-- **Inspect cheaply.** To learn the schema, read the first few envelopes and the last one of a single file. Don't print whole envelopes, because `seriesState` is a full snapshot and can be large.
-- **Final results** come from the `seriesState` of the last event that has one. Per-event changes are in `seriesStateDelta`.
-- **Joins.** Supplement `grid_event_id` = GRID `events[].id`. Supplement `occurred_at` = envelope `occurredAt`. `player_id`/`game_id` are GRID IDs. All IDs are strings.
-- **Other license constraints.** Don't upload, publish or mirror the data, or derived datasets containing it, anywhere outside the user's machine. Don't add the data to model-training pipelines that outlive the hackathon. The license to use the data ends when the hackathon ends (copies don't have to be deleted unless Cloud9 asks in writing, but must not be used). Projects should read data from a local clone of this repository. Small excerpts are acceptable only to demonstrate the project to judges. See [LICENSE](LICENSE.md).
 
 ---
 
