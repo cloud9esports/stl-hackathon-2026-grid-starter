@@ -1,0 +1,109 @@
+title,tournament_id,tournament_name,event,event_tournament_id,stage,series_count,first_scheduled,last_scheduled
+lol,775625,LCK - LCK Cup 2025 (Groups: Group Baron),LCK - LCK Cup 2025,775623,Groups,25,2025-01-15T08:00:00Z,2025-02-02T06:00:00Z
+lol,775515,LEC - Winter 2025 (Regular Season: Regular Season),LEC - Winter 2025,775513,Regular Season,45,2025-01-18T17:00:00Z,2025-02-03T20:00:00Z
+lol,775638,LTA South - Split 1 2025 (Regional Qualifier: Regional Qualifier),LTA South - Split 1 2025,775636,Regional Qualifier,12,2025-01-25T19:00:00Z,2025-02-09T22:00:00Z
+lol,775633,LTA North - Split 1 2025 (Regional Qualifier: Regional Qualifier),LTA North - Split 1 2025,775631,Regional Qualifier,12,2025-01-25T21:00:00Z,2025-02-10T03:00:00Z
+lol,775627,LCK - LCK Cup 2025 (Play-Ins: Play In Knockouts),LCK - LCK Cup 2025,775623,Play-Ins,5,2025-02-07T08:00:00Z,2025-02-09T06:00:00Z
+lol,775629,LCK - LCK Cup 2025 (Playoffs: Playoffs),LCK - LCK Cup 2025,775623,Playoffs,8,2025-02-12T08:00:00Z,2025-02-23T06:00:00Z
+lol,775908,LEC - Winter 2025 (Playoffs: Playoffs),LEC - Winter 2025,775513,Playoffs,14,2025-02-15T17:00:00Z,2025-03-02T17:00:00Z
+lol,775880,LTA Cross-Conference - Split 1 2025 (Regional Finals: Regional Finals),LTA Cross-Conference - Split 1 2025,775878,Regional Finals,7,2025-02-15T19:00:00Z,2025-02-23T19:00:00Z
+lol,825470,LEC - Spring 2025 (Regular Season: Regular Season),LEC - Spring 2025,825468,Regular Season,46,2025-03-29T14:00:00Z,2025-05-13T18:00:00Z
+lol,825492,LCK - Split 2 2025 (Regular Season: Regular Season),LCK - Split 2 2025,825490,Regular Season,92,2025-04-02T08:00:00Z,2025-06-04T08:00:00Z
+lol,825602,LTA South - Split 2 2025 (Round 1: Round 1),LTA South - Split 2 2025,825600,Round 1,28,2025-04-05T16:00:00Z,2025-04-21T19:00:00Z
+lol,825569,LTA North - Split 2 2025 (Round 1: Round 1),LTA North - Split 2 2025,825567,Round 1,28,2025-04-05T20:05:00Z,2025-04-21T23:00:00Z
+lol,825941,LTA South - Split 2 2025 (Round 2: Group A),LTA South - Split 2 2025,825600,Round 2,6,2025-04-26T15:00:00Z,2025-05-10T18:00:00Z
+lol,825948,LTA North - Split 2 2025 (Round 2: Group B),LTA North - Split 2 2025,825567,Round 2,6,2025-04-26T20:00:00Z,2025-05-11T20:00:00Z
+lol,825949,LTA North - Split 2 2025 (Round 2: Group A),LTA North - Split 2 2025,825567,Round 2,6,2025-04-26T23:00:00Z,2025-05-11T23:00:00Z
+lol,825942,LTA South - Split 2 2025 (Round 2: Group B),LTA South - Split 2 2025,825600,Round 2,6,2025-04-27T15:00:00Z,2025-05-11T18:00:00Z
+lol,825944,LTA South - Split 2 2025 (Round 3: round_3),LTA South - Split 2 2025,825600,Round 3,4,2025-05-17T15:00:00Z,2025-05-18T18:00:00Z
+lol,825951,LTA North - Split 2 2025 (Round 3: round_3),LTA North - Split 2 2025,825567,Round 3,4,2025-05-17T20:00:00Z,2025-05-18T23:00:00Z
+lol,826081,LEC - Spring 2025 (Playoffs: Playoffs),LEC - Spring 2025,825468,Playoffs,8,2025-05-24T15:00:00Z,2025-06-08T15:00:00Z
+lol,825946,LTA South - Split 2 2025 (Playoffs: Playoffs),LTA South - Split 2 2025,825600,Playoffs,8,2025-05-24T16:00:00Z,2025-06-15T16:00:00Z
+lol,825954,LTA North - Split 2 2025 (Playoffs: Playoffs),LTA North - Split 2 2025,825567,Playoffs,8,2025-05-24T20:00:00Z,2025-06-15T20:00:00Z
+lol,825494,LCK - Split 2 2025 (Road to MSI: Road to MSI),LCK - Split 2 2025,825490,Road to MSI,5,2025-06-07T06:00:00Z,2025-06-15T06:00:00Z
+lol,826681,LCK - Split 3 2025 (Groups: Rise Group),LCK - Split 3 2025,826679,Groups,30,2025-07-23T08:00:00Z,2025-08-31T08:00:00Z
+lol,826682,LCK - Split 3 2025 (Groups: Legend Group),LCK - Split 3 2025,826679,Groups,30,2025-07-23T11:10:00Z,2025-08-31T06:00:00Z
+lol,826777,LTA South - Split 3 2025 (Round 1: Round 1),LTA South - Split 3 2025,826775,Round 1,12,2025-07-26T15:00:00Z,2025-08-10T18:00:00Z
+lol,826765,LTA North - Split 3 2025 (Round 1: Round 1),LTA North - Split 3 2025,826763,Round 1,12,2025-07-26T20:00:00Z,2025-08-10T23:00:00Z
+lol,826908,LEC - Summer 2025 (Groups: Group 1),LEC - Summer 2025,826906,Groups,10,2025-08-02T15:00:00Z,2025-08-26T17:00:00Z
+lol,826909,LEC - Summer 2025 (Groups: Group 2),LEC - Summer 2025,826906,Groups,10,2025-08-02T17:00:00Z,2025-08-25T17:00:00Z
+lol,826781,LTA South - Split 3 2025 (Round 2: Round 2),LTA South - Split 3 2025,826775,Round 2,10,2025-08-16T16:00:00Z,2025-09-07T16:00:00Z
+lol,826767,LTA North - Split 3 2025 (Round 2: Round 2),LTA North - Split 3 2025,826763,Round 2,10,2025-08-16T23:45:00Z,2025-09-07T20:00:00Z
+lol,827069,LCK - Split 3 2025 (Play-Ins: Play In Knockouts),LCK - Split 3 2025,826679,Play-Ins,5,2025-09-03T08:00:00Z,2025-09-07T06:00:00Z
+lol,826911,LEC - Summer 2025 (Playoffs: Playoffs),LEC - Summer 2025,826906,Playoffs,10,2025-09-05T15:00:00Z,2025-09-28T15:00:00Z
+lol,827071,LCK - Split 3 2025 (Playoffs: Playoffs),LCK - Split 3 2025,826679,Playoffs,10,2025-09-10T08:00:00Z,2025-09-28T05:00:00Z
+lol,826784,LTA Cross-Conference - Regional Championship 2025 (Regional Finals: Regional Finals),LTA Cross-Conference - Regional Championship 2025,826782,Regional Finals,6,2025-09-13T20:00:00Z,2025-09-28T20:00:00Z
+lol,827701,LEC - LEC Versus 2026 (Regular Season: Regular Season),LEC - LEC Versus 2026,827699,Regular Season,66,2026-01-17T16:00:00Z,2026-02-08T19:30:00Z
+lol,827910,LCS - Split 1 2026 (Swiss: Swiss),LCS - Split 1 2026,827908,Swiss,13,2026-01-24T22:10:00Z,2026-02-09T03:00:00Z
+lol,827912,LCS - Split 1 2026 (Playoffs: Playoffs),LCS - Split 1 2026,827908,Playoffs,8,2026-02-14T21:00:00Z,2026-03-01T21:00:00Z
+lol,828729,LEC - LEC Versus 2026 (Playoffs: Playoffs),LEC - LEC Versus 2026,827699,Playoffs,13,2026-02-16T16:45:00Z,2026-03-01T18:00:00Z
+lol,828973,LEC - Spring 2026 (Regular Season: Regular Season),LEC - Spring 2026,828971,Regular Season,45,2026-03-28T13:00:00Z,2026-05-10T16:15:00Z
+lol,828912,LCS - Split 2 2026 (Regular Season: Regular Season),LCS - Split 2 2026,828910,Regular Season,28,2026-04-04T20:00:00Z,2026-05-17T22:05:00Z
+lol,829545,LEC - Spring 2026 (Playoffs: Playoffs),LEC - Spring 2026,828971,Playoffs,8,2026-05-23T17:00:00Z,2026-06-07T15:00:00Z
+lol,829593,LCS - Split 2 2026 (Playoffs: Playoffs),LCS - Split 2 2026,828910,Playoffs,8,2026-05-23T20:00:00Z,2026-06-14T20:00:00Z
+lol,829745,LCS - Split 3 2026 (Regular Season: Regular Season),LCS - Split 3 2026,829743,Regular Season,7,2026-07-26T20:00:00Z,2026-09-05T20:00:00Z
+lol,830412,LCS - Split 3 2026 (Playoffs: Playoffs),LCS - Split 3 2026,829743,Playoffs,4,2026-09-12T20:00:00Z,2026-10-03T20:00:00Z
+lol,831077,LCS - Promotion 2026 (Regional Qualifier: Regional Championship),LCS - Promotion 2026,831075,Regional Qualifier,7,2026-10-05T21:00:00Z,2026-10-12T23:00:00Z
+val,775518,VCT Americas - Kickoff 2025 (Knockouts: Knockouts),VCT Americas - Kickoff 2025,775516,Knockouts,22,2025-01-16T22:00:00Z,2025-02-08T22:00:00Z
+val,775940,Game Changers BR - Kickoff 2025 (Knockouts: Knockouts),Game Changers BR - Kickoff 2025,775938,Knockouts,14,2025-02-09T20:00:00Z,2025-02-17T20:00:00Z
+val,776271,Game Changers LATAM - Split 1 2025 (Regular Season: Group B),Game Changers LATAM - Split 1 2025,776269,Regular Season,28,2025-03-03T20:00:00Z,2025-03-31T22:00:00Z
+val,776272,Game Changers LATAM - Split 1 2025 (Regular Season: Group A),Game Changers LATAM - Split 1 2025,776269,Regular Season,23,2025-03-04T22:00:00Z,2025-04-02T01:00:00Z
+val,812657,Game Changers SEA - Split 1 2025 (Playoffs: Playoffs),Game Changers SEA - Split 1 2025,812655,Playoffs,10,2025-03-12T09:00:00Z,2025-03-16T06:00:00Z
+val,803387,Game Changers BR - Split 1 2025 (Swiss: Swiss),Game Changers BR - Split 1 2025,803385,Swiss,16,2025-03-18T20:00:00Z,2025-04-17T20:00:00Z
+val,800677,VCT Americas - Stage 1 2025 (Regular Season: Group B),VCT Americas - Stage 1 2025,800675,Regular Season,15,2025-03-21T21:00:00Z,2025-04-21T01:15:00Z
+val,800678,VCT Americas - Stage 1 2025 (Regular Season: Group A),VCT Americas - Stage 1 2025,800675,Regular Season,15,2025-03-22T00:00:00Z,2025-04-20T21:00:00Z
+val,825905,Game Changers NA - Split 1 2025 (Swiss: Swiss),Game Changers NA - Split 1 2025,825903,Swiss,34,2025-04-14T21:00:00Z,2025-05-16T23:30:00Z
+val,776274,Game Changers LATAM - Split 1 2025 (Playoffs: Playoffs),Game Changers LATAM - Split 1 2025,776269,Playoffs,12,2025-04-21T19:00:00Z,2025-05-01T22:00:00Z
+val,800680,VCT Americas - Stage 1 2025 (Playoffs: Playoffs),VCT Americas - Stage 1 2025,800675,Playoffs,12,2025-04-24T21:00:00Z,2025-05-04T21:00:00Z
+val,825816,Game Changers JPN - Split 1 2025 (Knockouts: Knockouts),Game Changers JPN - Split 1 2025,825814,Knockouts,3,2025-04-28T07:00:00Z,2025-04-30T07:00:00Z
+val,803429,Game Changers BR - Split 1 2025 (Playoffs: Playoffs),Game Changers BR - Split 1 2025,803385,Playoffs,6,2025-04-29T20:00:00Z,2025-05-16T21:00:00Z
+val,825957,Game Changers KR - Split 1 2025 (Playoffs: Playoffs),Game Changers KR - Split 1 2025,825955,Playoffs,1,2025-05-15T08:00:00Z,2025-05-15T08:00:00Z
+val,825907,Game Changers NA - Split 1 2025 (Playoffs: Playoffs),Game Changers NA - Split 1 2025,825903,Playoffs,14,2025-05-23T21:00:00Z,2025-06-01T21:00:00Z
+val,826107,VALORANT Masters - Masters Toronto (Swiss: Swiss),VALORANT Masters - Masters Toronto,826105,Swiss,10,2025-06-07T16:00:00Z,2025-06-11T19:00:00Z
+val,826109,VALORANT Masters - Masters Toronto (Playoffs: Playoffs),VALORANT Masters - Masters Toronto,826105,Playoffs,14,2025-06-13T16:00:00Z,2025-06-22T17:00:00Z
+val,826057,Game Changers EMEA - Split 2 2025 (Playoffs: Playoffs),Game Changers EMEA - Split 2 2025,826055,Playoffs,8,2025-06-15T15:00:00Z,2025-06-19T15:00:00Z
+val,826262,Game Changers LATAM - Split 2 2025 (Regular Season: Group B),Game Changers LATAM - Split 2 2025,826260,Regular Season,27,2025-06-18T19:00:00Z,2025-07-07T22:00:00Z
+val,826263,Game Changers LATAM - Split 2 2025 (Regular Season: Group A),Game Changers LATAM - Split 2 2025,826260,Regular Season,25,2025-06-19T22:00:00Z,2025-07-09T01:00:00Z
+val,826077,Game Changers BR - Split 2 2025 (Swiss: Swiss),Game Changers BR - Split 2 2025,826075,Swiss,16,2025-06-24T20:00:00Z,2025-07-05T20:00:00Z
+val,826227,Game Changers JPN - Split 2 2025 (Knockouts: Knockouts),Game Changers JPN - Split 2 2025,826225,Knockouts,13,2025-06-25T01:00:00Z,2025-06-29T07:00:00Z
+val,825977,Game Changers Oceania - 2025 (Knockouts: Knockouts),Game Changers Oceania - 2025,825975,Knockouts,6,2025-06-27T05:00:00Z,2025-06-29T04:00:00Z
+val,826199,Game Changers SEA - Split 2 2025 (Playoffs: Playoffs),Game Changers SEA - Split 2 2025,826197,Playoffs,14,2025-06-30T09:00:00Z,2025-07-06T06:00:00Z
+val,826183,Game Changers KR - Split 2 2025 (Playoffs: Playoffs),Game Changers KR - Split 2 2025,826181,Playoffs,1,2025-07-04T08:00:00Z,2025-07-04T08:00:00Z
+val,826079,Game Changers BR - Split 2 2025 (Playoffs: Playoffs),Game Changers BR - Split 2 2025,826075,Playoffs,6,2025-07-11T20:00:00Z,2025-07-24T21:00:00Z
+val,826265,Game Changers LATAM - Split 2 2025 (Playoffs: Playoffs),Game Changers LATAM - Split 2 2025,826260,Playoffs,11,2025-07-13T19:00:00Z,2025-07-29T22:00:00Z
+val,826662,VCT Americas - Stage 2 2025 (Regular Season: Group A),VCT Americas - Stage 2 2025,826660,Regular Season,15,2025-07-18T21:00:00Z,2025-08-17T21:00:00Z
+val,826663,VCT Americas - Stage 2 2025 (Regular Season: Group B),VCT Americas - Stage 2 2025,826660,Regular Season,15,2025-07-19T00:00:00Z,2025-08-18T00:00:00Z
+val,826903,Game Changers NA - Split 2 2025 (Swiss: Swiss),Game Changers NA - Split 2 2025,826901,Swiss,45,2025-07-28T21:00:00Z,2025-09-10T23:30:00Z
+val,826899,Game Changers LATAM - Main Event 2025 (Knockouts: Group A),Game Changers LATAM - Main Event 2025,826897,Knockouts,8,2025-08-18T19:00:00Z,2025-09-09T19:00:00Z
+val,826900,Game Changers LATAM - Main Event 2025 (Knockouts: Group B),Game Changers LATAM - Main Event 2025,826897,Knockouts,8,2025-08-19T22:00:00Z,2025-09-10T22:00:00Z
+val,826992,VCT Americas - Stage 2 2025 (Playoffs: Playoffs),VCT Americas - Stage 2 2025,826660,Playoffs,12,2025-08-21T21:00:00Z,2025-08-31T21:00:00Z
+val,826973,Game Changers BR - Season Finals 2025 (Regional Finals: Regional Finals),Game Changers BR - Season Finals 2025,826971,Regional Finals,14,2025-09-08T20:00:00Z,2025-10-11T20:00:00Z
+val,827273,Game Changers Pacific - 2025 (Knockouts: Knockouts),Game Changers Pacific - 2025,827271,Knockouts,14,2025-10-06T08:00:00Z,2025-10-12T08:00:00Z
+val,826905,Game Changers NA - Split 2 2025 (Playoffs: Playoffs),Game Changers NA - Split 2 2025,826901,Playoffs,14,2025-10-07T21:00:00Z,2025-10-12T21:00:00Z
+val,827254,Game Changers LATAM - Main Event 2025 (Regional Finals: Regional Finals),Game Changers LATAM - Main Event 2025,826897,Regional Finals,1,2025-10-12T21:00:00Z,2025-10-12T21:00:00Z
+val,827283,Game Changers EMEA - Split 3 2025 (Playoffs: Playoffs),Game Changers EMEA - Split 3 2025,827281,Playoffs,8,2025-10-16T15:00:00Z,2025-11-02T14:00:00Z
+val,827411,Game Changers Championship - 2025 (Playoffs: Playoffs),Game Changers Championship - 2025,827409,Playoffs,18,2025-11-20T08:00:00Z,2025-11-30T08:00:00Z
+val,827698,Game Changers BR - Kickoff 2026 (Knockouts: Knockouts),Game Changers BR - Kickoff 2026,827696,Knockouts,14,2026-02-03T00:00:00Z,2026-02-17T20:00:00Z
+val,827969,Game Changers LATAM - Kickoff 2026 (Playoffs: Playoffs),Game Changers LATAM - Kickoff 2026,827967,Playoffs,2,2026-02-08T22:00:00Z,2026-02-09T01:00:00Z
+val,827972,Game Changers LATAM - Split 1 2026 (Regular Season: Group B),Game Changers LATAM - Split 1 2026,827970,Regular Season,15,2026-02-11T22:00:00Z,2026-03-25T22:00:00Z
+val,827973,Game Changers LATAM - Split 1 2026 (Regular Season: Group A),Game Changers LATAM - Split 1 2026,827970,Regular Season,15,2026-02-12T01:00:00Z,2026-03-26T01:00:00Z
+val,828284,Game Changers EMEA - Stage 1 2026 (Playoffs: Playoffs),Game Changers EMEA - Stage 1 2026,828282,Playoffs,8,2026-02-18T16:00:00Z,2026-02-22T16:00:00Z
+val,827958,Game Changers NA - Kickoff 2026 (Knockouts: Knockouts),Game Changers NA - Kickoff 2026,827956,Knockouts,14,2026-02-20T22:00:00Z,2026-03-01T22:00:00Z
+val,828864,Game Changers BR - Split 1 2026 (Swiss: Swiss),Game Changers BR - Split 1 2026,828862,Swiss,16,2026-03-21T20:00:00Z,2026-04-05T20:00:00Z
+val,827975,Game Changers LATAM - Split 1 2026 (Playoffs: Playoffs),Game Changers LATAM - Split 1 2026,827970,Playoffs,12,2026-03-30T22:00:00Z,2026-04-07T22:00:00Z
+val,828866,Game Changers BR - Split 1 2026 (Playoffs: Playoffs),Game Changers BR - Split 1 2026,828862,Playoffs,6,2026-04-13T20:00:00Z,2026-04-30T21:00:00Z
+val,829278,Game Changers NA - Split 1 2026 (Swiss: Swiss),Game Changers NA - Split 1 2026,829276,Swiss,45,2026-04-15T21:00:00Z,2026-05-20T23:30:00Z
+val,829266,Game Changers KR - Split 1 2026 (Playoffs: Playoffs),Game Changers KR - Split 1 2026,829264,Playoffs,6,2026-04-27T08:00:00Z,2026-05-06T08:00:00Z
+val,829363,Game Changers EMEA - Split 2 2026 (Regular Season: Regular Season),Game Changers EMEA - Split 2 2026,829226,Regular Season,43,2026-04-27T15:00:00Z,2026-05-14T18:00:00Z
+val,829426,Game Changers JPN - Split 1 2026 (Playoffs: Playoffs),Game Changers JPN - Split 1 2026,829424,Playoffs,6,2026-05-04T07:00:00Z,2026-05-06T08:00:00Z
+val,829344,Game Changers LATAM - Split 2 2026 (Regular Season: Group B),Game Changers LATAM - Split 2 2026,829342,Regular Season,15,2026-05-04T22:00:00Z,2026-06-13T22:00:00Z
+val,829345,Game Changers LATAM - Split 2 2026 (Regular Season: Group A),Game Changers LATAM - Split 2 2026,829342,Regular Season,15,2026-05-05T01:00:00Z,2026-06-14T01:00:00Z
+val,829228,Game Changers EMEA - Split 2 2026 (Playoffs: Playoffs),Game Changers EMEA - Split 2 2026,829226,Playoffs,8,2026-05-20T15:00:00Z,2026-05-24T15:00:00Z
+val,829631,Game Changers BR - Split 2 2026 (Swiss: Swiss),Game Changers BR - Split 2 2026,829629,Swiss,16,2026-05-25T20:00:00Z,2026-06-11T20:00:00Z
+val,829280,Game Changers NA - Split 1 2026 (Playoffs: Playoffs),Game Changers NA - Split 1 2026,829276,Playoffs,14,2026-05-29T21:00:00Z,2026-06-05T21:00:00Z
+val,829633,Game Changers BR - Split 2 2026 (Playoffs: Playoffs),Game Changers BR - Split 2 2026,829629,Playoffs,6,2026-06-22T20:00:00Z,2026-07-08T21:00:00Z
+val,829347,Game Changers LATAM - Split 2 2026 (Playoffs: Playoffs),Game Changers LATAM - Split 2 2026,829342,Playoffs,12,2026-06-30T22:00:00Z,2026-07-14T22:00:00Z
+val,829822,Game Changers JPN - Split 2 2026 (Playoffs: Playoffs),Game Changers JPN - Split 2 2026,829820,Playoffs,6,2026-07-02T07:00:00Z,2026-07-04T08:00:00Z
+val,830139,Game Changers KR - Split 2 2026 (Playoffs: Playoffs),Game Changers KR - Split 2 2026,830137,Playoffs,6,2026-07-06T08:00:00Z,2026-07-20T08:00:00Z
+val,830201,Game Changers NA - Split 2 2026 (Swiss: Swiss),Game Changers NA - Split 2 2026,830199,Swiss,7,2026-07-13T20:59:00Z,2026-08-17T21:00:00Z
+val,830203,Game Changers NA - Split 2 2026 (Playoffs: Playoffs),Game Changers NA - Split 2 2026,830199,Playoffs,2,2026-09-01T23:30:00Z,2026-09-02T23:30:00Z
