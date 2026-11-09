@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Compressed match data: never diff, merge or normalize line endings
+*.zst binary
+
+# Indexes and docs always use LF
+*.csv text eol=lf
+*.md text eol=lf
