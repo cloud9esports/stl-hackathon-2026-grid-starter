@@ -1,0 +1,746 @@
+series_id,event,stage,scheduled_start,teams,file
+2754338,LCK - LCK Cup 2025,Groups,2025-01-15T08:00:00Z,HANJIN BRION vs KIWOOM DRX,lol/events_2754338_grid.jsonl.zst
+2754339,LCK - LCK Cup 2025,Groups,2025-01-15T11:20:00Z,DN SOOPers vs NONGSHIM RED FORCE,lol/events_2754339_grid.jsonl.zst
+2754340,LCK - LCK Cup 2025,Groups,2025-01-16T08:00:00Z,BNK FearX vs KT Rolster,lol/events_2754340_grid.jsonl.zst
+2754341,LCK - LCK Cup 2025,Groups,2025-01-16T11:00:00Z,Dplus KIA vs T1,lol/events_2754341_grid.jsonl.zst
+2754342,LCK - LCK Cup 2025,Groups,2025-01-17T08:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2754342_grid.jsonl.zst
+2754343,LCK - LCK Cup 2025,Groups,2025-01-17T10:30:00Z,NONGSHIM RED FORCE vs HANJIN BRION,lol/events_2754343_grid.jsonl.zst
+2754344,LCK - LCK Cup 2025,Groups,2025-01-18T06:00:00Z,Dplus KIA vs DN SOOPers,lol/events_2754344_grid.jsonl.zst
+2754345,LCK - LCK Cup 2025,Groups,2025-01-18T08:30:00Z,KIWOOM DRX vs T1,lol/events_2754345_grid.jsonl.zst
+2759536,LEC - Winter 2025,Regular Season,2025-01-18T17:00:00Z,Team Heretics vs Rogue,lol/events_2759536_grid.jsonl.zst
+2759562,LEC - Winter 2025,Regular Season,2025-01-18T17:45:00Z,Team Vitality vs Shifters,lol/events_2759562_grid.jsonl.zst
+2759578,LEC - Winter 2025,Regular Season,2025-01-18T18:30:00Z,GIANTX vs SK Gaming,lol/events_2759578_grid.jsonl.zst
+2762924,LEC - Winter 2025,Regular Season,2025-01-18T19:15:00Z,Movistar KOI vs Fnatic,lol/events_2762924_grid.jsonl.zst
+2759614,LEC - Winter 2025,Regular Season,2025-01-18T20:45:00Z,Karmine Corp vs G2 Esports,lol/events_2759614_grid.jsonl.zst
+2754346,LCK - LCK Cup 2025,Groups,2025-01-19T06:00:00Z,KT Rolster vs Hanwha Life Esports,lol/events_2754346_grid.jsonl.zst
+2754347,LCK - LCK Cup 2025,Groups,2025-01-19T08:30:00Z,BNK FearX vs Gen.G Esports,lol/events_2754347_grid.jsonl.zst
+2759838,LEC - Winter 2025,Regular Season,2025-01-19T16:40:00Z,Team Heretics vs SK Gaming,lol/events_2759838_grid.jsonl.zst
+2759868,LEC - Winter 2025,Regular Season,2025-01-19T18:00:00Z,Rogue vs GIANTX,lol/events_2759868_grid.jsonl.zst
+2759883,LEC - Winter 2025,Regular Season,2025-01-19T18:40:00Z,Movistar KOI vs Karmine Corp,lol/events_2759883_grid.jsonl.zst
+2759908,LEC - Winter 2025,Regular Season,2025-01-19T20:15:00Z,G2 Esports vs Shifters,lol/events_2759908_grid.jsonl.zst
+2759922,LEC - Winter 2025,Regular Season,2025-01-19T21:10:00Z,Fnatic vs Team Vitality,lol/events_2759922_grid.jsonl.zst
+2760187,LEC - Winter 2025,Regular Season,2025-01-20T17:05:00Z,Shifters vs Rogue,lol/events_2760187_grid.jsonl.zst
+2760236,LEC - Winter 2025,Regular Season,2025-01-20T17:55:00Z,Team Heretics vs Fnatic,lol/events_2760236_grid.jsonl.zst
+2760259,LEC - Winter 2025,Regular Season,2025-01-20T18:45:00Z,Movistar KOI vs Team Vitality,lol/events_2760259_grid.jsonl.zst
+2760283,LEC - Winter 2025,Regular Season,2025-01-20T19:45:00Z,G2 Esports vs SK Gaming,lol/events_2760283_grid.jsonl.zst
+2760297,LEC - Winter 2025,Regular Season,2025-01-20T20:30:00Z,GIANTX vs Karmine Corp,lol/events_2760297_grid.jsonl.zst
+2754348,LCK - LCK Cup 2025,Groups,2025-01-22T08:00:00Z,Dplus KIA vs BNK FearX,lol/events_2754348_grid.jsonl.zst
+2754349,LCK - LCK Cup 2025,Groups,2025-01-22T11:00:00Z,DN SOOPers vs KIWOOM DRX,lol/events_2754349_grid.jsonl.zst
+2754350,LCK - LCK Cup 2025,Groups,2025-01-23T08:00:00Z,HANJIN BRION vs Gen.G Esports,lol/events_2754350_grid.jsonl.zst
+2754351,LCK - LCK Cup 2025,Groups,2025-01-23T10:30:00Z,Hanwha Life Esports vs NONGSHIM RED FORCE,lol/events_2754351_grid.jsonl.zst
+2754352,LCK - LCK Cup 2025,Groups,2025-01-24T08:00:00Z,KIWOOM DRX vs BNK FearX,lol/events_2754352_grid.jsonl.zst
+2754353,LCK - LCK Cup 2025,Groups,2025-01-24T10:30:00Z,T1 vs KT Rolster,lol/events_2754353_grid.jsonl.zst
+2754354,LCK - LCK Cup 2025,Groups,2025-01-25T06:00:00Z,Hanwha Life Esports vs Dplus KIA,lol/events_2754354_grid.jsonl.zst
+2754355,LCK - LCK Cup 2025,Groups,2025-01-25T09:00:00Z,Gen.G Esports vs DN SOOPers,lol/events_2754355_grid.jsonl.zst
+2748702,LEC - Winter 2025,Regular Season,2025-01-25T17:00:00Z,Rogue vs Fnatic,lol/events_2748702_grid.jsonl.zst
+2748703,LEC - Winter 2025,Regular Season,2025-01-25T17:45:00Z,Shifters vs Team Heretics,lol/events_2748703_grid.jsonl.zst
+2748704,LEC - Winter 2025,Regular Season,2025-01-25T18:30:00Z,GIANTX vs Movistar KOI,lol/events_2748704_grid.jsonl.zst
+2754527,LTA South - Split 1 2025,Regional Qualifier,2025-01-25T19:00:00Z,Vivo Keyd Stars vs LEVIATÁN,lol/events_2754527_grid.jsonl.zst
+2762574,LTA South - Split 1 2025,Regional Qualifier,2025-01-25T19:00:59Z,Pain Gaming vs LOUD,lol/events_2762574_grid.jsonl.zst
+2748705,LEC - Winter 2025,Regular Season,2025-01-25T19:15:00Z,Team Vitality vs G2 Esports,lol/events_2748705_grid.jsonl.zst
+2748706,LEC - Winter 2025,Regular Season,2025-01-25T20:00:00Z,Karmine Corp vs SK Gaming,lol/events_2748706_grid.jsonl.zst
+2754504,LTA North - Split 1 2025,Regional Qualifier,2025-01-25T21:00:00Z,FlyQuest vs Shopify Rebellion,lol/events_2754504_grid.jsonl.zst
+2754505,LTA North - Split 1 2025,Regional Qualifier,2025-01-26T00:00:00Z,Cloud9 Kia vs LYON,lol/events_2754505_grid.jsonl.zst
+2754356,LCK - LCK Cup 2025,Groups,2025-01-26T06:00:00Z,T1 vs NONGSHIM RED FORCE,lol/events_2754356_grid.jsonl.zst
+2754357,LCK - LCK Cup 2025,Groups,2025-01-26T08:30:00Z,KT Rolster vs HANJIN BRION,lol/events_2754357_grid.jsonl.zst
+2754530,LTA South - Split 1 2025,Regional Qualifier,2025-01-26T16:00:00Z,Isurus vs FURIA,lol/events_2754530_grid.jsonl.zst
+2748707,LEC - Winter 2025,Regular Season,2025-01-26T17:00:00Z,GIANTX vs Team Heretics,lol/events_2748707_grid.jsonl.zst
+2748708,LEC - Winter 2025,Regular Season,2025-01-26T17:45:00Z,SK Gaming vs Team Vitality,lol/events_2748708_grid.jsonl.zst
+2748709,LEC - Winter 2025,Regular Season,2025-01-26T18:30:00Z,Fnatic vs G2 Esports,lol/events_2748709_grid.jsonl.zst
+2754531,LTA South - Split 1 2025,Regional Qualifier,2025-01-26T19:00:00Z,RED Kalunga vs Fluxo W7M,lol/events_2754531_grid.jsonl.zst
+2748710,LEC - Winter 2025,Regular Season,2025-01-26T19:15:00Z,Karmine Corp vs Rogue,lol/events_2748710_grid.jsonl.zst
+2748711,LEC - Winter 2025,Regular Season,2025-01-26T20:00:00Z,Shifters vs Movistar KOI,lol/events_2748711_grid.jsonl.zst
+2754502,LTA North - Split 1 2025,Regional Qualifier,2025-01-26T21:00:00Z,100 Thieves vs Disguised,lol/events_2754502_grid.jsonl.zst
+2754501,LTA North - Split 1 2025,Regional Qualifier,2025-01-27T00:00:00Z,Team Liquid Alienware vs Dignitas,lol/events_2754501_grid.jsonl.zst
+2748712,LEC - Winter 2025,Regular Season,2025-01-27T17:00:00Z,Team Vitality vs Rogue,lol/events_2748712_grid.jsonl.zst
+2748713,LEC - Winter 2025,Regular Season,2025-01-27T17:45:00Z,Fnatic vs Shifters,lol/events_2748713_grid.jsonl.zst
+2748714,LEC - Winter 2025,Regular Season,2025-01-27T18:30:00Z,G2 Esports vs GIANTX,lol/events_2748714_grid.jsonl.zst
+2748715,LEC - Winter 2025,Regular Season,2025-01-27T19:15:00Z,Karmine Corp vs Team Heretics,lol/events_2748715_grid.jsonl.zst
+2748716,LEC - Winter 2025,Regular Season,2025-01-27T20:00:00Z,SK Gaming vs Movistar KOI,lol/events_2748716_grid.jsonl.zst
+2754358,LCK - LCK Cup 2025,Groups,2025-01-31T08:00:00Z,DN SOOPers vs KT Rolster,lol/events_2754358_grid.jsonl.zst
+2754359,LCK - LCK Cup 2025,Groups,2025-01-31T10:30:00Z,KIWOOM DRX vs Hanwha Life Esports,lol/events_2754359_grid.jsonl.zst
+2754360,LCK - LCK Cup 2025,Groups,2025-02-01T06:00:00Z,T1 vs Gen.G Esports,lol/events_2754360_grid.jsonl.zst
+2754361,LCK - LCK Cup 2025,Groups,2025-02-01T08:30:00Z,HANJIN BRION vs Dplus KIA,lol/events_2754361_grid.jsonl.zst
+2754532,LTA South - Split 1 2025,Regional Qualifier,2025-02-01T16:00:00Z,LOUD vs Vivo Keyd Stars,lol/events_2754532_grid.jsonl.zst
+2748717,LEC - Winter 2025,Regular Season,2025-02-01T17:00:00Z,SK Gaming vs Shifters,lol/events_2748717_grid.jsonl.zst
+2748718,LEC - Winter 2025,Regular Season,2025-02-01T17:45:00Z,GIANTX vs Fnatic,lol/events_2748718_grid.jsonl.zst
+2748719,LEC - Winter 2025,Regular Season,2025-02-01T18:30:00Z,Rogue vs G2 Esports,lol/events_2748719_grid.jsonl.zst
+2754533,LTA South - Split 1 2025,Regional Qualifier,2025-02-01T19:00:00Z,Fluxo W7M vs FURIA,lol/events_2754533_grid.jsonl.zst
+2748720,LEC - Winter 2025,Regular Season,2025-02-01T19:15:00Z,Team Heretics vs Movistar KOI,lol/events_2748720_grid.jsonl.zst
+2748721,LEC - Winter 2025,Regular Season,2025-02-01T20:00:00Z,Team Vitality vs Karmine Corp,lol/events_2748721_grid.jsonl.zst
+2754507,LTA North - Split 1 2025,Regional Qualifier,2025-02-01T21:00:00Z,Shopify Rebellion vs LYON,lol/events_2754507_grid.jsonl.zst
+2754506,LTA North - Split 1 2025,Regional Qualifier,2025-02-02T00:00:00Z,Dignitas vs Disguised,lol/events_2754506_grid.jsonl.zst
+2754362,LCK - LCK Cup 2025,Groups,2025-02-02T06:00:00Z,NONGSHIM RED FORCE vs BNK FearX,lol/events_2754362_grid.jsonl.zst
+2754535,LTA South - Split 1 2025,Regional Qualifier,2025-02-02T16:00:00Z,Isurus vs RED Kalunga,lol/events_2754535_grid.jsonl.zst
+2748722,LEC - Winter 2025,Regular Season,2025-02-02T17:00:00Z,Rogue vs SK Gaming,lol/events_2748722_grid.jsonl.zst
+2748723,LEC - Winter 2025,Regular Season,2025-02-02T17:45:00Z,Shifters vs GIANTX,lol/events_2748723_grid.jsonl.zst
+2748724,LEC - Winter 2025,Regular Season,2025-02-02T18:30:00Z,Fnatic vs Karmine Corp,lol/events_2748724_grid.jsonl.zst
+2754534,LTA South - Split 1 2025,Regional Qualifier,2025-02-02T19:00:00Z,LEVIATÁN vs Pain Gaming,lol/events_2754534_grid.jsonl.zst
+2748725,LEC - Winter 2025,Regular Season,2025-02-02T19:15:00Z,Team Heretics vs Team Vitality,lol/events_2748725_grid.jsonl.zst
+2748726,LEC - Winter 2025,Regular Season,2025-02-02T20:00:00Z,G2 Esports vs Movistar KOI,lol/events_2748726_grid.jsonl.zst
+2754508,LTA North - Split 1 2025,Regional Qualifier,2025-02-02T21:00:00Z,100 Thieves vs Team Liquid Alienware,lol/events_2754508_grid.jsonl.zst
+2754536,LTA South - Split 1 2025,Regional Qualifier,2025-02-02T22:00:00Z,LEVIATÁN vs Isurus,lol/events_2754536_grid.jsonl.zst
+2754509,LTA North - Split 1 2025,Regional Qualifier,2025-02-03T00:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2754509_grid.jsonl.zst
+2754510,LTA North - Split 1 2025,Regional Qualifier,2025-02-03T03:00:00Z,Cloud9 Kia vs 100 Thieves,lol/events_2754510_grid.jsonl.zst
+2748727,LEC - Winter 2025,Regular Season,2025-02-03T17:00:00Z,Team Vitality vs GIANTX,lol/events_2748727_grid.jsonl.zst
+2748728,LEC - Winter 2025,Regular Season,2025-02-03T17:45:00Z,Movistar KOI vs Rogue,lol/events_2748728_grid.jsonl.zst
+2748729,LEC - Winter 2025,Regular Season,2025-02-03T18:30:00Z,Karmine Corp vs Shifters,lol/events_2748729_grid.jsonl.zst
+2748730,LEC - Winter 2025,Regular Season,2025-02-03T19:15:00Z,G2 Esports vs Team Heretics,lol/events_2748730_grid.jsonl.zst
+2748731,LEC - Winter 2025,Regular Season,2025-02-03T20:00:00Z,SK Gaming vs Fnatic,lol/events_2748731_grid.jsonl.zst
+2765390,LCK - LCK Cup 2025,Play-Ins,2025-02-07T08:00:00Z,KIWOOM DRX vs DN SOOPers,lol/events_2765390_grid.jsonl.zst
+2754363,LCK - LCK Cup 2025,Play-Ins,2025-02-07T10:30:00Z,NONGSHIM RED FORCE vs HANJIN BRION,lol/events_2754363_grid.jsonl.zst
+2765391,LCK - LCK Cup 2025,Play-Ins,2025-02-08T06:00:00Z,NONGSHIM RED FORCE vs T1,lol/events_2765391_grid.jsonl.zst
+2765392,LCK - LCK Cup 2025,Play-Ins,2025-02-08T08:30:00Z,KIWOOM DRX vs Hanwha Life Esports,lol/events_2765392_grid.jsonl.zst
+2765393,LCK - LCK Cup 2025,Play-Ins,2025-02-09T06:00:00Z,KIWOOM DRX vs NONGSHIM RED FORCE,lol/events_2765393_grid.jsonl.zst
+2754537,LTA South - Split 1 2025,Regional Qualifier,2025-02-09T16:00:00Z,LOUD vs RED Kalunga,lol/events_2754537_grid.jsonl.zst
+2754538,LTA South - Split 1 2025,Regional Qualifier,2025-02-09T19:00:00Z,FURIA vs Pain Gaming,lol/events_2754538_grid.jsonl.zst
+2754512,LTA North - Split 1 2025,Regional Qualifier,2025-02-09T21:00:00Z,Team Liquid Alienware vs Shopify Rebellion,lol/events_2754512_grid.jsonl.zst
+2754539,LTA South - Split 1 2025,Regional Qualifier,2025-02-09T22:00:00Z,Pain Gaming vs LOUD,lol/events_2754539_grid.jsonl.zst
+2754511,LTA North - Split 1 2025,Regional Qualifier,2025-02-10T00:00:00Z,FlyQuest vs Dignitas,lol/events_2754511_grid.jsonl.zst
+2754513,LTA North - Split 1 2025,Regional Qualifier,2025-02-10T03:00:00Z,Team Liquid Alienware vs FlyQuest,lol/events_2754513_grid.jsonl.zst
+2754369,LCK - LCK Cup 2025,Playoffs,2025-02-12T08:00:00Z,KT Rolster vs NONGSHIM RED FORCE,lol/events_2754369_grid.jsonl.zst
+2754370,LCK - LCK Cup 2025,Playoffs,2025-02-13T08:00:00Z,T1 vs Hanwha Life Esports,lol/events_2754370_grid.jsonl.zst
+2754371,LCK - LCK Cup 2025,Playoffs,2025-02-15T06:00:00Z,Dplus KIA vs NONGSHIM RED FORCE,lol/events_2754371_grid.jsonl.zst
+2765816,LEC - Winter 2025,Playoffs,2025-02-15T17:00:00Z,Fnatic vs Team Heretics,lol/events_2765816_grid.jsonl.zst
+2764754,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-15T19:00:00Z,100 Thieves vs Pain Gaming,lol/events_2764754_grid.jsonl.zst
+2765817,LEC - Winter 2025,Playoffs,2025-02-15T19:00:00Z,G2 Esports vs GIANTX,lol/events_2765817_grid.jsonl.zst
+2764755,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-15T22:00:00Z,LEVIATÁN vs FlyQuest,lol/events_2764755_grid.jsonl.zst
+2754372,LCK - LCK Cup 2025,Playoffs,2025-02-16T06:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2754372_grid.jsonl.zst
+2765818,LEC - Winter 2025,Playoffs,2025-02-16T17:00:00Z,Movistar KOI vs Shifters,lol/events_2765818_grid.jsonl.zst
+2764757,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-16T19:00:00Z,Cloud9 Kia vs LOUD,lol/events_2764757_grid.jsonl.zst
+2765819,LEC - Winter 2025,Playoffs,2025-02-16T19:00:00Z,Karmine Corp vs Team Vitality,lol/events_2765819_grid.jsonl.zst
+2764756,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-16T22:00:00Z,Isurus vs Team Liquid Alienware,lol/events_2764756_grid.jsonl.zst
+2765820,LEC - Winter 2025,Playoffs,2025-02-17T17:00:00Z,G2 Esports vs Fnatic,lol/events_2765820_grid.jsonl.zst
+2765821,LEC - Winter 2025,Playoffs,2025-02-17T19:00:00Z,Karmine Corp vs Movistar KOI,lol/events_2765821_grid.jsonl.zst
+2754373,LCK - LCK Cup 2025,Playoffs,2025-02-19T08:00:00Z,Hanwha Life Esports vs Dplus KIA,lol/events_2754373_grid.jsonl.zst
+2754374,LCK - LCK Cup 2025,Playoffs,2025-02-20T08:00:00Z,Gen.G Esports vs NONGSHIM RED FORCE,lol/events_2754374_grid.jsonl.zst
+2754375,LCK - LCK Cup 2025,Playoffs,2025-02-22T06:00:00Z,Gen.G Esports vs Dplus KIA,lol/events_2754375_grid.jsonl.zst
+2765823,LEC - Winter 2025,Playoffs,2025-02-22T17:00:00Z,Team Vitality vs Shifters,lol/events_2765823_grid.jsonl.zst
+2764758,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-22T19:00:00Z,FlyQuest vs 100 Thieves,lol/events_2764758_grid.jsonl.zst
+2765822,LEC - Winter 2025,Playoffs,2025-02-22T19:00:00Z,GIANTX vs Team Heretics,lol/events_2765822_grid.jsonl.zst
+2764759,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-22T22:00:00Z,Cloud9 Kia vs Team Liquid Alienware,lol/events_2764759_grid.jsonl.zst
+2754376,LCK - LCK Cup 2025,Playoffs,2025-02-23T06:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2754376_grid.jsonl.zst
+2765824,LEC - Winter 2025,Playoffs,2025-02-23T17:00:00Z,Shifters vs Fnatic,lol/events_2765824_grid.jsonl.zst
+2764760,LTA Cross-Conference - Split 1 2025,Regional Finals,2025-02-23T19:00:00Z,Team Liquid Alienware vs 100 Thieves,lol/events_2764760_grid.jsonl.zst
+2765825,LEC - Winter 2025,Playoffs,2025-02-23T19:00:00Z,GIANTX vs Movistar KOI,lol/events_2765825_grid.jsonl.zst
+2765826,LEC - Winter 2025,Playoffs,2025-02-24T17:00:00Z,G2 Esports vs Karmine Corp,lol/events_2765826_grid.jsonl.zst
+2765827,LEC - Winter 2025,Playoffs,2025-02-28T17:00:00Z,Fnatic vs Movistar KOI,lol/events_2765827_grid.jsonl.zst
+2765828,LEC - Winter 2025,Playoffs,2025-03-01T17:00:00Z,Karmine Corp vs Fnatic,lol/events_2765828_grid.jsonl.zst
+2765829,LEC - Winter 2025,Playoffs,2025-03-02T17:00:00Z,G2 Esports vs Karmine Corp,lol/events_2765829_grid.jsonl.zst
+2785119,LEC - Spring 2025,Regular Season,2025-03-29T14:00:00Z,Fnatic vs GIANTX,lol/events_2785119_grid.jsonl.zst
+2781239,LEC - Spring 2025,Regular Season,2025-03-29T15:00:00Z,Team Heretics vs Rogue,lol/events_2781239_grid.jsonl.zst
+2781240,LEC - Spring 2025,Regular Season,2025-03-29T17:00:00Z,G2 Esports vs Movistar KOI,lol/events_2781240_grid.jsonl.zst
+2781241,LEC - Spring 2025,Regular Season,2025-03-30T15:00:00Z,Team Vitality vs GIANTX,lol/events_2781241_grid.jsonl.zst
+2781242,LEC - Spring 2025,Regular Season,2025-03-30T17:00:00Z,Movistar KOI vs Karmine Corp,lol/events_2781242_grid.jsonl.zst
+2781243,LEC - Spring 2025,Regular Season,2025-03-31T15:00:00Z,Shifters vs Rogue,lol/events_2781243_grid.jsonl.zst
+2781244,LEC - Spring 2025,Regular Season,2025-03-31T17:00:00Z,Fnatic vs SK Gaming,lol/events_2781244_grid.jsonl.zst
+2782403,LCK - Split 2 2025,Regular Season,2025-04-02T08:00:00Z,Hanwha Life Esports vs Gen.G Esports,lol/events_2782403_grid.jsonl.zst
+2782404,LCK - Split 2 2025,Regular Season,2025-04-02T10:00:00Z,KIWOOM DRX vs DN SOOPers,lol/events_2782404_grid.jsonl.zst
+2782405,LCK - Split 2 2025,Regular Season,2025-04-03T08:00:00Z,NONGSHIM RED FORCE vs HANJIN BRION,lol/events_2782405_grid.jsonl.zst
+2782406,LCK - Split 2 2025,Regular Season,2025-04-03T10:00:00Z,BNK FearX vs Dplus KIA,lol/events_2782406_grid.jsonl.zst
+2782407,LCK - Split 2 2025,Regular Season,2025-04-04T08:00:00Z,Hanwha Life Esports vs KT Rolster,lol/events_2782407_grid.jsonl.zst
+2782408,LCK - Split 2 2025,Regular Season,2025-04-04T11:00:00Z,KIWOOM DRX vs T1,lol/events_2782408_grid.jsonl.zst
+2782409,LCK - Split 2 2025,Regular Season,2025-04-05T06:00:00Z,HANJIN BRION vs BNK FearX,lol/events_2782409_grid.jsonl.zst
+2782410,LCK - Split 2 2025,Regular Season,2025-04-05T09:15:00Z,DN SOOPers vs NONGSHIM RED FORCE,lol/events_2782410_grid.jsonl.zst
+2781246,LEC - Spring 2025,Regular Season,2025-04-05T12:00:00Z,Rogue vs Team Vitality,lol/events_2781246_grid.jsonl.zst
+2781247,LEC - Spring 2025,Regular Season,2025-04-05T14:00:00Z,Karmine Corp vs Shifters,lol/events_2781247_grid.jsonl.zst
+2781248,LEC - Spring 2025,Regular Season,2025-04-05T16:00:00Z,Team Heretics vs G2 Esports,lol/events_2781248_grid.jsonl.zst
+2783946,LTA South - Split 2 2025,Round 1,2025-04-05T16:00:00Z,Pain Gaming vs Isurus,lol/events_2783946_grid.jsonl.zst
+2783947,LTA South - Split 2 2025,Round 1,2025-04-05T17:00:00Z,LEVIATÁN vs FURIA,lol/events_2783947_grid.jsonl.zst
+2783948,LTA South - Split 2 2025,Round 1,2025-04-05T18:00:00Z,Fluxo W7M vs Vivo Keyd Stars,lol/events_2783948_grid.jsonl.zst
+2783949,LTA South - Split 2 2025,Round 1,2025-04-05T19:00:00Z,RED Kalunga vs LOUD,lol/events_2783949_grid.jsonl.zst
+2783606,LTA North - Split 2 2025,Round 1,2025-04-05T20:05:00Z,Team Liquid Alienware vs FlyQuest,lol/events_2783606_grid.jsonl.zst
+2783607,LTA North - Split 2 2025,Round 1,2025-04-05T21:00:00Z,Shopify Rebellion vs Dignitas,lol/events_2783607_grid.jsonl.zst
+2783608,LTA North - Split 2 2025,Round 1,2025-04-05T22:00:00Z,100 Thieves vs Cloud9 Kia,lol/events_2783608_grid.jsonl.zst
+2783609,LTA North - Split 2 2025,Round 1,2025-04-05T23:45:00Z,LYON vs Disguised,lol/events_2783609_grid.jsonl.zst
+2782411,LCK - Split 2 2025,Regular Season,2025-04-06T06:00:00Z,KT Rolster vs Dplus KIA,lol/events_2782411_grid.jsonl.zst
+2782412,LCK - Split 2 2025,Regular Season,2025-04-06T08:00:00Z,T1 vs Gen.G Esports,lol/events_2782412_grid.jsonl.zst
+2781249,LEC - Spring 2025,Regular Season,2025-04-06T15:00:00Z,SK Gaming vs Shifters,lol/events_2781249_grid.jsonl.zst
+2783950,LTA South - Split 2 2025,Round 1,2025-04-06T16:00:00Z,FURIA vs Isurus,lol/events_2783950_grid.jsonl.zst
+2781250,LEC - Spring 2025,Regular Season,2025-04-06T17:00:00Z,Fnatic vs Karmine Corp,lol/events_2781250_grid.jsonl.zst
+2783951,LTA South - Split 2 2025,Round 1,2025-04-06T17:00:00Z,Vivo Keyd Stars vs RED Kalunga,lol/events_2783951_grid.jsonl.zst
+2783952,LTA South - Split 2 2025,Round 1,2025-04-06T18:00:00Z,Fluxo W7M vs LEVIATÁN,lol/events_2783952_grid.jsonl.zst
+2783953,LTA South - Split 2 2025,Round 1,2025-04-06T19:00:00Z,LOUD vs Pain Gaming,lol/events_2783953_grid.jsonl.zst
+2783610,LTA North - Split 2 2025,Round 1,2025-04-06T20:00:00Z,Cloud9 Kia vs Shopify Rebellion,lol/events_2783610_grid.jsonl.zst
+2783611,LTA North - Split 2 2025,Round 1,2025-04-06T21:00:00Z,Team Liquid Alienware vs 100 Thieves,lol/events_2783611_grid.jsonl.zst
+2783612,LTA North - Split 2 2025,Round 1,2025-04-06T22:00:00Z,FlyQuest vs Disguised,lol/events_2783612_grid.jsonl.zst
+2783613,LTA North - Split 2 2025,Round 1,2025-04-06T23:00:00Z,Dignitas vs LYON,lol/events_2783613_grid.jsonl.zst
+2781251,LEC - Spring 2025,Regular Season,2025-04-07T15:00:00Z,Rogue vs GIANTX,lol/events_2781251_grid.jsonl.zst
+2781252,LEC - Spring 2025,Regular Season,2025-04-07T17:00:00Z,Team Heretics vs Movistar KOI,lol/events_2781252_grid.jsonl.zst
+2782413,LCK - Split 2 2025,Regular Season,2025-04-09T08:00:00Z,DN SOOPers vs Hanwha Life Esports,lol/events_2782413_grid.jsonl.zst
+2782414,LCK - Split 2 2025,Regular Season,2025-04-09T10:00:00Z,Dplus KIA vs HANJIN BRION,lol/events_2782414_grid.jsonl.zst
+2782415,LCK - Split 2 2025,Regular Season,2025-04-10T08:00:00Z,BNK FearX vs KIWOOM DRX,lol/events_2782415_grid.jsonl.zst
+2782416,LCK - Split 2 2025,Regular Season,2025-04-10T10:30:00Z,T1 vs KT Rolster,lol/events_2782416_grid.jsonl.zst
+2782417,LCK - Split 2 2025,Regular Season,2025-04-11T08:00:00Z,HANJIN BRION vs DN SOOPers,lol/events_2782417_grid.jsonl.zst
+2782418,LCK - Split 2 2025,Regular Season,2025-04-11T11:00:00Z,Gen.G Esports vs NONGSHIM RED FORCE,lol/events_2782418_grid.jsonl.zst
+2782419,LCK - Split 2 2025,Regular Season,2025-04-12T06:00:00Z,Hanwha Life Esports vs T1,lol/events_2782419_grid.jsonl.zst
+2782420,LCK - Split 2 2025,Regular Season,2025-04-12T08:00:00Z,KT Rolster vs BNK FearX,lol/events_2782420_grid.jsonl.zst
+2781253,LEC - Spring 2025,Regular Season,2025-04-12T12:00:00Z,Shifters vs Team Heretics,lol/events_2781253_grid.jsonl.zst
+2781254,LEC - Spring 2025,Regular Season,2025-04-12T14:00:00Z,G2 Esports vs Rogue,lol/events_2781254_grid.jsonl.zst
+2781255,LEC - Spring 2025,Regular Season,2025-04-12T16:00:00Z,SK Gaming vs Karmine Corp,lol/events_2781255_grid.jsonl.zst
+2783954,LTA South - Split 2 2025,Round 1,2025-04-12T16:00:00Z,LOUD vs Vivo Keyd Stars,lol/events_2783954_grid.jsonl.zst
+2783956,LTA South - Split 2 2025,Round 1,2025-04-12T17:00:00Z,Isurus vs Fluxo W7M,lol/events_2783956_grid.jsonl.zst
+2783957,LTA South - Split 2 2025,Round 1,2025-04-12T18:00:00Z,RED Kalunga vs LEVIATÁN,lol/events_2783957_grid.jsonl.zst
+2783958,LTA South - Split 2 2025,Round 1,2025-04-12T19:00:00Z,Pain Gaming vs FURIA,lol/events_2783958_grid.jsonl.zst
+2784448,LTA North - Split 2 2025,Round 1,2025-04-12T20:00:00Z,Disguised vs Cloud9 Kia,lol/events_2784448_grid.jsonl.zst
+2784449,LTA North - Split 2 2025,Round 1,2025-04-12T21:00:00Z,100 Thieves vs FlyQuest,lol/events_2784449_grid.jsonl.zst
+2784450,LTA North - Split 2 2025,Round 1,2025-04-12T22:00:00Z,Dignitas vs Team Liquid Alienware,lol/events_2784450_grid.jsonl.zst
+2784451,LTA North - Split 2 2025,Round 1,2025-04-12T23:00:00Z,Shopify Rebellion vs LYON,lol/events_2784451_grid.jsonl.zst
+2782421,LCK - Split 2 2025,Regular Season,2025-04-13T06:00:00Z,Dplus KIA vs Gen.G Esports,lol/events_2782421_grid.jsonl.zst
+2782422,LCK - Split 2 2025,Regular Season,2025-04-13T08:00:00Z,NONGSHIM RED FORCE vs KIWOOM DRX,lol/events_2782422_grid.jsonl.zst
+2781256,LEC - Spring 2025,Regular Season,2025-04-13T15:00:00Z,Team Vitality vs Fnatic,lol/events_2781256_grid.jsonl.zst
+2783959,LTA South - Split 2 2025,Round 1,2025-04-13T16:00:00Z,LEVIATÁN vs LOUD,lol/events_2783959_grid.jsonl.zst
+2781257,LEC - Spring 2025,Regular Season,2025-04-13T17:00:00Z,Movistar KOI vs Shifters,lol/events_2781257_grid.jsonl.zst
+2783960,LTA South - Split 2 2025,Round 1,2025-04-13T17:00:00Z,Vivo Keyd Stars vs Isurus,lol/events_2783960_grid.jsonl.zst
+2783961,LTA South - Split 2 2025,Round 1,2025-04-13T18:00:00Z,RED Kalunga vs Pain Gaming,lol/events_2783961_grid.jsonl.zst
+2783962,LTA South - Split 2 2025,Round 1,2025-04-13T19:00:00Z,Fluxo W7M vs FURIA,lol/events_2783962_grid.jsonl.zst
+2784452,LTA North - Split 2 2025,Round 1,2025-04-13T20:00:00Z,100 Thieves vs Disguised,lol/events_2784452_grid.jsonl.zst
+2784453,LTA North - Split 2 2025,Round 1,2025-04-13T21:00:00Z,FlyQuest vs Shopify Rebellion,lol/events_2784453_grid.jsonl.zst
+2784454,LTA North - Split 2 2025,Round 1,2025-04-13T22:00:00Z,Team Liquid Alienware vs LYON,lol/events_2784454_grid.jsonl.zst
+2784455,LTA North - Split 2 2025,Round 1,2025-04-13T23:00:00Z,Cloud9 Kia vs Dignitas,lol/events_2784455_grid.jsonl.zst
+2781258,LEC - Spring 2025,Regular Season,2025-04-14T15:00:00Z,GIANTX vs SK Gaming,lol/events_2781258_grid.jsonl.zst
+2781259,LEC - Spring 2025,Regular Season,2025-04-14T17:00:00Z,Team Heretics vs Karmine Corp,lol/events_2781259_grid.jsonl.zst
+2782424,LCK - Split 2 2025,Regular Season,2025-04-16T08:00:00Z,T1 vs NONGSHIM RED FORCE,lol/events_2782424_grid.jsonl.zst
+2782425,LCK - Split 2 2025,Regular Season,2025-04-16T10:45:00Z,BNK FearX vs Gen.G Esports,lol/events_2782425_grid.jsonl.zst
+2782426,LCK - Split 2 2025,Regular Season,2025-04-17T08:00:00Z,KIWOOM DRX vs Hanwha Life Esports,lol/events_2782426_grid.jsonl.zst
+2782427,LCK - Split 2 2025,Regular Season,2025-04-17T10:00:00Z,HANJIN BRION vs KT Rolster,lol/events_2782427_grid.jsonl.zst
+2782428,LCK - Split 2 2025,Regular Season,2025-04-18T08:00:00Z,BNK FearX vs T1,lol/events_2782428_grid.jsonl.zst
+2782429,LCK - Split 2 2025,Regular Season,2025-04-18T10:00:00Z,DN SOOPers vs Dplus KIA,lol/events_2782429_grid.jsonl.zst
+2782430,LCK - Split 2 2025,Regular Season,2025-04-19T06:00:00Z,Gen.G Esports vs HANJIN BRION,lol/events_2782430_grid.jsonl.zst
+2782431,LCK - Split 2 2025,Regular Season,2025-04-19T08:00:00Z,NONGSHIM RED FORCE vs Hanwha Life Esports,lol/events_2782431_grid.jsonl.zst
+2781260,LEC - Spring 2025,Regular Season,2025-04-19T15:00:00Z,Fnatic vs Rogue,lol/events_2781260_grid.jsonl.zst
+2783963,LTA South - Split 2 2025,Round 1,2025-04-19T16:00:00Z,FURIA vs RED Kalunga,lol/events_2783963_grid.jsonl.zst
+2781261,LEC - Spring 2025,Regular Season,2025-04-19T17:00:00Z,GIANTX vs Karmine Corp,lol/events_2781261_grid.jsonl.zst
+2783964,LTA South - Split 2 2025,Round 1,2025-04-19T17:00:00Z,Fluxo W7M vs Pain Gaming,lol/events_2783964_grid.jsonl.zst
+2783965,LTA South - Split 2 2025,Round 1,2025-04-19T18:00:00Z,Vivo Keyd Stars vs LEVIATÁN,lol/events_2783965_grid.jsonl.zst
+2783966,LTA South - Split 2 2025,Round 1,2025-04-19T19:00:00Z,Isurus vs LOUD,lol/events_2783966_grid.jsonl.zst
+2784464,LTA North - Split 2 2025,Round 1,2025-04-19T20:00:00Z,FlyQuest vs LYON,lol/events_2784464_grid.jsonl.zst
+2784465,LTA North - Split 2 2025,Round 1,2025-04-19T21:00:00Z,Cloud9 Kia vs Team Liquid Alienware,lol/events_2784465_grid.jsonl.zst
+2784466,LTA North - Split 2 2025,Round 1,2025-04-19T22:00:00Z,Dignitas vs 100 Thieves,lol/events_2784466_grid.jsonl.zst
+2784467,LTA North - Split 2 2025,Round 1,2025-04-19T23:00:00Z,Shopify Rebellion vs Disguised,lol/events_2784467_grid.jsonl.zst
+2782432,LCK - Split 2 2025,Regular Season,2025-04-20T06:00:00Z,Dplus KIA vs KIWOOM DRX,lol/events_2782432_grid.jsonl.zst
+2782433,LCK - Split 2 2025,Regular Season,2025-04-20T08:00:00Z,KT Rolster vs DN SOOPers,lol/events_2782433_grid.jsonl.zst
+2781262,LEC - Spring 2025,Regular Season,2025-04-20T15:00:00Z,Team Heretics vs Team Vitality,lol/events_2781262_grid.jsonl.zst
+2783967,LTA South - Split 2 2025,Round 1,2025-04-20T16:00:00Z,Pain Gaming vs LEVIATÁN,lol/events_2783967_grid.jsonl.zst
+2781263,LEC - Spring 2025,Regular Season,2025-04-20T17:00:00Z,G2 Esports vs Shifters,lol/events_2781263_grid.jsonl.zst
+2783968,LTA South - Split 2 2025,Round 1,2025-04-20T17:00:00Z,LOUD vs Fluxo W7M,lol/events_2783968_grid.jsonl.zst
+2783969,LTA South - Split 2 2025,Round 1,2025-04-20T18:00:00Z,Isurus vs RED Kalunga,lol/events_2783969_grid.jsonl.zst
+2783970,LTA South - Split 2 2025,Round 1,2025-04-20T19:00:00Z,FURIA vs Vivo Keyd Stars,lol/events_2783970_grid.jsonl.zst
+2784469,LTA North - Split 2 2025,Round 1,2025-04-20T20:00:00Z,LYON vs 100 Thieves,lol/events_2784469_grid.jsonl.zst
+2784470,LTA North - Split 2 2025,Round 1,2025-04-20T21:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2784470_grid.jsonl.zst
+2784471,LTA North - Split 2 2025,Round 1,2025-04-20T22:00:00Z,Team Liquid Alienware vs Shopify Rebellion,lol/events_2784471_grid.jsonl.zst
+2784472,LTA North - Split 2 2025,Round 1,2025-04-20T23:00:00Z,Disguised vs Dignitas,lol/events_2784472_grid.jsonl.zst
+2781264,LEC - Spring 2025,Regular Season,2025-04-21T15:00:00Z,SK Gaming vs Rogue,lol/events_2781264_grid.jsonl.zst
+2783971,LTA South - Split 2 2025,Round 1,2025-04-21T16:00:00Z,RED Kalunga vs Fluxo W7M,lol/events_2783971_grid.jsonl.zst
+2781265,LEC - Spring 2025,Regular Season,2025-04-21T17:00:00Z,Movistar KOI vs Team Vitality,lol/events_2781265_grid.jsonl.zst
+2783972,LTA South - Split 2 2025,Round 1,2025-04-21T17:00:00Z,Vivo Keyd Stars vs Pain Gaming,lol/events_2783972_grid.jsonl.zst
+2783973,LTA South - Split 2 2025,Round 1,2025-04-21T18:00:00Z,LOUD vs FURIA,lol/events_2783973_grid.jsonl.zst
+2783974,LTA South - Split 2 2025,Round 1,2025-04-21T19:00:00Z,LEVIATÁN vs Isurus,lol/events_2783974_grid.jsonl.zst
+2784473,LTA North - Split 2 2025,Round 1,2025-04-21T20:00:00Z,FlyQuest vs Dignitas,lol/events_2784473_grid.jsonl.zst
+2784474,LTA North - Split 2 2025,Round 1,2025-04-21T21:00:00Z,LYON vs Cloud9 Kia,lol/events_2784474_grid.jsonl.zst
+2784475,LTA North - Split 2 2025,Round 1,2025-04-21T22:00:00Z,Disguised vs Team Liquid Alienware,lol/events_2784475_grid.jsonl.zst
+2784476,LTA North - Split 2 2025,Round 1,2025-04-21T23:00:00Z,100 Thieves vs Shopify Rebellion,lol/events_2784476_grid.jsonl.zst
+2782434,LCK - Split 2 2025,Regular Season,2025-04-23T08:00:00Z,KIWOOM DRX vs KT Rolster,lol/events_2782434_grid.jsonl.zst
+2782435,LCK - Split 2 2025,Regular Season,2025-04-23T10:00:00Z,NONGSHIM RED FORCE vs BNK FearX,lol/events_2782435_grid.jsonl.zst
+2782436,LCK - Split 2 2025,Regular Season,2025-04-24T08:00:00Z,Gen.G Esports vs DN SOOPers,lol/events_2782436_grid.jsonl.zst
+2782437,LCK - Split 2 2025,Regular Season,2025-04-24T10:00:00Z,Hanwha Life Esports vs HANJIN BRION,lol/events_2782437_grid.jsonl.zst
+2782438,LCK - Split 2 2025,Regular Season,2025-04-25T08:00:00Z,KT Rolster vs NONGSHIM RED FORCE,lol/events_2782438_grid.jsonl.zst
+2782439,LCK - Split 2 2025,Regular Season,2025-04-25T10:00:00Z,T1 vs Dplus KIA,lol/events_2782439_grid.jsonl.zst
+2782440,LCK - Split 2 2025,Regular Season,2025-04-26T06:00:00Z,DN SOOPers vs BNK FearX,lol/events_2782440_grid.jsonl.zst
+2782441,LCK - Split 2 2025,Regular Season,2025-04-26T08:50:00Z,KIWOOM DRX vs Gen.G Esports,lol/events_2782441_grid.jsonl.zst
+2781290,LEC - Spring 2025,Regular Season,2025-04-26T13:00:00Z,G2 Esports vs GIANTX,lol/events_2781290_grid.jsonl.zst
+2781266,LEC - Spring 2025,Regular Season,2025-04-26T15:00:00Z,Movistar KOI vs Fnatic,lol/events_2781266_grid.jsonl.zst
+2796135,LTA South - Split 2 2025,Round 2,2025-04-26T15:00:00Z,Pain Gaming vs LEVIATÁN,lol/events_2796135_grid.jsonl.zst
+2796136,LTA South - Split 2 2025,Round 2,2025-04-26T18:00:00Z,Vivo Keyd Stars vs Isurus,lol/events_2796136_grid.jsonl.zst
+2796169,LTA North - Split 2 2025,Round 2,2025-04-26T20:00:00Z,FlyQuest vs 100 Thieves,lol/events_2796169_grid.jsonl.zst
+2796170,LTA North - Split 2 2025,Round 2,2025-04-26T23:00:00Z,Team Liquid Alienware vs LYON,lol/events_2796170_grid.jsonl.zst
+2782442,LCK - Split 2 2025,Regular Season,2025-04-27T06:00:00Z,HANJIN BRION vs T1,lol/events_2782442_grid.jsonl.zst
+2782443,LCK - Split 2 2025,Regular Season,2025-04-27T09:15:00Z,Dplus KIA vs Hanwha Life Esports,lol/events_2782443_grid.jsonl.zst
+2781267,LEC - Spring 2025,Regular Season,2025-04-27T13:00:00Z,G2 Esports vs Fnatic,lol/events_2781267_grid.jsonl.zst
+2781268,LEC - Spring 2025,Regular Season,2025-04-27T15:00:00Z,Movistar KOI vs GIANTX,lol/events_2781268_grid.jsonl.zst
+2796137,LTA South - Split 2 2025,Round 2,2025-04-27T15:00:00Z,RED Kalunga vs Fluxo W7M,lol/events_2796137_grid.jsonl.zst
+2796138,LTA South - Split 2 2025,Round 2,2025-04-27T18:00:00Z,FURIA vs LOUD,lol/events_2796138_grid.jsonl.zst
+2796171,LTA North - Split 2 2025,Round 2,2025-04-27T20:00:00Z,Disguised vs Cloud9 Kia,lol/events_2796171_grid.jsonl.zst
+2796172,LTA North - Split 2 2025,Round 2,2025-04-27T23:00:00Z,Shopify Rebellion vs Dignitas,lol/events_2796172_grid.jsonl.zst
+2781269,LEC - Spring 2025,Regular Season,2025-04-28T15:00:00Z,Team Heretics vs SK Gaming,lol/events_2781269_grid.jsonl.zst
+2781270,LEC - Spring 2025,Regular Season,2025-04-28T17:00:00Z,Team Vitality vs Shifters,lol/events_2781270_grid.jsonl.zst
+2782444,LCK - Split 2 2025,Regular Season,2025-04-30T08:00:00Z,NONGSHIM RED FORCE vs Dplus KIA,lol/events_2782444_grid.jsonl.zst
+2782445,LCK - Split 2 2025,Regular Season,2025-04-30T11:00:00Z,BNK FearX vs Hanwha Life Esports,lol/events_2782445_grid.jsonl.zst
+2782446,LCK - Split 2 2025,Regular Season,2025-05-01T08:00:00Z,Gen.G Esports vs KT Rolster,lol/events_2782446_grid.jsonl.zst
+2782447,LCK - Split 2 2025,Regular Season,2025-05-01T10:00:00Z,HANJIN BRION vs KIWOOM DRX,lol/events_2782447_grid.jsonl.zst
+2782448,LCK - Split 2 2025,Regular Season,2025-05-02T08:00:00Z,T1 vs DN SOOPers,lol/events_2782448_grid.jsonl.zst
+2782449,LCK - Split 2 2025,Regular Season,2025-05-02T10:00:00Z,Hanwha Life Esports vs NONGSHIM RED FORCE,lol/events_2782449_grid.jsonl.zst
+2782450,LCK - Split 2 2025,Regular Season,2025-05-03T06:00:00Z,Gen.G Esports vs Dplus KIA,lol/events_2782450_grid.jsonl.zst
+2782451,LCK - Split 2 2025,Regular Season,2025-05-03T08:00:00Z,KIWOOM DRX vs BNK FearX,lol/events_2782451_grid.jsonl.zst
+2781271,LEC - Spring 2025,Regular Season,2025-05-03T15:00:00Z,Fnatic vs Shifters,lol/events_2781271_grid.jsonl.zst
+2796139,LTA South - Split 2 2025,Round 2,2025-05-03T15:00:00Z,LOUD vs Fluxo W7M,lol/events_2796139_grid.jsonl.zst
+2781272,LEC - Spring 2025,Regular Season,2025-05-03T17:00:00Z,Karmine Corp vs Rogue,lol/events_2781272_grid.jsonl.zst
+2796140,LTA South - Split 2 2025,Round 2,2025-05-03T18:00:00Z,FURIA vs RED Kalunga,lol/events_2796140_grid.jsonl.zst
+2796176,LTA North - Split 2 2025,Round 2,2025-05-03T20:00:00Z,Shopify Rebellion vs FlyQuest,lol/events_2796176_grid.jsonl.zst
+2796177,LTA North - Split 2 2025,Round 2,2025-05-03T23:00:00Z,Team Liquid Alienware vs Disguised,lol/events_2796177_grid.jsonl.zst
+2782452,LCK - Split 2 2025,Regular Season,2025-05-04T06:00:00Z,KT Rolster vs T1,lol/events_2782452_grid.jsonl.zst
+2782453,LCK - Split 2 2025,Regular Season,2025-05-04T08:00:00Z,DN SOOPers vs HANJIN BRION,lol/events_2782453_grid.jsonl.zst
+2781273,LEC - Spring 2025,Regular Season,2025-05-04T15:00:00Z,GIANTX vs Shifters,lol/events_2781273_grid.jsonl.zst
+2796141,LTA South - Split 2 2025,Round 2,2025-05-04T15:00:00Z,Pain Gaming vs Vivo Keyd Stars,lol/events_2796141_grid.jsonl.zst
+2781274,LEC - Spring 2025,Regular Season,2025-05-04T17:00:00Z,G2 Esports vs Team Vitality,lol/events_2781274_grid.jsonl.zst
+2796142,LTA South - Split 2 2025,Round 2,2025-05-04T18:00:00Z,LEVIATÁN vs Isurus,lol/events_2796142_grid.jsonl.zst
+2796179,LTA North - Split 2 2025,Round 2,2025-05-04T20:00:00Z,100 Thieves vs Dignitas,lol/events_2796179_grid.jsonl.zst
+2796178,LTA North - Split 2 2025,Round 2,2025-05-04T23:00:00Z,LYON vs Cloud9 Kia,lol/events_2796178_grid.jsonl.zst
+2781275,LEC - Spring 2025,Regular Season,2025-05-05T15:00:00Z,Team Heretics vs Fnatic,lol/events_2781275_grid.jsonl.zst
+2781276,LEC - Spring 2025,Regular Season,2025-05-05T17:00:00Z,Movistar KOI vs SK Gaming,lol/events_2781276_grid.jsonl.zst
+2782454,LCK - Split 2 2025,Regular Season,2025-05-07T08:00:00Z,BNK FearX vs HANJIN BRION,lol/events_2782454_grid.jsonl.zst
+2782455,LCK - Split 2 2025,Regular Season,2025-05-07T10:00:00Z,Dplus KIA vs KT Rolster,lol/events_2782455_grid.jsonl.zst
+2782456,LCK - Split 2 2025,Regular Season,2025-05-08T08:00:00Z,T1 vs KIWOOM DRX,lol/events_2782456_grid.jsonl.zst
+2782457,LCK - Split 2 2025,Regular Season,2025-05-08T10:00:00Z,NONGSHIM RED FORCE vs Gen.G Esports,lol/events_2782457_grid.jsonl.zst
+2782458,LCK - Split 2 2025,Regular Season,2025-05-09T08:00:00Z,DN SOOPers vs KT Rolster,lol/events_2782458_grid.jsonl.zst
+2782459,LCK - Split 2 2025,Regular Season,2025-05-09T10:00:00Z,HANJIN BRION vs Hanwha Life Esports,lol/events_2782459_grid.jsonl.zst
+2782460,LCK - Split 2 2025,Regular Season,2025-05-10T06:00:00Z,Dplus KIA vs T1,lol/events_2782460_grid.jsonl.zst
+2782461,LCK - Split 2 2025,Regular Season,2025-05-10T08:00:00Z,Gen.G Esports vs BNK FearX,lol/events_2782461_grid.jsonl.zst
+2781277,LEC - Spring 2025,Regular Season,2025-05-10T15:00:00Z,G2 Esports vs SK Gaming,lol/events_2781277_grid.jsonl.zst
+2796143,LTA South - Split 2 2025,Round 2,2025-05-10T15:00:00Z,Pain Gaming vs Isurus,lol/events_2796143_grid.jsonl.zst
+2796144,LTA South - Split 2 2025,Round 2,2025-05-10T18:00:00Z,LEVIATÁN vs Vivo Keyd Stars,lol/events_2796144_grid.jsonl.zst
+2781278,LEC - Spring 2025,Regular Season,2025-05-10T18:15:00Z,Karmine Corp vs Team Vitality,lol/events_2781278_grid.jsonl.zst
+2796180,LTA North - Split 2 2025,Round 2,2025-05-10T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_2796180_grid.jsonl.zst
+2796181,LTA North - Split 2 2025,Round 2,2025-05-10T23:00:00Z,Shopify Rebellion vs 100 Thieves,lol/events_2796181_grid.jsonl.zst
+2782462,LCK - Split 2 2025,Regular Season,2025-05-11T06:00:00Z,NONGSHIM RED FORCE vs DN SOOPers,lol/events_2782462_grid.jsonl.zst
+2782463,LCK - Split 2 2025,Regular Season,2025-05-11T08:00:00Z,Hanwha Life Esports vs KIWOOM DRX,lol/events_2782463_grid.jsonl.zst
+2781279,LEC - Spring 2025,Regular Season,2025-05-11T15:00:00Z,Team Vitality vs SK Gaming,lol/events_2781279_grid.jsonl.zst
+2796145,LTA South - Split 2 2025,Round 2,2025-05-11T15:00:00Z,FURIA vs Fluxo W7M,lol/events_2796145_grid.jsonl.zst
+2781280,LEC - Spring 2025,Regular Season,2025-05-11T17:00:00Z,Karmine Corp vs G2 Esports,lol/events_2781280_grid.jsonl.zst
+2796146,LTA South - Split 2 2025,Round 2,2025-05-11T18:00:00Z,LOUD vs RED Kalunga,lol/events_2796146_grid.jsonl.zst
+2796182,LTA North - Split 2 2025,Round 2,2025-05-11T20:00:00Z,FlyQuest vs Dignitas,lol/events_2796182_grid.jsonl.zst
+2796183,LTA North - Split 2 2025,Round 2,2025-05-11T23:00:00Z,Disguised vs LYON,lol/events_2796183_grid.jsonl.zst
+2781281,LEC - Spring 2025,Regular Season,2025-05-12T15:00:00Z,Team Heretics vs GIANTX,lol/events_2781281_grid.jsonl.zst
+2781282,LEC - Spring 2025,Regular Season,2025-05-12T17:00:00Z,Movistar KOI vs Rogue,lol/events_2781282_grid.jsonl.zst
+2805212,LEC - Spring 2025,Regular Season,2025-05-13T18:00:00Z,Team Heretics vs Team Vitality,lol/events_2805212_grid.jsonl.zst
+2782464,LCK - Split 2 2025,Regular Season,2025-05-14T08:00:00Z,BNK FearX vs NONGSHIM RED FORCE,lol/events_2782464_grid.jsonl.zst
+2782465,LCK - Split 2 2025,Regular Season,2025-05-14T10:50:00Z,KIWOOM DRX vs Dplus KIA,lol/events_2782465_grid.jsonl.zst
+2782466,LCK - Split 2 2025,Regular Season,2025-05-15T08:00:00Z,KT Rolster vs Hanwha Life Esports,lol/events_2782466_grid.jsonl.zst
+2782467,LCK - Split 2 2025,Regular Season,2025-05-15T11:15:00Z,T1 vs HANJIN BRION,lol/events_2782467_grid.jsonl.zst
+2782468,LCK - Split 2 2025,Regular Season,2025-05-16T08:00:00Z,Dplus KIA vs BNK FearX,lol/events_2782468_grid.jsonl.zst
+2782469,LCK - Split 2 2025,Regular Season,2025-05-16T10:00:00Z,DN SOOPers vs Gen.G Esports,lol/events_2782469_grid.jsonl.zst
+2782470,LCK - Split 2 2025,Regular Season,2025-05-17T06:00:00Z,KIWOOM DRX vs NONGSHIM RED FORCE,lol/events_2782470_grid.jsonl.zst
+2782471,LCK - Split 2 2025,Regular Season,2025-05-17T08:45:00Z,KT Rolster vs HANJIN BRION,lol/events_2782471_grid.jsonl.zst
+2796147,LTA South - Split 2 2025,Round 3,2025-05-17T15:00:00Z,Pain Gaming vs FURIA,lol/events_2796147_grid.jsonl.zst
+2796149,LTA South - Split 2 2025,Round 3,2025-05-17T18:00:00Z,Isurus vs Fluxo W7M,lol/events_2796149_grid.jsonl.zst
+2796184,LTA North - Split 2 2025,Round 3,2025-05-17T20:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2796184_grid.jsonl.zst
+2796186,LTA North - Split 2 2025,Round 3,2025-05-17T23:00:00Z,LYON vs Dignitas,lol/events_2796186_grid.jsonl.zst
+2782472,LCK - Split 2 2025,Regular Season,2025-05-18T06:00:00Z,Hanwha Life Esports vs DN SOOPers,lol/events_2782472_grid.jsonl.zst
+2782473,LCK - Split 2 2025,Regular Season,2025-05-18T08:00:00Z,Gen.G Esports vs T1,lol/events_2782473_grid.jsonl.zst
+2796148,LTA South - Split 2 2025,Round 3,2025-05-18T15:00:00Z,Vivo Keyd Stars vs LOUD,lol/events_2796148_grid.jsonl.zst
+2796150,LTA South - Split 2 2025,Round 3,2025-05-18T18:00:00Z,RED Kalunga vs LEVIATÁN,lol/events_2796150_grid.jsonl.zst
+2796185,LTA North - Split 2 2025,Round 3,2025-05-18T20:00:00Z,Team Liquid Alienware vs Shopify Rebellion,lol/events_2796185_grid.jsonl.zst
+2796187,LTA North - Split 2 2025,Round 3,2025-05-18T23:00:00Z,100 Thieves vs Disguised,lol/events_2796187_grid.jsonl.zst
+2782474,LCK - Split 2 2025,Regular Season,2025-05-21T08:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2782474_grid.jsonl.zst
+2782475,LCK - Split 2 2025,Regular Season,2025-05-21T11:00:00Z,DN SOOPers vs KIWOOM DRX,lol/events_2782475_grid.jsonl.zst
+2782476,LCK - Split 2 2025,Regular Season,2025-05-22T08:00:00Z,HANJIN BRION vs Dplus KIA,lol/events_2782476_grid.jsonl.zst
+2782477,LCK - Split 2 2025,Regular Season,2025-05-22T10:00:00Z,T1 vs BNK FearX,lol/events_2782477_grid.jsonl.zst
+2782478,LCK - Split 2 2025,Regular Season,2025-05-23T08:00:00Z,Gen.G Esports vs KIWOOM DRX,lol/events_2782478_grid.jsonl.zst
+2782479,LCK - Split 2 2025,Regular Season,2025-05-23T10:00:00Z,NONGSHIM RED FORCE vs KT Rolster,lol/events_2782479_grid.jsonl.zst
+2782480,LCK - Split 2 2025,Regular Season,2025-05-24T06:00:00Z,Hanwha Life Esports vs Dplus KIA,lol/events_2782480_grid.jsonl.zst
+2782481,LCK - Split 2 2025,Regular Season,2025-05-24T08:00:00Z,DN SOOPers vs T1,lol/events_2782481_grid.jsonl.zst
+2805671,LEC - Spring 2025,Playoffs,2025-05-24T15:00:00Z,Fnatic vs G2 Esports,lol/events_2805671_grid.jsonl.zst
+2796152,LTA South - Split 2 2025,Playoffs,2025-05-24T16:00:00Z,Pain Gaming vs LOUD,lol/events_2796152_grid.jsonl.zst
+2796212,LTA North - Split 2 2025,Playoffs,2025-05-24T20:00:00Z,Shopify Rebellion vs FlyQuest,lol/events_2796212_grid.jsonl.zst
+2782482,LCK - Split 2 2025,Regular Season,2025-05-25T03:00:00Z,HANJIN BRION vs NONGSHIM RED FORCE,lol/events_2782482_grid.jsonl.zst
+2810218,LCK - Split 2 2025,Regular Season,2025-05-25T07:40:00Z,HANJIN BRION vs NONGSHIM RED FORCE,lol/events_2810218_grid.jsonl.zst
+2782483,LCK - Split 2 2025,Regular Season,2025-05-25T08:00:00Z,BNK FearX vs KT Rolster,lol/events_2782483_grid.jsonl.zst
+2805672,LEC - Spring 2025,Playoffs,2025-05-25T15:00:00Z,Karmine Corp vs Movistar KOI,lol/events_2805672_grid.jsonl.zst
+2796151,LTA South - Split 2 2025,Playoffs,2025-05-25T16:00:00Z,FURIA vs Vivo Keyd Stars,lol/events_2796151_grid.jsonl.zst
+2796211,LTA North - Split 2 2025,Playoffs,2025-05-25T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_2796211_grid.jsonl.zst
+2805673,LEC - Spring 2025,Playoffs,2025-05-26T15:00:00Z,G2 Esports vs Movistar KOI,lol/events_2805673_grid.jsonl.zst
+2782485,LCK - Split 2 2025,Regular Season,2025-05-28T08:00:00Z,BNK FearX vs DN SOOPers,lol/events_2782485_grid.jsonl.zst
+2782486,LCK - Split 2 2025,Regular Season,2025-05-28T11:00:00Z,T1 vs Hanwha Life Esports,lol/events_2782486_grid.jsonl.zst
+2782487,LCK - Split 2 2025,Regular Season,2025-05-29T08:00:00Z,KIWOOM DRX vs HANJIN BRION,lol/events_2782487_grid.jsonl.zst
+2782488,LCK - Split 2 2025,Regular Season,2025-05-29T12:00:00Z,KT Rolster vs Gen.G Esports,lol/events_2782488_grid.jsonl.zst
+2782489,LCK - Split 2 2025,Regular Season,2025-05-30T08:00:00Z,NONGSHIM RED FORCE vs T1,lol/events_2782489_grid.jsonl.zst
+2782490,LCK - Split 2 2025,Regular Season,2025-05-30T10:00:00Z,Dplus KIA vs DN SOOPers,lol/events_2782490_grid.jsonl.zst
+2782491,LCK - Split 2 2025,Regular Season,2025-05-31T06:00:00Z,KT Rolster vs KIWOOM DRX,lol/events_2782491_grid.jsonl.zst
+2782492,LCK - Split 2 2025,Regular Season,2025-05-31T08:00:00Z,HANJIN BRION vs Gen.G Esports,lol/events_2782492_grid.jsonl.zst
+2810850,LEC - Spring 2025,Playoffs,2025-05-31T15:00:00Z,Fnatic vs GIANTX,lol/events_2810850_grid.jsonl.zst
+2796154,LTA South - Split 2 2025,Playoffs,2025-05-31T16:00:00Z,LOUD vs Isurus,lol/events_2796154_grid.jsonl.zst
+2796214,LTA North - Split 2 2025,Playoffs,2025-05-31T20:00:00Z,Team Liquid Alienware vs Dignitas,lol/events_2796214_grid.jsonl.zst
+2782493,LCK - Split 2 2025,Regular Season,2025-06-01T06:00:00Z,Hanwha Life Esports vs BNK FearX,lol/events_2782493_grid.jsonl.zst
+2782494,LCK - Split 2 2025,Regular Season,2025-06-01T08:00:00Z,Dplus KIA vs NONGSHIM RED FORCE,lol/events_2782494_grid.jsonl.zst
+2810851,LEC - Spring 2025,Playoffs,2025-06-01T15:00:00Z,Karmine Corp vs Team Heretics,lol/events_2810851_grid.jsonl.zst
+2796153,LTA South - Split 2 2025,Playoffs,2025-06-01T16:00:00Z,Vivo Keyd Stars vs RED Kalunga,lol/events_2796153_grid.jsonl.zst
+2796215,LTA North - Split 2 2025,Playoffs,2025-06-01T20:00:00Z,Shopify Rebellion vs 100 Thieves,lol/events_2796215_grid.jsonl.zst
+2810964,LEC - Spring 2025,Playoffs,2025-06-02T15:00:00Z,Fnatic vs Karmine Corp,lol/events_2810964_grid.jsonl.zst
+2812787,LCK - Split 2 2025,Regular Season,2025-06-04T08:00:00Z,Dplus KIA vs KT Rolster,lol/events_2812787_grid.jsonl.zst
+2814253,LCK - Split 2 2025,Road to MSI,2025-06-07T06:00:00Z,KT Rolster vs Dplus KIA,lol/events_2814253_grid.jsonl.zst
+2810966,LEC - Spring 2025,Playoffs,2025-06-07T15:00:00Z,Movistar KOI vs Karmine Corp,lol/events_2810966_grid.jsonl.zst
+2796155,LTA South - Split 2 2025,Playoffs,2025-06-07T16:00:00Z,Isurus vs Vivo Keyd Stars,lol/events_2796155_grid.jsonl.zst
+2796218,LTA North - Split 2 2025,Playoffs,2025-06-07T20:00:00Z,FlyQuest vs Cloud9 Kia,lol/events_2796218_grid.jsonl.zst
+2782497,LCK - Split 2 2025,Road to MSI,2025-06-08T06:00:00Z,KT Rolster vs NONGSHIM RED FORCE,lol/events_2782497_grid.jsonl.zst
+2810967,LEC - Spring 2025,Playoffs,2025-06-08T15:00:00Z,Movistar KOI vs G2 Esports,lol/events_2810967_grid.jsonl.zst
+2796156,LTA South - Split 2 2025,Playoffs,2025-06-08T16:00:00Z,FURIA vs Pain Gaming,lol/events_2796156_grid.jsonl.zst
+2796217,LTA North - Split 2 2025,Playoffs,2025-06-08T20:00:00Z,Shopify Rebellion vs Team Liquid Alienware,lol/events_2796217_grid.jsonl.zst
+2815720,LCK - Split 2 2025,Road to MSI,2025-06-13T08:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2815720_grid.jsonl.zst
+2782498,LCK - Split 2 2025,Road to MSI,2025-06-14T06:00:00Z,KT Rolster vs T1,lol/events_2782498_grid.jsonl.zst
+2796157,LTA South - Split 2 2025,Playoffs,2025-06-14T16:00:00Z,Isurus vs FURIA,lol/events_2796157_grid.jsonl.zst
+2796220,LTA North - Split 2 2025,Playoffs,2025-06-14T20:00:00Z,Shopify Rebellion vs Cloud9 Kia,lol/events_2796220_grid.jsonl.zst
+2782499,LCK - Split 2 2025,Road to MSI,2025-06-15T06:00:00Z,T1 vs Hanwha Life Esports,lol/events_2782499_grid.jsonl.zst
+2796158,LTA South - Split 2 2025,Playoffs,2025-06-15T16:00:00Z,FURIA vs Pain Gaming,lol/events_2796158_grid.jsonl.zst
+2796222,LTA North - Split 2 2025,Playoffs,2025-06-15T20:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2796222_grid.jsonl.zst
+2820964,LCK - Split 3 2025,Groups,2025-07-23T08:00:00Z,Dplus KIA vs HANJIN BRION,lol/events_2820964_grid.jsonl.zst
+2820965,LCK - Split 3 2025,Groups,2025-07-23T11:10:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2820965_grid.jsonl.zst
+2820966,LCK - Split 3 2025,Groups,2025-07-24T08:00:00Z,DN SOOPers vs BNK FearX,lol/events_2820966_grid.jsonl.zst
+2820967,LCK - Split 3 2025,Groups,2025-07-24T10:00:00Z,KT Rolster vs NONGSHIM RED FORCE,lol/events_2820967_grid.jsonl.zst
+2820968,LCK - Split 3 2025,Groups,2025-07-25T08:00:00Z,T1 vs Gen.G Esports,lol/events_2820968_grid.jsonl.zst
+2820969,LCK - Split 3 2025,Groups,2025-07-25T11:00:00Z,HANJIN BRION vs KIWOOM DRX,lol/events_2820969_grid.jsonl.zst
+2820970,LCK - Split 3 2025,Groups,2025-07-26T06:00:00Z,Dplus KIA vs BNK FearX,lol/events_2820970_grid.jsonl.zst
+2820971,LCK - Split 3 2025,Groups,2025-07-26T08:00:00Z,Hanwha Life Esports vs KT Rolster,lol/events_2820971_grid.jsonl.zst
+2825076,LTA South - Split 3 2025,Round 1,2025-07-26T15:00:00Z,FURIA vs Fluxo W7M,lol/events_2825076_grid.jsonl.zst
+2825077,LTA South - Split 3 2025,Round 1,2025-07-26T18:00:00Z,Pain Gaming vs LEVIATÁN,lol/events_2825077_grid.jsonl.zst
+2825026,LTA North - Split 3 2025,Round 1,2025-07-26T20:00:00Z,FlyQuest vs Disguised,lol/events_2825026_grid.jsonl.zst
+2825027,LTA North - Split 3 2025,Round 1,2025-07-26T23:00:00Z,Cloud9 Kia vs LYON,lol/events_2825027_grid.jsonl.zst
+2820972,LCK - Split 3 2025,Groups,2025-07-27T06:00:00Z,DN SOOPers vs KIWOOM DRX,lol/events_2820972_grid.jsonl.zst
+2820973,LCK - Split 3 2025,Groups,2025-07-27T09:00:00Z,T1 vs NONGSHIM RED FORCE,lol/events_2820973_grid.jsonl.zst
+2825078,LTA South - Split 3 2025,Round 1,2025-07-27T15:00:00Z,Isurus vs RED Kalunga,lol/events_2825078_grid.jsonl.zst
+2825079,LTA South - Split 3 2025,Round 1,2025-07-27T18:00:00Z,Vivo Keyd Stars vs LOUD,lol/events_2825079_grid.jsonl.zst
+2825029,LTA North - Split 3 2025,Round 1,2025-07-27T20:00:00Z,Team Liquid Alienware vs 100 Thieves,lol/events_2825029_grid.jsonl.zst
+2825030,LTA North - Split 3 2025,Round 1,2025-07-27T23:00:00Z,Shopify Rebellion vs Dignitas,lol/events_2825030_grid.jsonl.zst
+2820974,LCK - Split 3 2025,Groups,2025-07-30T08:00:00Z,KIWOOM DRX vs Dplus KIA,lol/events_2820974_grid.jsonl.zst
+2820975,LCK - Split 3 2025,Groups,2025-07-30T11:30:00Z,KT Rolster vs T1,lol/events_2820975_grid.jsonl.zst
+2820976,LCK - Split 3 2025,Groups,2025-07-31T08:00:00Z,BNK FearX vs HANJIN BRION,lol/events_2820976_grid.jsonl.zst
+2820977,LCK - Split 3 2025,Groups,2025-07-31T10:00:00Z,NONGSHIM RED FORCE vs Hanwha Life Esports,lol/events_2820977_grid.jsonl.zst
+2820978,LCK - Split 3 2025,Groups,2025-08-01T08:00:00Z,Gen.G Esports vs KT Rolster,lol/events_2820978_grid.jsonl.zst
+2820979,LCK - Split 3 2025,Groups,2025-08-01T10:00:00Z,Dplus KIA vs DN SOOPers,lol/events_2820979_grid.jsonl.zst
+2820980,LCK - Split 3 2025,Groups,2025-08-02T06:00:00Z,T1 vs Hanwha Life Esports,lol/events_2820980_grid.jsonl.zst
+2820981,LCK - Split 3 2025,Groups,2025-08-02T08:00:00Z,BNK FearX vs KIWOOM DRX,lol/events_2820981_grid.jsonl.zst
+2825086,LTA South - Split 3 2025,Round 1,2025-08-02T15:00:00Z,FURIA vs Pain Gaming,lol/events_2825086_grid.jsonl.zst
+2833763,LEC - Summer 2025,Groups,2025-08-02T15:00:00Z,Natus Vincere vs Karmine Corp,lol/events_2833763_grid.jsonl.zst
+2833764,LEC - Summer 2025,Groups,2025-08-02T17:00:00Z,Team Heretics vs Fnatic,lol/events_2833764_grid.jsonl.zst
+2825087,LTA South - Split 3 2025,Round 1,2025-08-02T18:00:00Z,Fluxo W7M vs Isurus,lol/events_2825087_grid.jsonl.zst
+2825032,LTA North - Split 3 2025,Round 1,2025-08-02T20:00:00Z,100 Thieves vs FlyQuest,lol/events_2825032_grid.jsonl.zst
+2825033,LTA North - Split 3 2025,Round 1,2025-08-02T23:00:00Z,LYON vs Team Liquid Alienware,lol/events_2825033_grid.jsonl.zst
+2820982,LCK - Split 3 2025,Groups,2025-08-03T06:00:00Z,DN SOOPers vs HANJIN BRION,lol/events_2820982_grid.jsonl.zst
+2820983,LCK - Split 3 2025,Groups,2025-08-03T08:00:00Z,NONGSHIM RED FORCE vs Gen.G Esports,lol/events_2820983_grid.jsonl.zst
+2825088,LTA South - Split 3 2025,Round 1,2025-08-03T15:00:00Z,LEVIATÁN vs Vivo Keyd Stars,lol/events_2825088_grid.jsonl.zst
+2833765,LEC - Summer 2025,Groups,2025-08-03T15:00:00Z,Shifters vs SK Gaming,lol/events_2833765_grid.jsonl.zst
+2833766,LEC - Summer 2025,Groups,2025-08-03T17:00:00Z,GIANTX vs Karmine Corp,lol/events_2833766_grid.jsonl.zst
+2825089,LTA South - Split 3 2025,Round 1,2025-08-03T18:00:00Z,LOUD vs RED Kalunga,lol/events_2825089_grid.jsonl.zst
+2825034,LTA North - Split 3 2025,Round 1,2025-08-03T20:00:00Z,Dignitas vs Cloud9 Kia,lol/events_2825034_grid.jsonl.zst
+2825035,LTA North - Split 3 2025,Round 1,2025-08-03T23:00:00Z,Disguised vs Shopify Rebellion,lol/events_2825035_grid.jsonl.zst
+2833767,LEC - Summer 2025,Groups,2025-08-04T15:00:00Z,SK Gaming vs Fnatic,lol/events_2833767_grid.jsonl.zst
+2833768,LEC - Summer 2025,Groups,2025-08-04T17:00:00Z,GIANTX vs Team Vitality,lol/events_2833768_grid.jsonl.zst
+2820984,LCK - Split 3 2025,Groups,2025-08-06T08:00:00Z,Hanwha Life Esports vs NONGSHIM RED FORCE,lol/events_2820984_grid.jsonl.zst
+2820985,LCK - Split 3 2025,Groups,2025-08-06T10:00:00Z,HANJIN BRION vs BNK FearX,lol/events_2820985_grid.jsonl.zst
+2820986,LCK - Split 3 2025,Groups,2025-08-07T08:00:00Z,KIWOOM DRX vs DN SOOPers,lol/events_2820986_grid.jsonl.zst
+2820987,LCK - Split 3 2025,Groups,2025-08-07T11:15:00Z,Gen.G Esports vs T1,lol/events_2820987_grid.jsonl.zst
+2820988,LCK - Split 3 2025,Groups,2025-08-08T08:00:00Z,BNK FearX vs Dplus KIA,lol/events_2820988_grid.jsonl.zst
+2820989,LCK - Split 3 2025,Groups,2025-08-08T10:00:00Z,KT Rolster vs Hanwha Life Esports,lol/events_2820989_grid.jsonl.zst
+2820990,LCK - Split 3 2025,Groups,2025-08-09T06:00:00Z,KIWOOM DRX vs HANJIN BRION,lol/events_2820990_grid.jsonl.zst
+2820991,LCK - Split 3 2025,Groups,2025-08-09T09:00:00Z,NONGSHIM RED FORCE vs T1,lol/events_2820991_grid.jsonl.zst
+2825095,LTA South - Split 3 2025,Round 1,2025-08-09T15:00:00Z,FURIA vs Vivo Keyd Stars,lol/events_2825095_grid.jsonl.zst
+2833771,LEC - Summer 2025,Groups,2025-08-09T15:00:00Z,G2 Esports vs Team Heretics,lol/events_2833771_grid.jsonl.zst
+2833772,LEC - Summer 2025,Groups,2025-08-09T17:00:00Z,Movistar KOI vs GIANTX,lol/events_2833772_grid.jsonl.zst
+2825096,LTA South - Split 3 2025,Round 1,2025-08-09T18:00:00Z,LOUD vs Isurus,lol/events_2825096_grid.jsonl.zst
+2825036,LTA North - Split 3 2025,Round 1,2025-08-09T20:00:00Z,Shopify Rebellion vs 100 Thieves,lol/events_2825036_grid.jsonl.zst
+2825037,LTA North - Split 3 2025,Round 1,2025-08-09T23:00:00Z,FlyQuest vs LYON,lol/events_2825037_grid.jsonl.zst
+2820992,LCK - Split 3 2025,Groups,2025-08-10T06:00:00Z,KT Rolster vs Gen.G Esports,lol/events_2820992_grid.jsonl.zst
+2820993,LCK - Split 3 2025,Groups,2025-08-10T08:00:00Z,DN SOOPers vs Dplus KIA,lol/events_2820993_grid.jsonl.zst
+2825097,LTA South - Split 3 2025,Round 1,2025-08-10T15:00:00Z,LEVIATÁN vs Fluxo W7M,lol/events_2825097_grid.jsonl.zst
+2833773,LEC - Summer 2025,Groups,2025-08-10T15:00:00Z,Fnatic vs Shifters,lol/events_2833773_grid.jsonl.zst
+2833774,LEC - Summer 2025,Groups,2025-08-10T17:00:00Z,Karmine Corp vs Movistar KOI,lol/events_2833774_grid.jsonl.zst
+2825098,LTA South - Split 3 2025,Round 1,2025-08-10T18:00:00Z,RED Kalunga vs Pain Gaming,lol/events_2825098_grid.jsonl.zst
+2825038,LTA North - Split 3 2025,Round 1,2025-08-10T20:00:00Z,Cloud9 Kia vs Team Liquid Alienware,lol/events_2825038_grid.jsonl.zst
+2825039,LTA North - Split 3 2025,Round 1,2025-08-10T23:00:00Z,Dignitas vs Disguised,lol/events_2825039_grid.jsonl.zst
+2820994,LCK - Split 3 2025,Groups,2025-08-13T08:00:00Z,T1 vs KT Rolster,lol/events_2820994_grid.jsonl.zst
+2820995,LCK - Split 3 2025,Groups,2025-08-13T10:00:00Z,BNK FearX vs DN SOOPers,lol/events_2820995_grid.jsonl.zst
+2820996,LCK - Split 3 2025,Groups,2025-08-14T08:00:00Z,Gen.G Esports vs NONGSHIM RED FORCE,lol/events_2820996_grid.jsonl.zst
+2820997,LCK - Split 3 2025,Groups,2025-08-14T10:00:00Z,Dplus KIA vs KIWOOM DRX,lol/events_2820997_grid.jsonl.zst
+2820998,LCK - Split 3 2025,Groups,2025-08-15T08:00:00Z,HANJIN BRION vs DN SOOPers,lol/events_2820998_grid.jsonl.zst
+2820999,LCK - Split 3 2025,Groups,2025-08-15T10:50:00Z,Hanwha Life Esports vs T1,lol/events_2820999_grid.jsonl.zst
+2821000,LCK - Split 3 2025,Groups,2025-08-16T06:00:00Z,NONGSHIM RED FORCE vs KT Rolster,lol/events_2821000_grid.jsonl.zst
+2821001,LCK - Split 3 2025,Groups,2025-08-16T08:30:00Z,KIWOOM DRX vs BNK FearX,lol/events_2821001_grid.jsonl.zst
+2833775,LEC - Summer 2025,Groups,2025-08-16T15:00:00Z,Movistar KOI vs Natus Vincere,lol/events_2833775_grid.jsonl.zst
+2825103,LTA South - Split 3 2025,Round 2,2025-08-16T16:00:00Z,FURIA vs Vivo Keyd Stars,lol/events_2825103_grid.jsonl.zst
+2833776,LEC - Summer 2025,Groups,2025-08-16T17:00:00Z,Team Heretics vs SK Gaming,lol/events_2833776_grid.jsonl.zst
+2842357,LTA North - Split 3 2025,Round 2,2025-08-16T23:45:00Z,Cloud9 Kia vs Shopify Rebellion,lol/events_2842357_grid.jsonl.zst
+2821002,LCK - Split 3 2025,Groups,2025-08-17T06:00:00Z,Hanwha Life Esports vs Gen.G Esports,lol/events_2821002_grid.jsonl.zst
+2821003,LCK - Split 3 2025,Groups,2025-08-17T08:00:00Z,HANJIN BRION vs Dplus KIA,lol/events_2821003_grid.jsonl.zst
+2833777,LEC - Summer 2025,Groups,2025-08-17T15:00:00Z,Team Vitality vs Natus Vincere,lol/events_2833777_grid.jsonl.zst
+2825104,LTA South - Split 3 2025,Round 2,2025-08-17T16:00:00Z,RED Kalunga vs Pain Gaming,lol/events_2825104_grid.jsonl.zst
+2833778,LEC - Summer 2025,Groups,2025-08-17T17:00:00Z,Fnatic vs G2 Esports,lol/events_2833778_grid.jsonl.zst
+2825041,LTA North - Split 3 2025,Round 2,2025-08-17T20:00:00Z,FlyQuest vs Team Liquid Alienware,lol/events_2825041_grid.jsonl.zst
+2833779,LEC - Summer 2025,Groups,2025-08-18T15:00:00Z,Karmine Corp vs Team Vitality,lol/events_2833779_grid.jsonl.zst
+2833780,LEC - Summer 2025,Groups,2025-08-18T17:00:00Z,G2 Esports vs Shifters,lol/events_2833780_grid.jsonl.zst
+2821004,LCK - Split 3 2025,Groups,2025-08-20T08:00:00Z,KIWOOM DRX vs DN SOOPers,lol/events_2821004_grid.jsonl.zst
+2821005,LCK - Split 3 2025,Groups,2025-08-20T10:30:00Z,Gen.G Esports vs NONGSHIM RED FORCE,lol/events_2821005_grid.jsonl.zst
+2821006,LCK - Split 3 2025,Groups,2025-08-21T08:00:00Z,KT Rolster vs Hanwha Life Esports,lol/events_2821006_grid.jsonl.zst
+2821007,LCK - Split 3 2025,Groups,2025-08-21T11:00:00Z,HANJIN BRION vs BNK FearX,lol/events_2821007_grid.jsonl.zst
+2821008,LCK - Split 3 2025,Groups,2025-08-22T08:00:00Z,NONGSHIM RED FORCE vs T1,lol/events_2821008_grid.jsonl.zst
+2821009,LCK - Split 3 2025,Groups,2025-08-22T11:00:00Z,Dplus KIA vs KIWOOM DRX,lol/events_2821009_grid.jsonl.zst
+2821010,LCK - Split 3 2025,Groups,2025-08-23T06:00:00Z,Hanwha Life Esports vs Gen.G Esports,lol/events_2821010_grid.jsonl.zst
+2821011,LCK - Split 3 2025,Groups,2025-08-23T09:00:00Z,HANJIN BRION vs DN SOOPers,lol/events_2821011_grid.jsonl.zst
+2825108,LTA South - Split 3 2025,Round 2,2025-08-23T16:00:00Z,LOUD vs Fluxo W7M,lol/events_2825108_grid.jsonl.zst
+2825042,LTA North - Split 3 2025,Round 2,2025-08-23T20:00:00Z,Disguised vs Dignitas,lol/events_2825042_grid.jsonl.zst
+2821012,LCK - Split 3 2025,Groups,2025-08-24T06:00:00Z,BNK FearX vs Dplus KIA,lol/events_2821012_grid.jsonl.zst
+2821013,LCK - Split 3 2025,Groups,2025-08-24T08:00:00Z,KT Rolster vs T1,lol/events_2821013_grid.jsonl.zst
+2825109,LTA South - Split 3 2025,Round 2,2025-08-24T16:00:00Z,Isurus vs LEVIATÁN,lol/events_2825109_grid.jsonl.zst
+2825043,LTA North - Split 3 2025,Round 2,2025-08-24T20:00:00Z,LYON vs 100 Thieves,lol/events_2825043_grid.jsonl.zst
+2833782,LEC - Summer 2025,Groups,2025-08-25T15:00:00Z,SK Gaming vs G2 Esports,lol/events_2833782_grid.jsonl.zst
+2833783,LEC - Summer 2025,Groups,2025-08-25T17:00:00Z,Shifters vs Team Heretics,lol/events_2833783_grid.jsonl.zst
+2833784,LEC - Summer 2025,Groups,2025-08-26T15:00:00Z,Team Vitality vs Movistar KOI,lol/events_2833784_grid.jsonl.zst
+2833785,LEC - Summer 2025,Groups,2025-08-26T17:00:00Z,Natus Vincere vs GIANTX,lol/events_2833785_grid.jsonl.zst
+2821014,LCK - Split 3 2025,Groups,2025-08-27T08:00:00Z,T1 vs Hanwha Life Esports,lol/events_2821014_grid.jsonl.zst
+2821015,LCK - Split 3 2025,Groups,2025-08-27T11:00:00Z,DN SOOPers vs BNK FearX,lol/events_2821015_grid.jsonl.zst
+2821016,LCK - Split 3 2025,Groups,2025-08-28T08:00:00Z,Dplus KIA vs HANJIN BRION,lol/events_2821016_grid.jsonl.zst
+2821017,LCK - Split 3 2025,Groups,2025-08-28T10:00:00Z,Gen.G Esports vs KT Rolster,lol/events_2821017_grid.jsonl.zst
+2821018,LCK - Split 3 2025,Groups,2025-08-29T08:00:00Z,BNK FearX vs KIWOOM DRX,lol/events_2821018_grid.jsonl.zst
+2821019,LCK - Split 3 2025,Groups,2025-08-29T11:00:00Z,Hanwha Life Esports vs NONGSHIM RED FORCE,lol/events_2821019_grid.jsonl.zst
+2825110,LTA South - Split 3 2025,Round 2,2025-08-29T16:00:00Z,RED Kalunga vs LEVIATÁN,lol/events_2825110_grid.jsonl.zst
+2825044,LTA North - Split 3 2025,Round 2,2025-08-29T20:00:00Z,Cloud9 Kia vs Disguised,lol/events_2825044_grid.jsonl.zst
+2821020,LCK - Split 3 2025,Groups,2025-08-30T06:00:00Z,T1 vs Gen.G Esports,lol/events_2821020_grid.jsonl.zst
+2821021,LCK - Split 3 2025,Groups,2025-08-30T08:00:00Z,DN SOOPers vs Dplus KIA,lol/events_2821021_grid.jsonl.zst
+2825112,LTA South - Split 3 2025,Round 2,2025-08-30T16:00:00Z,LOUD vs FURIA,lol/events_2825112_grid.jsonl.zst
+2825045,LTA North - Split 3 2025,Round 2,2025-08-30T20:00:00Z,Team Liquid Alienware vs 100 Thieves,lol/events_2825045_grid.jsonl.zst
+2821022,LCK - Split 3 2025,Groups,2025-08-31T06:00:00Z,NONGSHIM RED FORCE vs KT Rolster,lol/events_2821022_grid.jsonl.zst
+2821023,LCK - Split 3 2025,Groups,2025-08-31T08:00:00Z,KIWOOM DRX vs HANJIN BRION,lol/events_2821023_grid.jsonl.zst
+2825114,LTA South - Split 3 2025,Round 2,2025-08-31T16:00:00Z,Pain Gaming vs Vivo Keyd Stars,lol/events_2825114_grid.jsonl.zst
+2825046,LTA North - Split 3 2025,Round 2,2025-08-31T20:00:00Z,FlyQuest vs Shopify Rebellion,lol/events_2825046_grid.jsonl.zst
+2847241,LCK - Split 3 2025,Play-Ins,2025-09-03T08:00:00Z,NONGSHIM RED FORCE vs HANJIN BRION,lol/events_2847241_grid.jsonl.zst
+2847242,LCK - Split 3 2025,Play-Ins,2025-09-04T08:00:00Z,Dplus KIA vs BNK FearX,lol/events_2847242_grid.jsonl.zst
+2847243,LCK - Split 3 2025,Play-Ins,2025-09-05T08:00:00Z,BNK FearX vs NONGSHIM RED FORCE,lol/events_2847243_grid.jsonl.zst
+2833788,LEC - Summer 2025,Playoffs,2025-09-05T15:00:00Z,Team Heretics vs Team Vitality,lol/events_2833788_grid.jsonl.zst
+2825115,LTA South - Split 3 2025,Round 2,2025-09-05T16:00:00Z,RED Kalunga vs LOUD,lol/events_2825115_grid.jsonl.zst
+2825047,LTA North - Split 3 2025,Round 2,2025-09-05T20:00:00Z,100 Thieves vs Cloud9 Kia,lol/events_2825047_grid.jsonl.zst
+2847244,LCK - Split 3 2025,Play-Ins,2025-09-06T06:00:00Z,Dplus KIA vs HANJIN BRION,lol/events_2847244_grid.jsonl.zst
+2833787,LEC - Summer 2025,Playoffs,2025-09-06T15:00:00Z,GIANTX vs Shifters,lol/events_2833787_grid.jsonl.zst
+2825116,LTA South - Split 3 2025,Round 2,2025-09-06T16:00:00Z,RED Kalunga vs Pain Gaming,lol/events_2825116_grid.jsonl.zst
+2825048,LTA North - Split 3 2025,Round 2,2025-09-06T20:00:00Z,100 Thieves vs Shopify Rebellion,lol/events_2825048_grid.jsonl.zst
+2847245,LCK - Split 3 2025,Play-Ins,2025-09-07T06:00:00Z,Dplus KIA vs NONGSHIM RED FORCE,lol/events_2847245_grid.jsonl.zst
+2833790,LEC - Summer 2025,Playoffs,2025-09-07T15:00:00Z,G2 Esports vs Karmine Corp,lol/events_2833790_grid.jsonl.zst
+2825117,LTA South - Split 3 2025,Round 2,2025-09-07T16:00:00Z,RED Kalunga vs Vivo Keyd Stars,lol/events_2825117_grid.jsonl.zst
+2825049,LTA North - Split 3 2025,Round 2,2025-09-07T20:00:00Z,100 Thieves vs FlyQuest,lol/events_2825049_grid.jsonl.zst
+2833789,LEC - Summer 2025,Playoffs,2025-09-08T15:00:00Z,Movistar KOI vs Fnatic,lol/events_2833789_grid.jsonl.zst
+2847257,LCK - Split 3 2025,Playoffs,2025-09-10T08:00:00Z,Dplus KIA vs T1,lol/events_2847257_grid.jsonl.zst
+2847258,LCK - Split 3 2025,Playoffs,2025-09-11T08:00:00Z,BNK FearX vs KT Rolster,lol/events_2847258_grid.jsonl.zst
+2847260,LCK - Split 3 2025,Playoffs,2025-09-13T06:00:00Z,Gen.G Esports vs KT Rolster,lol/events_2847260_grid.jsonl.zst
+2833793,LEC - Summer 2025,Playoffs,2025-09-13T15:00:00Z,Team Vitality vs Karmine Corp,lol/events_2833793_grid.jsonl.zst
+2825118,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-13T20:00:00Z,100 Thieves vs Pain Gaming,lol/events_2825118_grid.jsonl.zst
+2847259,LCK - Split 3 2025,Playoffs,2025-09-14T06:00:00Z,Hanwha Life Esports vs T1,lol/events_2847259_grid.jsonl.zst
+2853511,LEC - Summer 2025,Playoffs,2025-09-14T18:00:00Z,Movistar KOI vs G2 Esports,lol/events_2853511_grid.jsonl.zst
+2825119,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-14T20:00:00Z,RED Kalunga vs Shopify Rebellion,lol/events_2825119_grid.jsonl.zst
+2833792,LEC - Summer 2025,Playoffs,2025-09-15T15:00:00Z,GIANTX vs Fnatic,lol/events_2833792_grid.jsonl.zst
+2847262,LCK - Split 3 2025,Playoffs,2025-09-17T08:00:00Z,BNK FearX vs Dplus KIA,lol/events_2847262_grid.jsonl.zst
+2847263,LCK - Split 3 2025,Playoffs,2025-09-18T08:00:00Z,Dplus KIA vs T1,lol/events_2847263_grid.jsonl.zst
+2847264,LCK - Split 3 2025,Playoffs,2025-09-20T06:00:00Z,KT Rolster vs Hanwha Life Esports,lol/events_2847264_grid.jsonl.zst
+2825120,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-20T20:00:00Z,FlyQuest vs Vivo Keyd Stars,lol/events_2825120_grid.jsonl.zst
+2847265,LCK - Split 3 2025,Playoffs,2025-09-21T06:00:00Z,T1 vs Gen.G Esports,lol/events_2847265_grid.jsonl.zst
+2825121,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-21T20:00:00Z,RED Kalunga vs 100 Thieves,lol/events_2825121_grid.jsonl.zst
+2833795,LEC - Summer 2025,Playoffs,2025-09-26T15:00:00Z,Karmine Corp vs Fnatic,lol/events_2833795_grid.jsonl.zst
+2847266,LCK - Split 3 2025,Playoffs,2025-09-27T05:00:00Z,Gen.G Esports vs KT Rolster,lol/events_2847266_grid.jsonl.zst
+2833796,LEC - Summer 2025,Playoffs,2025-09-27T15:00:00Z,Movistar KOI vs Fnatic,lol/events_2833796_grid.jsonl.zst
+2825122,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-27T20:00:00Z,100 Thieves vs Vivo Keyd Stars,lol/events_2825122_grid.jsonl.zst
+2847267,LCK - Split 3 2025,Playoffs,2025-09-28T05:00:00Z,Gen.G Esports vs Hanwha Life Esports,lol/events_2847267_grid.jsonl.zst
+2833797,LEC - Summer 2025,Playoffs,2025-09-28T15:00:00Z,Movistar KOI vs G2 Esports,lol/events_2833797_grid.jsonl.zst
+2825123,LTA Cross-Conference - Regional Championship 2025,Regional Finals,2025-09-28T20:00:00Z,Vivo Keyd Stars vs FlyQuest,lol/events_2825123_grid.jsonl.zst
+2877290,LEC - LEC Versus 2026,Regular Season,2026-01-17T16:00:00Z,Los Ratones vs Fnatic,lol/events_2877290_grid.jsonl.zst
+2877291,LEC - LEC Versus 2026,Regular Season,2026-01-17T16:45:00Z,Shifters vs GIANTX,lol/events_2877291_grid.jsonl.zst
+2877292,LEC - LEC Versus 2026,Regular Season,2026-01-17T17:30:00Z,Team Heretics vs Natus Vincere,lol/events_2877292_grid.jsonl.zst
+2877293,LEC - LEC Versus 2026,Regular Season,2026-01-17T18:15:00Z,Team Vitality vs SK Gaming,lol/events_2877293_grid.jsonl.zst
+2877294,LEC - LEC Versus 2026,Regular Season,2026-01-17T19:50:00Z,Karmine Corp Blue vs Karmine Corp,lol/events_2877294_grid.jsonl.zst
+2877295,LEC - LEC Versus 2026,Regular Season,2026-01-17T20:45:00Z,Movistar KOI vs G2 Esports,lol/events_2877295_grid.jsonl.zst
+2877296,LEC - LEC Versus 2026,Regular Season,2026-01-18T16:00:00Z,Team Heretics vs Shifters,lol/events_2877296_grid.jsonl.zst
+2877297,LEC - LEC Versus 2026,Regular Season,2026-01-18T17:00:00Z,Los Ratones vs Karmine Corp Blue,lol/events_2877297_grid.jsonl.zst
+2877298,LEC - LEC Versus 2026,Regular Season,2026-01-18T18:00:00Z,Team Vitality vs Natus Vincere,lol/events_2877298_grid.jsonl.zst
+2877299,LEC - LEC Versus 2026,Regular Season,2026-01-18T19:00:00Z,SK Gaming vs Fnatic,lol/events_2877299_grid.jsonl.zst
+2877300,LEC - LEC Versus 2026,Regular Season,2026-01-18T20:00:00Z,G2 Esports vs GIANTX,lol/events_2877300_grid.jsonl.zst
+2877301,LEC - LEC Versus 2026,Regular Season,2026-01-18T21:00:00Z,Movistar KOI vs Karmine Corp,lol/events_2877301_grid.jsonl.zst
+2877302,LEC - LEC Versus 2026,Regular Season,2026-01-19T16:00:00Z,Natus Vincere vs Fnatic,lol/events_2877302_grid.jsonl.zst
+2877303,LEC - LEC Versus 2026,Regular Season,2026-01-19T17:00:00Z,Team Vitality vs Karmine Corp Blue,lol/events_2877303_grid.jsonl.zst
+2877304,LEC - LEC Versus 2026,Regular Season,2026-01-19T18:00:00Z,Team Heretics vs GIANTX,lol/events_2877304_grid.jsonl.zst
+2877305,LEC - LEC Versus 2026,Regular Season,2026-01-19T19:00:00Z,Shifters vs Movistar KOI,lol/events_2877305_grid.jsonl.zst
+2877306,LEC - LEC Versus 2026,Regular Season,2026-01-19T20:00:00Z,Los Ratones vs Karmine Corp,lol/events_2877306_grid.jsonl.zst
+2877307,LEC - LEC Versus 2026,Regular Season,2026-01-19T21:00:00Z,SK Gaming vs G2 Esports,lol/events_2877307_grid.jsonl.zst
+2877308,LEC - LEC Versus 2026,Regular Season,2026-01-24T15:45:00Z,Los Ratones vs GIANTX,lol/events_2877308_grid.jsonl.zst
+2877309,LEC - LEC Versus 2026,Regular Season,2026-01-24T16:30:00Z,Natus Vincere vs Karmine Corp Blue,lol/events_2877309_grid.jsonl.zst
+2877310,LEC - LEC Versus 2026,Regular Season,2026-01-24T17:15:00Z,Team Vitality vs Team Heretics,lol/events_2877310_grid.jsonl.zst
+2877311,LEC - LEC Versus 2026,Regular Season,2026-01-24T18:00:00Z,Shifters vs G2 Esports,lol/events_2877311_grid.jsonl.zst
+2877312,LEC - LEC Versus 2026,Regular Season,2026-01-24T18:45:00Z,SK Gaming vs Karmine Corp,lol/events_2877312_grid.jsonl.zst
+2877313,LEC - LEC Versus 2026,Regular Season,2026-01-24T19:30:00Z,Movistar KOI vs Fnatic,lol/events_2877313_grid.jsonl.zst
+2893371,LCS - Split 1 2026,Swiss,2026-01-24T22:10:00Z,Cloud9 Kia vs Team Liquid Alienware,lol/events_2893371_grid.jsonl.zst
+2885335,LCS - Split 1 2026,Swiss,2026-01-25T00:00:00Z,Sentinels vs Disguised,lol/events_2885335_grid.jsonl.zst
+2877314,LEC - LEC Versus 2026,Regular Season,2026-01-25T15:45:00Z,Team Vitality vs Shifters,lol/events_2877314_grid.jsonl.zst
+2877315,LEC - LEC Versus 2026,Regular Season,2026-01-25T16:30:00Z,SK Gaming vs Natus Vincere,lol/events_2877315_grid.jsonl.zst
+2877316,LEC - LEC Versus 2026,Regular Season,2026-01-25T17:15:00Z,Team Heretics vs Los Ratones,lol/events_2877316_grid.jsonl.zst
+2877317,LEC - LEC Versus 2026,Regular Season,2026-01-25T18:00:00Z,Movistar KOI vs Karmine Corp Blue,lol/events_2877317_grid.jsonl.zst
+2877318,LEC - LEC Versus 2026,Regular Season,2026-01-25T18:45:00Z,Fnatic vs GIANTX,lol/events_2877318_grid.jsonl.zst
+2877319,LEC - LEC Versus 2026,Regular Season,2026-01-25T19:30:00Z,Karmine Corp vs G2 Esports,lol/events_2877319_grid.jsonl.zst
+2885337,LCS - Split 1 2026,Swiss,2026-01-25T21:00:00Z,FlyQuest vs Shopify Rebellion,lol/events_2885337_grid.jsonl.zst
+2885338,LCS - Split 1 2026,Swiss,2026-01-26T00:00:00Z,LYON vs Dignitas,lol/events_2885338_grid.jsonl.zst
+2877320,LEC - LEC Versus 2026,Regular Season,2026-01-26T15:45:00Z,SK Gaming vs Karmine Corp Blue,lol/events_2877320_grid.jsonl.zst
+2877321,LEC - LEC Versus 2026,Regular Season,2026-01-26T16:30:00Z,Shifters vs Los Ratones,lol/events_2877321_grid.jsonl.zst
+2877322,LEC - LEC Versus 2026,Regular Season,2026-01-26T17:15:00Z,Team Vitality vs Fnatic,lol/events_2877322_grid.jsonl.zst
+2877323,LEC - LEC Versus 2026,Regular Season,2026-01-26T18:00:00Z,Team Heretics vs G2 Esports,lol/events_2877323_grid.jsonl.zst
+2877324,LEC - LEC Versus 2026,Regular Season,2026-01-26T18:45:00Z,Natus Vincere vs Karmine Corp,lol/events_2877324_grid.jsonl.zst
+2877325,LEC - LEC Versus 2026,Regular Season,2026-01-26T19:30:00Z,Movistar KOI vs GIANTX,lol/events_2877325_grid.jsonl.zst
+2877326,LEC - LEC Versus 2026,Regular Season,2026-01-31T15:45:00Z,Team Heretics vs SK Gaming,lol/events_2877326_grid.jsonl.zst
+2877327,LEC - LEC Versus 2026,Regular Season,2026-01-31T16:30:00Z,Natus Vincere vs GIANTX,lol/events_2877327_grid.jsonl.zst
+2877328,LEC - LEC Versus 2026,Regular Season,2026-01-31T17:15:00Z,Shifters vs Fnatic,lol/events_2877328_grid.jsonl.zst
+2877329,LEC - LEC Versus 2026,Regular Season,2026-01-31T18:00:00Z,Karmine Corp Blue vs G2 Esports,lol/events_2877329_grid.jsonl.zst
+2877330,LEC - LEC Versus 2026,Regular Season,2026-01-31T19:25:00Z,Team Vitality vs Karmine Corp,lol/events_2877330_grid.jsonl.zst
+2877331,LEC - LEC Versus 2026,Regular Season,2026-01-31T19:30:00Z,Movistar KOI vs Los Ratones,lol/events_2877331_grid.jsonl.zst
+2885340,LCS - Split 1 2026,Swiss,2026-01-31T21:00:00Z,Cloud9 Kia vs LYON,lol/events_2885340_grid.jsonl.zst
+2885342,LCS - Split 1 2026,Swiss,2026-02-01T00:00:00Z,Dignitas vs Sentinels,lol/events_2885342_grid.jsonl.zst
+2877332,LEC - LEC Versus 2026,Regular Season,2026-02-01T15:45:00Z,Shifters vs Natus Vincere,lol/events_2877332_grid.jsonl.zst
+2877333,LEC - LEC Versus 2026,Regular Season,2026-02-01T16:30:00Z,Team Heretics vs Karmine Corp Blue,lol/events_2877333_grid.jsonl.zst
+2877335,LEC - LEC Versus 2026,Regular Season,2026-02-01T17:15:00Z,Team Vitality vs GIANTX,lol/events_2877335_grid.jsonl.zst
+2877336,LEC - LEC Versus 2026,Regular Season,2026-02-01T18:45:00Z,SK Gaming vs Movistar KOI,lol/events_2877336_grid.jsonl.zst
+2877337,LEC - LEC Versus 2026,Regular Season,2026-02-01T19:45:00Z,Karmine Corp vs Fnatic,lol/events_2877337_grid.jsonl.zst
+2877338,LEC - LEC Versus 2026,Regular Season,2026-02-01T20:30:00Z,G2 Esports vs Los Ratones,lol/events_2877338_grid.jsonl.zst
+2885341,LCS - Split 1 2026,Swiss,2026-02-01T21:00:00Z,FlyQuest vs Disguised,lol/events_2885341_grid.jsonl.zst
+2885343,LCS - Split 1 2026,Swiss,2026-02-02T00:00:00Z,Shopify Rebellion vs Team Liquid Alienware,lol/events_2885343_grid.jsonl.zst
+2877339,LEC - LEC Versus 2026,Regular Season,2026-02-02T15:45:00Z,Karmine Corp Blue vs Fnatic,lol/events_2877339_grid.jsonl.zst
+2877340,LEC - LEC Versus 2026,Regular Season,2026-02-02T16:30:00Z,SK Gaming vs GIANTX,lol/events_2877340_grid.jsonl.zst
+2877341,LEC - LEC Versus 2026,Regular Season,2026-02-02T17:15:00Z,Natus Vincere vs Los Ratones,lol/events_2877341_grid.jsonl.zst
+2877342,LEC - LEC Versus 2026,Regular Season,2026-02-02T18:00:00Z,Team Vitality vs G2 Esports,lol/events_2877342_grid.jsonl.zst
+2877343,LEC - LEC Versus 2026,Regular Season,2026-02-02T18:45:00Z,Team Heretics vs Movistar KOI,lol/events_2877343_grid.jsonl.zst
+2877344,LEC - LEC Versus 2026,Regular Season,2026-02-02T19:30:00Z,Shifters vs Karmine Corp,lol/events_2877344_grid.jsonl.zst
+2877345,LEC - LEC Versus 2026,Regular Season,2026-02-07T15:45:00Z,Team Heretics vs Fnatic,lol/events_2877345_grid.jsonl.zst
+2877346,LEC - LEC Versus 2026,Regular Season,2026-02-07T16:35:00Z,Shifters vs Karmine Corp Blue,lol/events_2877346_grid.jsonl.zst
+2877347,LEC - LEC Versus 2026,Regular Season,2026-02-07T17:25:00Z,SK Gaming vs Los Ratones,lol/events_2877347_grid.jsonl.zst
+2877348,LEC - LEC Versus 2026,Regular Season,2026-02-07T18:25:00Z,Natus Vincere vs G2 Esports,lol/events_2877348_grid.jsonl.zst
+2877349,LEC - LEC Versus 2026,Regular Season,2026-02-07T19:10:00Z,Team Vitality vs Movistar KOI,lol/events_2877349_grid.jsonl.zst
+2877350,LEC - LEC Versus 2026,Regular Season,2026-02-07T20:10:00Z,Karmine Corp vs GIANTX,lol/events_2877350_grid.jsonl.zst
+2885346,LCS - Split 1 2026,Swiss,2026-02-07T21:00:00Z,Team Liquid Alienware vs Sentinels,lol/events_2885346_grid.jsonl.zst
+2885347,LCS - Split 1 2026,Swiss,2026-02-08T00:00:00Z,Disguised vs LYON,lol/events_2885347_grid.jsonl.zst
+2877351,LEC - LEC Versus 2026,Regular Season,2026-02-08T15:45:00Z,Team Vitality vs Los Ratones,lol/events_2877351_grid.jsonl.zst
+2877352,LEC - LEC Versus 2026,Regular Season,2026-02-08T16:40:00Z,Karmine Corp Blue vs GIANTX,lol/events_2877352_grid.jsonl.zst
+2877353,LEC - LEC Versus 2026,Regular Season,2026-02-08T17:30:00Z,SK Gaming vs Shifters,lol/events_2877353_grid.jsonl.zst
+2877354,LEC - LEC Versus 2026,Regular Season,2026-02-08T18:00:00Z,Natus Vincere vs Movistar KOI,lol/events_2877354_grid.jsonl.zst
+2877355,LEC - LEC Versus 2026,Regular Season,2026-02-08T18:45:00Z,Team Heretics vs Karmine Corp,lol/events_2877355_grid.jsonl.zst
+2877356,LEC - LEC Versus 2026,Regular Season,2026-02-08T19:30:00Z,Fnatic vs G2 Esports,lol/events_2877356_grid.jsonl.zst
+2885345,LCS - Split 1 2026,Swiss,2026-02-08T21:00:00Z,Dignitas vs Shopify Rebellion,lol/events_2885345_grid.jsonl.zst
+2885344,LCS - Split 1 2026,Swiss,2026-02-09T00:00:00Z,FlyQuest vs Cloud9 Kia,lol/events_2885344_grid.jsonl.zst
+2885348,LCS - Split 1 2026,Swiss,2026-02-09T03:00:00Z,Dignitas vs Team Liquid Alienware,lol/events_2885348_grid.jsonl.zst
+2885350,LCS - Split 1 2026,Playoffs,2026-02-14T21:00:00Z,Sentinels vs Disguised,lol/events_2885350_grid.jsonl.zst
+2885349,LCS - Split 1 2026,Playoffs,2026-02-15T21:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2885349_grid.jsonl.zst
+2904053,LEC - LEC Versus 2026,Playoffs,2026-02-16T16:45:00Z,Natus Vincere vs Fnatic,lol/events_2904053_grid.jsonl.zst
+2904099,LEC - LEC Versus 2026,Playoffs,2026-02-16T19:15:00Z,Team Vitality vs Movistar KOI,lol/events_2904099_grid.jsonl.zst
+2901028,LEC - LEC Versus 2026,Playoffs,2026-02-17T15:45:00Z,Team Heretics vs G2 Esports,lol/events_2901028_grid.jsonl.zst
+2901029,LEC - LEC Versus 2026,Playoffs,2026-02-17T17:30:00Z,Karmine Corp vs GIANTX,lol/events_2901029_grid.jsonl.zst
+2901031,LEC - LEC Versus 2026,Playoffs,2026-02-20T15:45:00Z,Natus Vincere vs Movistar KOI,lol/events_2901031_grid.jsonl.zst
+2901030,LEC - LEC Versus 2026,Playoffs,2026-02-20T17:30:00Z,Karmine Corp vs G2 Esports,lol/events_2901030_grid.jsonl.zst
+2885353,LCS - Split 1 2026,Playoffs,2026-02-20T21:00:00Z,Disguised vs Team Liquid Alienware,lol/events_2885353_grid.jsonl.zst
+2901034,LEC - LEC Versus 2026,Playoffs,2026-02-21T18:20:00Z,Team Vitality vs Fnatic,lol/events_2901034_grid.jsonl.zst
+2885352,LCS - Split 1 2026,Playoffs,2026-02-21T21:00:00Z,LYON vs FlyQuest,lol/events_2885352_grid.jsonl.zst
+2901036,LEC - LEC Versus 2026,Playoffs,2026-02-22T15:45:00Z,Natus Vincere vs GIANTX,lol/events_2901036_grid.jsonl.zst
+2901035,LEC - LEC Versus 2026,Playoffs,2026-02-22T17:30:00Z,Karmine Corp vs Team Vitality,lol/events_2901035_grid.jsonl.zst
+2885351,LCS - Split 1 2026,Playoffs,2026-02-22T21:00:00Z,Sentinels vs Cloud9 Kia,lol/events_2885351_grid.jsonl.zst
+2901037,LEC - LEC Versus 2026,Playoffs,2026-02-23T15:45:00Z,Movistar KOI vs G2 Esports,lol/events_2901037_grid.jsonl.zst
+2901038,LEC - LEC Versus 2026,Playoffs,2026-02-27T16:00:00Z,Karmine Corp vs GIANTX,lol/events_2901038_grid.jsonl.zst
+2885356,LCS - Split 1 2026,Playoffs,2026-02-27T21:00:00Z,Team Liquid Alienware vs LYON,lol/events_2885356_grid.jsonl.zst
+2901039,LEC - LEC Versus 2026,Playoffs,2026-02-28T16:00:00Z,Karmine Corp vs Movistar KOI,lol/events_2901039_grid.jsonl.zst
+2885357,LCS - Split 1 2026,Playoffs,2026-02-28T21:00:00Z,LYON vs Sentinels,lol/events_2885357_grid.jsonl.zst
+2908840,LEC - LEC Versus 2026,Playoffs,2026-03-01T18:00:00Z,Karmine Corp vs G2 Esports,lol/events_2908840_grid.jsonl.zst
+2885358,LCS - Split 1 2026,Playoffs,2026-03-01T21:00:00Z,LYON vs Cloud9 Kia,lol/events_2885358_grid.jsonl.zst
+2914448,LEC - Spring 2026,Regular Season,2026-03-28T13:00:00Z,GIANTX vs Fnatic,lol/events_2914448_grid.jsonl.zst
+2914449,LEC - Spring 2026,Regular Season,2026-03-28T15:30:00Z,Karmine Corp vs Team Vitality,lol/events_2914449_grid.jsonl.zst
+2914450,LEC - Spring 2026,Regular Season,2026-03-28T18:50:00Z,Natus Vincere vs Movistar KOI,lol/events_2914450_grid.jsonl.zst
+2914451,LEC - Spring 2026,Regular Season,2026-03-29T15:00:00Z,SK Gaming vs Team Heretics,lol/events_2914451_grid.jsonl.zst
+2914453,LEC - Spring 2026,Regular Season,2026-03-29T17:40:00Z,Movistar KOI vs Fnatic,lol/events_2914453_grid.jsonl.zst
+2914454,LEC - Spring 2026,Regular Season,2026-03-30T15:00:00Z,Natus Vincere vs SK Gaming,lol/events_2914454_grid.jsonl.zst
+2914455,LEC - Spring 2026,Regular Season,2026-03-30T17:15:00Z,Team Heretics vs Team Vitality,lol/events_2914455_grid.jsonl.zst
+2914456,LEC - Spring 2026,Regular Season,2026-04-04T12:00:00Z,SK Gaming vs Shifters,lol/events_2914456_grid.jsonl.zst
+2914457,LEC - Spring 2026,Regular Season,2026-04-04T14:00:00Z,G2 Esports vs Team Heretics,lol/events_2914457_grid.jsonl.zst
+2914458,LEC - Spring 2026,Regular Season,2026-04-04T16:30:00Z,Team Vitality vs Natus Vincere,lol/events_2914458_grid.jsonl.zst
+2911104,LCS - Split 2 2026,Regular Season,2026-04-04T20:00:00Z,Cloud9 Kia vs LYON,lol/events_2911104_grid.jsonl.zst
+2911105,LCS - Split 2 2026,Regular Season,2026-04-04T23:00:00Z,Sentinels vs Disguised,lol/events_2911105_grid.jsonl.zst
+2914459,LEC - Spring 2026,Regular Season,2026-04-05T14:45:00Z,SK Gaming vs GIANTX,lol/events_2914459_grid.jsonl.zst
+2914460,LEC - Spring 2026,Regular Season,2026-04-05T17:15:00Z,G2 Esports vs Fnatic,lol/events_2914460_grid.jsonl.zst
+2911106,LCS - Split 2 2026,Regular Season,2026-04-05T20:00:00Z,Team Liquid Alienware vs FlyQuest,lol/events_2911106_grid.jsonl.zst
+2911107,LCS - Split 2 2026,Regular Season,2026-04-05T22:30:00Z,Dignitas vs Shopify Rebellion,lol/events_2911107_grid.jsonl.zst
+2914461,LEC - Spring 2026,Regular Season,2026-04-06T15:00:00Z,GIANTX vs Team Heretics,lol/events_2914461_grid.jsonl.zst
+2914462,LEC - Spring 2026,Regular Season,2026-04-06T17:40:00Z,Team Vitality vs Movistar KOI,lol/events_2914462_grid.jsonl.zst
+2914463,LEC - Spring 2026,Regular Season,2026-04-11T12:00:00Z,Team Heretics vs Natus Vincere,lol/events_2914463_grid.jsonl.zst
+2914464,LEC - Spring 2026,Regular Season,2026-04-11T14:15:00Z,Team Vitality vs G2 Esports,lol/events_2914464_grid.jsonl.zst
+2914465,LEC - Spring 2026,Regular Season,2026-04-11T17:00:00Z,Movistar KOI vs SK Gaming,lol/events_2914465_grid.jsonl.zst
+2911108,LCS - Split 2 2026,Regular Season,2026-04-11T20:00:00Z,Shopify Rebellion vs Team Liquid Alienware,lol/events_2911108_grid.jsonl.zst
+2911109,LCS - Split 2 2026,Regular Season,2026-04-11T23:00:00Z,LYON vs Dignitas,lol/events_2911109_grid.jsonl.zst
+2914466,LEC - Spring 2026,Regular Season,2026-04-12T15:00:00Z,Team Vitality vs Shifters,lol/events_2914466_grid.jsonl.zst
+2914467,LEC - Spring 2026,Regular Season,2026-04-12T17:15:00Z,Team Heretics vs Karmine Corp,lol/events_2914467_grid.jsonl.zst
+2911110,LCS - Split 2 2026,Regular Season,2026-04-12T20:00:00Z,Disguised vs FlyQuest,lol/events_2911110_grid.jsonl.zst
+2911111,LCS - Split 2 2026,Regular Season,2026-04-12T22:40:00Z,Cloud9 Kia vs Sentinels,lol/events_2911111_grid.jsonl.zst
+2914468,LEC - Spring 2026,Regular Season,2026-04-13T15:00:00Z,Fnatic vs SK Gaming,lol/events_2914468_grid.jsonl.zst
+2914469,LEC - Spring 2026,Regular Season,2026-04-13T17:15:00Z,GIANTX vs Shifters,lol/events_2914469_grid.jsonl.zst
+2914470,LEC - Spring 2026,Regular Season,2026-04-18T15:00:00Z,GIANTX vs Natus Vincere,lol/events_2914470_grid.jsonl.zst
+2914471,LEC - Spring 2026,Regular Season,2026-04-18T17:15:00Z,G2 Esports vs SK Gaming,lol/events_2914471_grid.jsonl.zst
+2911112,LCS - Split 2 2026,Regular Season,2026-04-18T20:00:00Z,Disguised vs Cloud9 Kia,lol/events_2911112_grid.jsonl.zst
+2911113,LCS - Split 2 2026,Regular Season,2026-04-18T22:45:00Z,FlyQuest vs Sentinels,lol/events_2911113_grid.jsonl.zst
+2914472,LEC - Spring 2026,Regular Season,2026-04-19T15:00:00Z,Team Vitality vs GIANTX,lol/events_2914472_grid.jsonl.zst
+2914473,LEC - Spring 2026,Regular Season,2026-04-19T17:25:00Z,Movistar KOI vs Team Heretics,lol/events_2914473_grid.jsonl.zst
+2911114,LCS - Split 2 2026,Regular Season,2026-04-19T20:00:00Z,LYON vs Shopify Rebellion,lol/events_2911114_grid.jsonl.zst
+2911115,LCS - Split 2 2026,Regular Season,2026-04-19T23:00:00Z,Team Liquid Alienware vs Dignitas,lol/events_2911115_grid.jsonl.zst
+2914474,LEC - Spring 2026,Regular Season,2026-04-20T15:00:00Z,Shifters vs G2 Esports,lol/events_2914474_grid.jsonl.zst
+2914475,LEC - Spring 2026,Regular Season,2026-04-20T17:15:00Z,SK Gaming vs Karmine Corp,lol/events_2914475_grid.jsonl.zst
+2914477,LEC - Spring 2026,Regular Season,2026-04-24T15:00:00Z,Shifters vs Fnatic,lol/events_2914477_grid.jsonl.zst
+2914478,LEC - Spring 2026,Regular Season,2026-04-24T17:45:00Z,Natus Vincere vs Karmine Corp,lol/events_2914478_grid.jsonl.zst
+2914479,LEC - Spring 2026,Regular Season,2026-04-25T15:15:00Z,Fnatic vs Natus Vincere,lol/events_2914479_grid.jsonl.zst
+2911116,LCS - Split 2 2026,Regular Season,2026-04-25T20:00:00Z,FlyQuest vs Dignitas,lol/events_2911116_grid.jsonl.zst
+2914480,LEC - Spring 2026,Regular Season,2026-04-25T20:35:00Z,Karmine Corp vs Shifters,lol/events_2914480_grid.jsonl.zst
+2911117,LCS - Split 2 2026,Regular Season,2026-04-25T23:00:00Z,Shopify Rebellion vs Cloud9 Kia,lol/events_2911117_grid.jsonl.zst
+2914481,LEC - Spring 2026,Regular Season,2026-04-26T15:00:00Z,Shifters vs Natus Vincere,lol/events_2914481_grid.jsonl.zst
+2914482,LEC - Spring 2026,Regular Season,2026-04-26T18:20:00Z,Karmine Corp vs Fnatic,lol/events_2914482_grid.jsonl.zst
+2911118,LCS - Split 2 2026,Regular Season,2026-04-26T20:00:00Z,LYON vs Disguised,lol/events_2911118_grid.jsonl.zst
+2911119,LCS - Split 2 2026,Regular Season,2026-04-26T23:00:00Z,Team Liquid Alienware vs Sentinels,lol/events_2911119_grid.jsonl.zst
+2914483,LEC - Spring 2026,Regular Season,2026-05-02T15:00:00Z,Fnatic vs Team Heretics,lol/events_2914483_grid.jsonl.zst
+2914484,LEC - Spring 2026,Regular Season,2026-05-02T16:45:00Z,Team Vitality vs SK Gaming,lol/events_2914484_grid.jsonl.zst
+2911120,LCS - Split 2 2026,Regular Season,2026-05-02T20:00:00Z,Cloud9 Kia vs Dignitas,lol/events_2911120_grid.jsonl.zst
+2911121,LCS - Split 2 2026,Regular Season,2026-05-02T22:40:00Z,Team Liquid Alienware vs Disguised,lol/events_2911121_grid.jsonl.zst
+2914485,LEC - Spring 2026,Regular Season,2026-05-03T15:00:00Z,Team Heretics vs Shifters,lol/events_2914485_grid.jsonl.zst
+2914486,LEC - Spring 2026,Regular Season,2026-05-03T17:00:00Z,G2 Esports vs Natus Vincere,lol/events_2914486_grid.jsonl.zst
+2911122,LCS - Split 2 2026,Regular Season,2026-05-03T20:00:00Z,LYON vs Sentinels,lol/events_2911122_grid.jsonl.zst
+2911123,LCS - Split 2 2026,Regular Season,2026-05-03T22:15:00Z,FlyQuest vs Shopify Rebellion,lol/events_2911123_grid.jsonl.zst
+2914487,LEC - Spring 2026,Regular Season,2026-05-04T15:00:00Z,Fnatic vs Team Vitality,lol/events_2914487_grid.jsonl.zst
+2914488,LEC - Spring 2026,Regular Season,2026-05-04T17:45:00Z,Shifters vs Movistar KOI,lol/events_2914488_grid.jsonl.zst
+2914489,LEC - Spring 2026,Regular Season,2026-05-08T14:00:00Z,Karmine Corp vs G2 Esports,lol/events_2914489_grid.jsonl.zst
+2914490,LEC - Spring 2026,Regular Season,2026-05-08T16:10:00Z,GIANTX vs Movistar KOI,lol/events_2914490_grid.jsonl.zst
+2914491,LEC - Spring 2026,Regular Season,2026-05-09T14:00:00Z,G2 Esports vs GIANTX,lol/events_2914491_grid.jsonl.zst
+2914492,LEC - Spring 2026,Regular Season,2026-05-09T16:15:00Z,Movistar KOI vs Karmine Corp,lol/events_2914492_grid.jsonl.zst
+2911124,LCS - Split 2 2026,Regular Season,2026-05-09T20:00:00Z,Shopify Rebellion vs Sentinels,lol/events_2911124_grid.jsonl.zst
+2911125,LCS - Split 2 2026,Regular Season,2026-05-09T21:55:00Z,Disguised vs Dignitas,lol/events_2911125_grid.jsonl.zst
+2914494,LEC - Spring 2026,Regular Season,2026-05-10T13:00:00Z,Karmine Corp vs GIANTX,lol/events_2914494_grid.jsonl.zst
+2914495,LEC - Spring 2026,Regular Season,2026-05-10T16:15:00Z,Movistar KOI vs G2 Esports,lol/events_2914495_grid.jsonl.zst
+2911126,LCS - Split 2 2026,Regular Season,2026-05-10T20:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2911126_grid.jsonl.zst
+2911127,LCS - Split 2 2026,Regular Season,2026-05-10T23:00:00Z,LYON vs Team Liquid Alienware,lol/events_2911127_grid.jsonl.zst
+2911129,LCS - Split 2 2026,Regular Season,2026-05-16T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_2911129_grid.jsonl.zst
+2911130,LCS - Split 2 2026,Regular Season,2026-05-16T22:00:00Z,Shopify Rebellion vs Disguised,lol/events_2911130_grid.jsonl.zst
+2911131,LCS - Split 2 2026,Regular Season,2026-05-17T20:00:00Z,Sentinels vs Dignitas,lol/events_2911131_grid.jsonl.zst
+2911132,LCS - Split 2 2026,Regular Season,2026-05-17T22:05:00Z,FlyQuest vs LYON,lol/events_2911132_grid.jsonl.zst
+2949975,LEC - Spring 2026,Playoffs,2026-05-23T17:00:00Z,Karmine Corp vs G2 Esports,lol/events_2949975_grid.jsonl.zst
+2953533,LCS - Split 2 2026,Playoffs,2026-05-23T20:00:00Z,Cloud9 Kia vs FlyQuest,lol/events_2953533_grid.jsonl.zst
+2949974,LEC - Spring 2026,Playoffs,2026-05-24T15:00:00Z,Team Vitality vs Movistar KOI,lol/events_2949974_grid.jsonl.zst
+2953534,LCS - Split 2 2026,Playoffs,2026-05-24T20:00:00Z,LYON vs Team Liquid Alienware,lol/events_2953534_grid.jsonl.zst
+2950561,LEC - Spring 2026,Playoffs,2026-05-25T15:00:00Z,G2 Esports vs Movistar KOI,lol/events_2950561_grid.jsonl.zst
+2950565,LEC - Spring 2026,Playoffs,2026-05-30T15:00:00Z,Karmine Corp vs Natus Vincere,lol/events_2950565_grid.jsonl.zst
+2953535,LCS - Split 2 2026,Playoffs,2026-05-30T20:00:00Z,FlyQuest vs Sentinels,lol/events_2953535_grid.jsonl.zst
+2950566,LEC - Spring 2026,Playoffs,2026-05-31T15:00:00Z,Team Vitality vs GIANTX,lol/events_2950566_grid.jsonl.zst
+2953536,LCS - Split 2 2026,Playoffs,2026-05-31T20:00:00Z,Team Liquid Alienware vs Shopify Rebellion,lol/events_2953536_grid.jsonl.zst
+2950567,LEC - Spring 2026,Playoffs,2026-06-01T15:00:00Z,GIANTX vs Karmine Corp,lol/events_2950567_grid.jsonl.zst
+2950568,LEC - Spring 2026,Playoffs,2026-06-06T15:00:00Z,Karmine Corp vs Movistar KOI,lol/events_2950568_grid.jsonl.zst
+2958255,LCS - Split 2 2026,Playoffs,2026-06-06T20:00:00Z,Team Liquid Alienware vs FlyQuest,lol/events_2958255_grid.jsonl.zst
+2950569,LEC - Spring 2026,Playoffs,2026-06-07T15:00:00Z,G2 Esports vs Karmine Corp,lol/events_2950569_grid.jsonl.zst
+2958257,LCS - Split 2 2026,Playoffs,2026-06-07T20:00:00Z,LYON vs Cloud9 Kia,lol/events_2958257_grid.jsonl.zst
+2958259,LCS - Split 2 2026,Playoffs,2026-06-13T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_2958259_grid.jsonl.zst
+2958260,LCS - Split 2 2026,Playoffs,2026-06-14T20:00:00Z,Team Liquid Alienware vs LYON,lol/events_2958260_grid.jsonl.zst
+2964589,LCS - Split 3 2026,Regular Season,2026-07-26T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_2964589_grid.jsonl.zst
+2964593,LCS - Split 3 2026,Regular Season,2026-08-01T20:00:00Z,Cloud9 Kia vs Dignitas,lol/events_2964593_grid.jsonl.zst
+2964597,LCS - Split 3 2026,Regular Season,2026-08-08T20:00:00Z,Disguised vs Cloud9 Kia,lol/events_2964597_grid.jsonl.zst
+2964606,LCS - Split 3 2026,Regular Season,2026-08-16T20:00:00Z,FlyQuest vs Cloud9 Kia,lol/events_2964606_grid.jsonl.zst
+2964609,LCS - Split 3 2026,Regular Season,2026-08-29T23:00:00Z,Cloud9 Kia vs LYON,lol/events_2964609_grid.jsonl.zst
+2964616,LCS - Split 3 2026,Regular Season,2026-08-30T22:00:00Z,Cloud9 Kia vs Shopify Rebellion,lol/events_2964616_grid.jsonl.zst
+2964617,LCS - Split 3 2026,Regular Season,2026-09-05T20:00:00Z,Cloud9 Kia vs Sentinels,lol/events_2964617_grid.jsonl.zst
+2980509,LCS - Split 3 2026,Playoffs,2026-09-12T20:00:00Z,Shopify Rebellion vs Cloud9 Kia,lol/events_2980509_grid.jsonl.zst
+3000372,LCS - Split 3 2026,Playoffs,2026-09-19T20:00:00Z,Cloud9 Kia vs LYON,lol/events_3000372_grid.jsonl.zst
+3000374,LCS - Split 3 2026,Playoffs,2026-09-27T20:00:00Z,Team Liquid Alienware vs Cloud9 Kia,lol/events_3000374_grid.jsonl.zst
+3000378,LCS - Split 3 2026,Playoffs,2026-10-03T20:00:00Z,LYON vs Cloud9 Kia,lol/events_3000378_grid.jsonl.zst
+3011393,LCS - Promotion 2026,Regional Qualifier,2026-10-05T21:00:00Z,Maryville University vs Zeu5 Esports,lol/events_3011393_grid.jsonl.zst
+3011394,LCS - Promotion 2026,Regional Qualifier,2026-10-06T21:00:00Z,Cupid Esports vs Fuego,lol/events_3011394_grid.jsonl.zst
+3011395,LCS - Promotion 2026,Regional Qualifier,2026-10-07T21:00:00Z,Maryville University vs Disguised,lol/events_3011395_grid.jsonl.zst
+3011396,LCS - Promotion 2026,Regional Qualifier,2026-10-08T21:00:00Z,Maryville University vs Cupid Esports,lol/events_3011396_grid.jsonl.zst
+3011397,LCS - Promotion 2026,Regional Qualifier,2026-10-09T23:00:00Z,Disguised vs Fuego,lol/events_3011397_grid.jsonl.zst
+3011398,LCS - Promotion 2026,Regional Qualifier,2026-10-10T21:00:00Z,Disguised vs Cupid Esports,lol/events_3011398_grid.jsonl.zst
+3011399,LCS - Promotion 2026,Regional Qualifier,2026-10-12T23:00:00Z,Disguised vs Maryville University,lol/events_3011399_grid.jsonl.zst
