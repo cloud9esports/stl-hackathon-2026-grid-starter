@@ -1,0 +1,858 @@
+series_id,event,stage,scheduled_start,teams,file,ability_supplement
+2748743,VCT Americas - Kickoff 2025,Knockouts,2025-01-16T22:00:00Z,Evil Geniuses (1) vs LOUD,val/events_2748743_grid.jsonl.zst,val-ability-supplements/2748743.jsonl.zst
+2748744,VCT Americas - Kickoff 2025,Knockouts,2025-01-17T01:00:00Z,MIBR vs 100 Thieves,val/events_2748744_grid.jsonl.zst,val-ability-supplements/2748744.jsonl.zst
+2748745,VCT Americas - Kickoff 2025,Knockouts,2025-01-17T22:00:00Z,2GAME eSports vs FURIA,val/events_2748745_grid.jsonl.zst,val-ability-supplements/2748745.jsonl.zst
+2748746,VCT Americas - Kickoff 2025,Knockouts,2025-01-18T01:00:00Z,NRG vs Cloud9,val/events_2748746_grid.jsonl.zst,val-ability-supplements/2748746.jsonl.zst
+2748747,VCT Americas - Kickoff 2025,Knockouts,2025-01-18T22:00:00Z,LOUD vs KRÜ Visa,val/events_2748747_grid.jsonl.zst,val-ability-supplements/2748747.jsonl.zst
+2748748,VCT Americas - Kickoff 2025,Knockouts,2025-01-19T01:00:00Z,100 Thieves vs Sentinels,val/events_2748748_grid.jsonl.zst,val-ability-supplements/2748748.jsonl.zst
+2748749,VCT Americas - Kickoff 2025,Knockouts,2025-01-19T22:00:00Z,FURIA vs Leviatán Esports,val/events_2748749_grid.jsonl.zst,val-ability-supplements/2748749.jsonl.zst
+2748750,VCT Americas - Kickoff 2025,Knockouts,2025-01-20T01:00:00Z,Cloud9 vs G2 Esports,val/events_2748750_grid.jsonl.zst,val-ability-supplements/2748750.jsonl.zst
+2748753,VCT Americas - Kickoff 2025,Knockouts,2025-01-23T22:00:00Z,FURIA vs Evil Geniuses (1),val/events_2748753_grid.jsonl.zst,val-ability-supplements/2748753.jsonl.zst
+2748754,VCT Americas - Kickoff 2025,Knockouts,2025-01-24T01:00:00Z,Cloud9 vs MIBR,val/events_2748754_grid.jsonl.zst,val-ability-supplements/2748754.jsonl.zst
+2748756,VCT Americas - Kickoff 2025,Knockouts,2025-01-24T22:00:00Z,KRÜ Visa vs 2GAME eSports,val/events_2748756_grid.jsonl.zst,val-ability-supplements/2748756.jsonl.zst
+2748755,VCT Americas - Kickoff 2025,Knockouts,2025-01-25T01:00:00Z,100 Thieves vs NRG,val/events_2748755_grid.jsonl.zst,val-ability-supplements/2748755.jsonl.zst
+2748757,VCT Americas - Kickoff 2025,Knockouts,2025-01-31T22:00:00Z,Sentinels vs LOUD,val/events_2748757_grid.jsonl.zst,val-ability-supplements/2748757.jsonl.zst
+2748758,VCT Americas - Kickoff 2025,Knockouts,2025-02-01T01:00:00Z,Leviatán Esports vs G2 Esports,val/events_2748758_grid.jsonl.zst,val-ability-supplements/2748758.jsonl.zst
+2748759,VCT Americas - Kickoff 2025,Knockouts,2025-02-01T22:00:00Z,MIBR vs Evil Geniuses (1),val/events_2748759_grid.jsonl.zst,val-ability-supplements/2748759.jsonl.zst
+2748760,VCT Americas - Kickoff 2025,Knockouts,2025-02-02T01:00:00Z,KRÜ Visa vs NRG,val/events_2748760_grid.jsonl.zst,val-ability-supplements/2748760.jsonl.zst
+2748761,VCT Americas - Kickoff 2025,Knockouts,2025-02-02T22:00:00Z,MIBR vs Leviatán Esports,val/events_2748761_grid.jsonl.zst,val-ability-supplements/2748761.jsonl.zst
+2748762,VCT Americas - Kickoff 2025,Knockouts,2025-02-03T01:00:00Z,KRÜ Visa vs LOUD,val/events_2748762_grid.jsonl.zst,val-ability-supplements/2748762.jsonl.zst
+2748763,VCT Americas - Kickoff 2025,Knockouts,2025-02-06T22:00:00Z,G2 Esports vs Sentinels,val/events_2748763_grid.jsonl.zst,val-ability-supplements/2748763.jsonl.zst
+2748764,VCT Americas - Kickoff 2025,Knockouts,2025-02-07T01:00:00Z,KRÜ Visa vs MIBR,val/events_2748764_grid.jsonl.zst,val-ability-supplements/2748764.jsonl.zst
+2748765,VCT Americas - Kickoff 2025,Knockouts,2025-02-07T22:00:00Z,MIBR vs Sentinels,val/events_2748765_grid.jsonl.zst,val-ability-supplements/2748765.jsonl.zst
+2748766,VCT Americas - Kickoff 2025,Knockouts,2025-02-08T22:00:00Z,Sentinels vs G2 Esports,val/events_2748766_grid.jsonl.zst,val-ability-supplements/2748766.jsonl.zst
+2767056,Game Changers BR - Kickoff 2025,Knockouts,2025-02-09T20:00:00Z,Made In Brazil vs Kiwizitos,val/events_2767056_grid.jsonl.zst,val-ability-supplements/2767056.jsonl.zst
+2767057,Game Changers BR - Kickoff 2025,Knockouts,2025-02-09T20:00:00Z,Team Leveling vs Caramelin,val/events_2767057_grid.jsonl.zst,val-ability-supplements/2767057.jsonl.zst
+2767058,Game Changers BR - Kickoff 2025,Knockouts,2025-02-09T23:00:00Z,Corinthians Esports (2) vs GG GC,val/events_2767058_grid.jsonl.zst,val-ability-supplements/2767058.jsonl.zst
+2767059,Game Changers BR - Kickoff 2025,Knockouts,2025-02-09T23:00:00Z,Team Liquid Visa vs Vila das Flores V2,val/events_2767059_grid.jsonl.zst,val-ability-supplements/2767059.jsonl.zst
+2767060,Game Changers BR - Kickoff 2025,Knockouts,2025-02-10T20:00:00Z,Caramelin vs Made In Brazil,val/events_2767060_grid.jsonl.zst,val-ability-supplements/2767060.jsonl.zst
+2767061,Game Changers BR - Kickoff 2025,Knockouts,2025-02-10T20:00:00Z,Team Liquid Visa vs Corinthians Esports (2),val/events_2767061_grid.jsonl.zst,val-ability-supplements/2767061.jsonl.zst
+2767062,Game Changers BR - Kickoff 2025,Knockouts,2025-02-10T23:00:00Z,Team Leveling vs Kiwizitos,val/events_2767062_grid.jsonl.zst,val-ability-supplements/2767062.jsonl.zst
+2767063,Game Changers BR - Kickoff 2025,Knockouts,2025-02-10T23:00:00Z,Vila das Flores V2 vs GG GC,val/events_2767063_grid.jsonl.zst,val-ability-supplements/2767063.jsonl.zst
+2767064,Game Changers BR - Kickoff 2025,Knockouts,2025-02-11T20:00:00Z,Kiwizitos vs Corinthians Esports (2),val/events_2767064_grid.jsonl.zst,val-ability-supplements/2767064.jsonl.zst
+2767065,Game Changers BR - Kickoff 2025,Knockouts,2025-02-11T20:00:00Z,GG GC vs Caramelin,val/events_2767065_grid.jsonl.zst,val-ability-supplements/2767065.jsonl.zst
+2767066,Game Changers BR - Kickoff 2025,Knockouts,2025-02-11T23:00:00Z,GG GC vs Corinthians Esports (2),val/events_2767066_grid.jsonl.zst,val-ability-supplements/2767066.jsonl.zst
+2767067,Game Changers BR - Kickoff 2025,Knockouts,2025-02-11T23:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2767067_grid.jsonl.zst,val-ability-supplements/2767067.jsonl.zst
+2767069,Game Changers BR - Kickoff 2025,Knockouts,2025-02-16T20:00:00Z,Corinthians Esports (2) vs Made In Brazil,val/events_2767069_grid.jsonl.zst,val-ability-supplements/2767069.jsonl.zst
+2767070,Game Changers BR - Kickoff 2025,Knockouts,2025-02-17T20:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2767070_grid.jsonl.zst,val-ability-supplements/2767070.jsonl.zst
+2773177,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-03T20:00:00Z,Zen Esports (2) vs VISA KRÜ Blaze,val/events_2773177_grid.jsonl.zst,val-ability-supplements/2773177.jsonl.zst
+2773178,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-03T20:00:00Z,Las Cabras GC vs Prasso Clan,val/events_2773178_grid.jsonl.zst,val-ability-supplements/2773178.jsonl.zst
+2773179,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-03T21:00:00Z,University War GC vs Leviatan,val/events_2773179_grid.jsonl.zst,val-ability-supplements/2773179.jsonl.zst
+2773180,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-03T21:00:00Z,MIX vs HellGuardians Esports,val/events_2773180_grid.jsonl.zst,val-ability-supplements/2773180.jsonl.zst
+2773181,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-04T22:00:00Z,Bon Bon Bum vs Fusion,val/events_2773181_grid.jsonl.zst,val-ability-supplements/2773181.jsonl.zst
+2773182,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-04T22:00:00Z,Nos Sweat Blossom vs 1UP Esports,val/events_2773182_grid.jsonl.zst,val-ability-supplements/2773182.jsonl.zst
+2773183,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-05T01:00:00Z,MYVRA vs Akave Esports,val/events_2773183_grid.jsonl.zst,val-ability-supplements/2773183.jsonl.zst
+2773184,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-05T01:00:00Z,KTANA GC vs Antares Esports,val/events_2773184_grid.jsonl.zst,val-ability-supplements/2773184.jsonl.zst
+2773185,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-10T19:00:00Z,HellGuardians Esports vs Prasso Clan,val/events_2773185_grid.jsonl.zst,val-ability-supplements/2773185.jsonl.zst
+2773186,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-10T19:00:00Z,University War GC vs VISA KRÜ Blaze,val/events_2773186_grid.jsonl.zst,val-ability-supplements/2773186.jsonl.zst
+2773187,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-10T22:00:00Z,Las Cabras GC vs MIX,val/events_2773187_grid.jsonl.zst,val-ability-supplements/2773187.jsonl.zst
+2773188,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-10T22:00:00Z,Leviatan vs Zen Esports (2),val/events_2773188_grid.jsonl.zst,val-ability-supplements/2773188.jsonl.zst
+2773189,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-11T22:00:00Z,Antares Esports vs Nos Sweat Blossom,val/events_2773189_grid.jsonl.zst,val-ability-supplements/2773189.jsonl.zst
+2773190,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-11T22:00:00Z,MYVRA vs Fusion,val/events_2773190_grid.jsonl.zst,val-ability-supplements/2773190.jsonl.zst
+2773191,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-12T01:00:00Z,KTANA GC vs 1UP Esports,val/events_2773191_grid.jsonl.zst,val-ability-supplements/2773191.jsonl.zst
+2777012,Game Changers SEA - Split 1 2025,Playoffs,2025-03-12T09:00:00Z,LILAX vs Team Falcons Vega,val/events_2777012_grid.jsonl.zst,val-ability-supplements/2777012.jsonl.zst
+2777013,Game Changers SEA - Split 1 2025,Playoffs,2025-03-12T12:00:00Z,Precision Power Quickness vs ascend,val/events_2777013_grid.jsonl.zst,val-ability-supplements/2777013.jsonl.zst
+2777014,Game Changers SEA - Split 1 2025,Playoffs,2025-03-13T09:00:00Z,ECHO Aura vs LUX GC,val/events_2777014_grid.jsonl.zst,val-ability-supplements/2777014.jsonl.zst
+2777015,Game Changers SEA - Split 1 2025,Playoffs,2025-03-13T12:00:00Z,Salapao vs MAD Army,val/events_2777015_grid.jsonl.zst,val-ability-supplements/2777015.jsonl.zst
+2773193,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-13T19:00:00Z,Prasso Clan vs VISA KRÜ Blaze,val/events_2773193_grid.jsonl.zst,val-ability-supplements/2773193.jsonl.zst
+2773194,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-13T19:00:00Z,Leviatan vs Las Cabras GC,val/events_2773194_grid.jsonl.zst,val-ability-supplements/2773194.jsonl.zst
+2773195,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-13T22:00:00Z,HellGuardians Esports vs Zen Esports (2),val/events_2773195_grid.jsonl.zst,val-ability-supplements/2773195.jsonl.zst
+2773196,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-13T22:00:00Z,University War GC vs MIX,val/events_2773196_grid.jsonl.zst,val-ability-supplements/2773196.jsonl.zst
+2777016,Game Changers SEA - Split 1 2025,Playoffs,2025-03-14T09:00:00Z,LUX GC vs Precision Power Quickness,val/events_2777016_grid.jsonl.zst,val-ability-supplements/2777016.jsonl.zst
+2777017,Game Changers SEA - Split 1 2025,Playoffs,2025-03-14T12:00:00Z,MAD Army vs LILAX,val/events_2777017_grid.jsonl.zst,val-ability-supplements/2777017.jsonl.zst
+2773197,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-14T22:00:00Z,Antares Esports vs Akave Esports,val/events_2773197_grid.jsonl.zst,val-ability-supplements/2773197.jsonl.zst
+2773198,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-14T22:00:00Z,MYVRA vs Nos Sweat Blossom,val/events_2773198_grid.jsonl.zst,val-ability-supplements/2773198.jsonl.zst
+2773199,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-15T01:00:00Z,1UP Esports vs Bon Bon Bum,val/events_2773199_grid.jsonl.zst,val-ability-supplements/2773199.jsonl.zst
+2773200,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-15T01:00:00Z,KTANA GC vs Fusion,val/events_2773200_grid.jsonl.zst,val-ability-supplements/2773200.jsonl.zst
+2777018,Game Changers SEA - Split 1 2025,Playoffs,2025-03-15T06:00:00Z,ascend vs Team Falcons Vega,val/events_2777018_grid.jsonl.zst,val-ability-supplements/2777018.jsonl.zst
+2777019,Game Changers SEA - Split 1 2025,Playoffs,2025-03-15T09:00:00Z,MAD Army vs Precision Power Quickness,val/events_2777019_grid.jsonl.zst,val-ability-supplements/2777019.jsonl.zst
+2777020,Game Changers SEA - Split 1 2025,Playoffs,2025-03-15T12:00:00Z,MAD Army vs ascend,val/events_2777020_grid.jsonl.zst,val-ability-supplements/2777020.jsonl.zst
+2777021,Game Changers SEA - Split 1 2025,Playoffs,2025-03-16T06:00:00Z,ascend vs Team Falcons Vega,val/events_2777021_grid.jsonl.zst,val-ability-supplements/2777021.jsonl.zst
+2773201,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-17T19:00:00Z,Las Cabras GC vs VISA KRÜ Blaze,val/events_2773201_grid.jsonl.zst,val-ability-supplements/2773201.jsonl.zst
+2773202,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-17T19:00:00Z,Leviatan vs HellGuardians Esports,val/events_2773202_grid.jsonl.zst,val-ability-supplements/2773202.jsonl.zst
+2773203,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-17T22:00:00Z,MIX vs Zen Esports (2),val/events_2773203_grid.jsonl.zst,val-ability-supplements/2773203.jsonl.zst
+2773204,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-17T22:00:00Z,University War GC vs Prasso Clan,val/events_2773204_grid.jsonl.zst,val-ability-supplements/2773204.jsonl.zst
+2776312,Game Changers BR - Split 1 2025,Swiss,2025-03-18T20:00:00Z,Stellae Gaming (2) vs Team Liquid Visa,val/events_2776312_grid.jsonl.zst,val-ability-supplements/2776312.jsonl.zst
+2776313,Game Changers BR - Split 1 2025,Swiss,2025-03-18T20:00:00Z,Corinthians Esports (2) vs Não estamos aqui,val/events_2776313_grid.jsonl.zst,val-ability-supplements/2776313.jsonl.zst
+2776315,Game Changers BR - Split 1 2025,Swiss,2025-03-18T23:00:00Z,RET vs 2Game,val/events_2776315_grid.jsonl.zst,val-ability-supplements/2776315.jsonl.zst
+2776316,Game Changers BR - Split 1 2025,Swiss,2025-03-18T23:00:00Z,Made In Brazil vs Vila das Flores V2,val/events_2776316_grid.jsonl.zst,val-ability-supplements/2776316.jsonl.zst
+2773212,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-21T19:00:00Z,HellGuardians Esports vs VISA KRÜ Blaze,val/events_2773212_grid.jsonl.zst,val-ability-supplements/2773212.jsonl.zst
+2773213,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-21T19:00:00Z,University War GC vs Las Cabras GC,val/events_2773213_grid.jsonl.zst,val-ability-supplements/2773213.jsonl.zst
+2775953,VCT Americas - Stage 1 2025,Regular Season,2025-03-21T21:00:00Z,Cloud9 vs NRG,val/events_2775953_grid.jsonl.zst,val-ability-supplements/2775953.jsonl.zst
+2773214,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-21T22:00:00Z,Prasso Clan vs Zen Esports (2),val/events_2773214_grid.jsonl.zst,val-ability-supplements/2773214.jsonl.zst
+2773215,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-21T22:00:00Z,Leviatan vs MIX,val/events_2773215_grid.jsonl.zst,val-ability-supplements/2773215.jsonl.zst
+2775954,VCT Americas - Stage 1 2025,Regular Season,2025-03-22T00:00:00Z,KRÜ Visa vs LOUD,val/events_2775954_grid.jsonl.zst,val-ability-supplements/2775954.jsonl.zst
+2775955,VCT Americas - Stage 1 2025,Regular Season,2025-03-22T21:00:00Z,G2 Esports vs FURIA,val/events_2775955_grid.jsonl.zst,val-ability-supplements/2775955.jsonl.zst
+2773216,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-22T22:00:00Z,KTANA GC vs Akave Esports,val/events_2773216_grid.jsonl.zst,val-ability-supplements/2773216.jsonl.zst
+2773217,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-22T22:00:00Z,Antares Esports vs Fusion,val/events_2773217_grid.jsonl.zst,val-ability-supplements/2773217.jsonl.zst
+2775956,VCT Americas - Stage 1 2025,Regular Season,2025-03-23T00:00:00Z,Leviatán Esports vs MIBR,val/events_2775956_grid.jsonl.zst,val-ability-supplements/2775956.jsonl.zst
+2773218,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-23T01:00:00Z,MYVRA vs 1UP Esports,val/events_2773218_grid.jsonl.zst,val-ability-supplements/2773218.jsonl.zst
+2773219,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-23T01:00:00Z,Nos Sweat Blossom vs Bon Bon Bum,val/events_2773219_grid.jsonl.zst,val-ability-supplements/2773219.jsonl.zst
+2775957,VCT Americas - Stage 1 2025,Regular Season,2025-03-23T21:00:00Z,2GAME eSports vs Evil Geniuses (1),val/events_2775957_grid.jsonl.zst,val-ability-supplements/2775957.jsonl.zst
+2775958,VCT Americas - Stage 1 2025,Regular Season,2025-03-24T00:00:00Z,Sentinels vs 100 Thieves,val/events_2775958_grid.jsonl.zst,val-ability-supplements/2775958.jsonl.zst
+2773220,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-24T19:00:00Z,University War GC vs HellGuardians Esports,val/events_2773220_grid.jsonl.zst,val-ability-supplements/2773220.jsonl.zst
+2773221,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-24T19:00:00Z,MIX vs VISA KRÜ Blaze,val/events_2773221_grid.jsonl.zst,val-ability-supplements/2773221.jsonl.zst
+2773222,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-24T22:00:00Z,Leviatan vs Prasso Clan,val/events_2773222_grid.jsonl.zst,val-ability-supplements/2773222.jsonl.zst
+2773223,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-24T22:00:00Z,Las Cabras GC vs Zen Esports (2),val/events_2773223_grid.jsonl.zst,val-ability-supplements/2773223.jsonl.zst
+2776318,Game Changers BR - Split 1 2025,Swiss,2025-03-25T20:00:00Z,Corinthians Esports (2) vs Team Liquid Visa,val/events_2776318_grid.jsonl.zst,val-ability-supplements/2776318.jsonl.zst
+2776319,Game Changers BR - Split 1 2025,Swiss,2025-03-25T20:00:00Z,2Game vs Made In Brazil,val/events_2776319_grid.jsonl.zst,val-ability-supplements/2776319.jsonl.zst
+2773224,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-25T22:00:00Z,KTANA GC vs Bon Bon Bum,val/events_2773224_grid.jsonl.zst,val-ability-supplements/2773224.jsonl.zst
+2773225,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-25T22:00:00Z,Akave Esports vs Nos Sweat Blossom,val/events_2773225_grid.jsonl.zst,val-ability-supplements/2773225.jsonl.zst
+2776320,Game Changers BR - Split 1 2025,Swiss,2025-03-25T23:00:00Z,Stellae Gaming (2) vs Não estamos aqui,val/events_2776320_grid.jsonl.zst,val-ability-supplements/2776320.jsonl.zst
+2776321,Game Changers BR - Split 1 2025,Swiss,2025-03-25T23:00:00Z,Vila das Flores V2 vs RET,val/events_2776321_grid.jsonl.zst,val-ability-supplements/2776321.jsonl.zst
+2773226,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-26T01:00:00Z,Antares Esports vs MYVRA,val/events_2773226_grid.jsonl.zst,val-ability-supplements/2773226.jsonl.zst
+2773227,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-26T01:00:00Z,1UP Esports vs Fusion,val/events_2773227_grid.jsonl.zst,val-ability-supplements/2773227.jsonl.zst
+2775959,VCT Americas - Stage 1 2025,Regular Season,2025-03-28T21:00:00Z,NRG vs FURIA,val/events_2775959_grid.jsonl.zst,val-ability-supplements/2775959.jsonl.zst
+2775960,VCT Americas - Stage 1 2025,Regular Season,2025-03-29T00:00:00Z,Sentinels vs KRÜ Visa,val/events_2775960_grid.jsonl.zst,val-ability-supplements/2775960.jsonl.zst
+2775961,VCT Americas - Stage 1 2025,Regular Season,2025-03-29T21:00:00Z,100 Thieves vs Evil Geniuses (1),val/events_2775961_grid.jsonl.zst,val-ability-supplements/2775961.jsonl.zst
+2775962,VCT Americas - Stage 1 2025,Regular Season,2025-03-30T00:00:00Z,G2 Esports vs MIBR,val/events_2775962_grid.jsonl.zst,val-ability-supplements/2775962.jsonl.zst
+2775963,VCT Americas - Stage 1 2025,Regular Season,2025-03-30T21:00:00Z,LOUD vs 2GAME eSports,val/events_2775963_grid.jsonl.zst,val-ability-supplements/2775963.jsonl.zst
+2775964,VCT Americas - Stage 1 2025,Regular Season,2025-03-31T00:00:00Z,Cloud9 vs Leviatán Esports,val/events_2775964_grid.jsonl.zst,val-ability-supplements/2775964.jsonl.zst
+2773228,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-31T19:00:00Z,Leviatan vs VISA KRÜ Blaze,val/events_2773228_grid.jsonl.zst,val-ability-supplements/2773228.jsonl.zst
+2773230,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-31T19:00:00Z,MIX vs Prasso Clan,val/events_2773230_grid.jsonl.zst,val-ability-supplements/2773230.jsonl.zst
+2776331,Game Changers BR - Split 1 2025,Swiss,2025-03-31T20:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2776331_grid.jsonl.zst,val-ability-supplements/2776331.jsonl.zst
+2776332,Game Changers BR - Split 1 2025,Swiss,2025-03-31T20:00:00Z,Vila das Flores V2 vs Stellae Gaming (2),val/events_2776332_grid.jsonl.zst,val-ability-supplements/2776332.jsonl.zst
+2773231,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-31T22:00:00Z,University War GC vs Zen Esports (2),val/events_2773231_grid.jsonl.zst,val-ability-supplements/2773231.jsonl.zst
+2773232,Game Changers LATAM - Split 1 2025,Regular Season,2025-03-31T22:00:00Z,Las Cabras GC vs HellGuardians Esports,val/events_2773232_grid.jsonl.zst,val-ability-supplements/2773232.jsonl.zst
+2776333,Game Changers BR - Split 1 2025,Swiss,2025-03-31T23:00:00Z,Corinthians Esports (2) vs RET,val/events_2776333_grid.jsonl.zst,val-ability-supplements/2776333.jsonl.zst
+2776334,Game Changers BR - Split 1 2025,Swiss,2025-03-31T23:00:00Z,2Game vs Não estamos aqui,val/events_2776334_grid.jsonl.zst,val-ability-supplements/2776334.jsonl.zst
+2773233,Game Changers LATAM - Split 1 2025,Regular Season,2025-04-01T22:00:00Z,Akave Esports vs Fusion,val/events_2773233_grid.jsonl.zst,val-ability-supplements/2773233.jsonl.zst
+2773234,Game Changers LATAM - Split 1 2025,Regular Season,2025-04-01T22:00:00Z,Antares Esports vs 1UP Esports,val/events_2773234_grid.jsonl.zst,val-ability-supplements/2773234.jsonl.zst
+2773235,Game Changers LATAM - Split 1 2025,Regular Season,2025-04-02T01:00:00Z,MYVRA vs Bon Bon Bum,val/events_2773235_grid.jsonl.zst,val-ability-supplements/2773235.jsonl.zst
+2773236,Game Changers LATAM - Split 1 2025,Regular Season,2025-04-02T01:00:00Z,KTANA GC vs Nos Sweat Blossom,val/events_2773236_grid.jsonl.zst,val-ability-supplements/2773236.jsonl.zst
+2789396,VCT Americas - Stage 1 2025,Regular Season,2025-04-04T21:20:00Z,Evil Geniuses (1) vs Sentinels,val/events_2789396_grid.jsonl.zst,val-ability-supplements/2789396.jsonl.zst
+2775966,VCT Americas - Stage 1 2025,Regular Season,2025-04-05T00:00:00Z,100 Thieves vs LOUD,val/events_2775966_grid.jsonl.zst,val-ability-supplements/2775966.jsonl.zst
+2775967,VCT Americas - Stage 1 2025,Regular Season,2025-04-05T21:00:00Z,2GAME eSports vs KRÜ Visa,val/events_2775967_grid.jsonl.zst,val-ability-supplements/2775967.jsonl.zst
+2775968,VCT Americas - Stage 1 2025,Regular Season,2025-04-06T00:00:00Z,G2 Esports vs NRG,val/events_2775968_grid.jsonl.zst,val-ability-supplements/2775968.jsonl.zst
+2775969,VCT Americas - Stage 1 2025,Regular Season,2025-04-06T21:00:00Z,FURIA vs Leviatán Esports,val/events_2775969_grid.jsonl.zst,val-ability-supplements/2775969.jsonl.zst
+2775970,VCT Americas - Stage 1 2025,Regular Season,2025-04-07T00:00:00Z,Cloud9 vs MIBR,val/events_2775970_grid.jsonl.zst,val-ability-supplements/2775970.jsonl.zst
+2776341,Game Changers BR - Split 1 2025,Swiss,2025-04-07T20:00:00Z,2Game vs Corinthians Esports (2),val/events_2776341_grid.jsonl.zst,val-ability-supplements/2776341.jsonl.zst
+2776342,Game Changers BR - Split 1 2025,Swiss,2025-04-07T20:00:00Z,Made In Brazil vs RET,val/events_2776342_grid.jsonl.zst,val-ability-supplements/2776342.jsonl.zst
+2776343,Game Changers BR - Split 1 2025,Swiss,2025-04-07T23:00:00Z,Vila das Flores V2 vs Não estamos aqui,val/events_2776343_grid.jsonl.zst,val-ability-supplements/2776343.jsonl.zst
+2775971,VCT Americas - Stage 1 2025,Regular Season,2025-04-11T21:00:00Z,100 Thieves vs 2GAME eSports,val/events_2775971_grid.jsonl.zst,val-ability-supplements/2775971.jsonl.zst
+2775972,VCT Americas - Stage 1 2025,Regular Season,2025-04-12T00:00:00Z,Leviatán Esports vs G2 Esports,val/events_2775972_grid.jsonl.zst,val-ability-supplements/2775972.jsonl.zst
+2775973,VCT Americas - Stage 1 2025,Regular Season,2025-04-12T21:00:00Z,FURIA vs Cloud9,val/events_2775973_grid.jsonl.zst,val-ability-supplements/2775973.jsonl.zst
+2775974,VCT Americas - Stage 1 2025,Regular Season,2025-04-13T00:00:00Z,Sentinels vs LOUD,val/events_2775974_grid.jsonl.zst,val-ability-supplements/2775974.jsonl.zst
+2775975,VCT Americas - Stage 1 2025,Regular Season,2025-04-13T21:00:00Z,KRÜ Visa vs Evil Geniuses (1),val/events_2775975_grid.jsonl.zst,val-ability-supplements/2775975.jsonl.zst
+2775976,VCT Americas - Stage 1 2025,Regular Season,2025-04-14T00:00:00Z,NRG vs MIBR,val/events_2775976_grid.jsonl.zst,val-ability-supplements/2775976.jsonl.zst
+2792924,Game Changers NA - Split 1 2025,Swiss,2025-04-14T21:00:00Z,Shopify Rebellion Gold vs Catnappers,val/events_2792924_grid.jsonl.zst,val-ability-supplements/2792924.jsonl.zst
+2792925,Game Changers NA - Split 1 2025,Swiss,2025-04-14T21:00:00Z,:3 vs Fisher Fumblers,val/events_2792925_grid.jsonl.zst,val-ability-supplements/2792925.jsonl.zst
+2792926,Game Changers NA - Split 1 2025,Swiss,2025-04-14T21:00:00Z,Kiri Magenta vs Teevee,val/events_2792926_grid.jsonl.zst,val-ability-supplements/2792926.jsonl.zst
+2792927,Game Changers NA - Split 1 2025,Swiss,2025-04-14T21:00:00Z,Wadadaa vs Berzerkers Dawn,val/events_2792927_grid.jsonl.zst,val-ability-supplements/2792927.jsonl.zst
+2792928,Game Changers NA - Split 1 2025,Swiss,2025-04-14T23:30:00Z,FlyQuest Red vs Evolution,val/events_2792928_grid.jsonl.zst,val-ability-supplements/2792928.jsonl.zst
+2792929,Game Changers NA - Split 1 2025,Swiss,2025-04-14T23:30:00Z,YFP X vs kessoku band,val/events_2792929_grid.jsonl.zst,val-ability-supplements/2792929.jsonl.zst
+2792930,Game Changers NA - Split 1 2025,Swiss,2025-04-14T23:30:00Z,100 Thieves GC vs Prosperity X,val/events_2792930_grid.jsonl.zst,val-ability-supplements/2792930.jsonl.zst
+2792931,Game Changers NA - Split 1 2025,Swiss,2025-04-14T23:30:00Z,Overkill vs Teddy Tactics,val/events_2792931_grid.jsonl.zst,val-ability-supplements/2792931.jsonl.zst
+2776354,Game Changers BR - Split 1 2025,Swiss,2025-04-17T20:00:00Z,Corinthians Esports (2) vs Vila das Flores V2,val/events_2776354_grid.jsonl.zst,val-ability-supplements/2776354.jsonl.zst
+2775977,VCT Americas - Stage 1 2025,Regular Season,2025-04-18T21:00:00Z,G2 Esports vs Cloud9,val/events_2775977_grid.jsonl.zst,val-ability-supplements/2775977.jsonl.zst
+2775978,VCT Americas - Stage 1 2025,Regular Season,2025-04-19T00:00:00Z,MIBR vs FURIA,val/events_2775978_grid.jsonl.zst,val-ability-supplements/2775978.jsonl.zst
+2775979,VCT Americas - Stage 1 2025,Regular Season,2025-04-19T21:00:00Z,Sentinels vs 2GAME eSports,val/events_2775979_grid.jsonl.zst,val-ability-supplements/2775979.jsonl.zst
+2775980,VCT Americas - Stage 1 2025,Regular Season,2025-04-20T00:00:00Z,100 Thieves vs KRÜ Visa,val/events_2775980_grid.jsonl.zst,val-ability-supplements/2775980.jsonl.zst
+2775981,VCT Americas - Stage 1 2025,Regular Season,2025-04-20T21:00:00Z,Evil Geniuses (1) vs LOUD,val/events_2775981_grid.jsonl.zst,val-ability-supplements/2775981.jsonl.zst
+2775982,VCT Americas - Stage 1 2025,Regular Season,2025-04-21T01:15:00Z,NRG vs Leviatán Esports,val/events_2775982_grid.jsonl.zst,val-ability-supplements/2775982.jsonl.zst
+2773237,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-21T19:00:00Z,VISA KRÜ Blaze vs University War GC,val/events_2773237_grid.jsonl.zst,val-ability-supplements/2773237.jsonl.zst
+2792932,Game Changers NA - Split 1 2025,Swiss,2025-04-21T21:00:00Z,Kiri Magenta vs Catnappers,val/events_2792932_grid.jsonl.zst,val-ability-supplements/2792932.jsonl.zst
+2792933,Game Changers NA - Split 1 2025,Swiss,2025-04-21T21:00:00Z,Wadadaa vs Shopify Rebellion Gold,val/events_2792933_grid.jsonl.zst,val-ability-supplements/2792933.jsonl.zst
+2792934,Game Changers NA - Split 1 2025,Swiss,2025-04-21T21:00:00Z,Teddy Tactics vs Fisher Fumblers,val/events_2792934_grid.jsonl.zst,val-ability-supplements/2792934.jsonl.zst
+2792935,Game Changers NA - Split 1 2025,Swiss,2025-04-21T21:00:00Z,100 Thieves GC vs :3,val/events_2792935_grid.jsonl.zst,val-ability-supplements/2792935.jsonl.zst
+2773238,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-21T22:00:00Z,Leviatan vs Zen Esports (2),val/events_2773238_grid.jsonl.zst,val-ability-supplements/2773238.jsonl.zst
+2792936,Game Changers NA - Split 1 2025,Swiss,2025-04-21T23:30:00Z,YFP X vs Teevee,val/events_2792936_grid.jsonl.zst,val-ability-supplements/2792936.jsonl.zst
+2792937,Game Changers NA - Split 1 2025,Swiss,2025-04-21T23:30:00Z,FlyQuest Red vs Ghost Gaming,val/events_2792937_grid.jsonl.zst,val-ability-supplements/2792937.jsonl.zst
+2792938,Game Changers NA - Split 1 2025,Swiss,2025-04-21T23:30:00Z,Prosperity X vs Evolution,val/events_2792938_grid.jsonl.zst,val-ability-supplements/2792938.jsonl.zst
+2792939,Game Changers NA - Split 1 2025,Swiss,2025-04-21T23:30:00Z,kessoku band vs Berzerkers Dawn,val/events_2792939_grid.jsonl.zst,val-ability-supplements/2792939.jsonl.zst
+2773480,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-22T22:00:00Z,Akave Esports vs Antares Esports,val/events_2773480_grid.jsonl.zst,val-ability-supplements/2773480.jsonl.zst
+2773481,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-23T01:00:00Z,MYVRA vs Fusion,val/events_2773481_grid.jsonl.zst,val-ability-supplements/2773481.jsonl.zst
+2773239,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-23T19:00:00Z,Zen Esports (2) vs University War GC,val/events_2773239_grid.jsonl.zst,val-ability-supplements/2773239.jsonl.zst
+2773240,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-23T22:00:00Z,Leviatan vs VISA KRÜ Blaze,val/events_2773240_grid.jsonl.zst,val-ability-supplements/2773240.jsonl.zst
+2775983,VCT Americas - Stage 1 2025,Playoffs,2025-04-24T21:00:00Z,MIBR vs 100 Thieves,val/events_2775983_grid.jsonl.zst,val-ability-supplements/2775983.jsonl.zst
+2775984,VCT Americas - Stage 1 2025,Playoffs,2025-04-25T00:00:00Z,Sentinels vs Cloud9,val/events_2775984_grid.jsonl.zst,val-ability-supplements/2775984.jsonl.zst
+2775985,VCT Americas - Stage 1 2025,Playoffs,2025-04-25T21:00:00Z,100 Thieves vs NRG,val/events_2775985_grid.jsonl.zst,val-ability-supplements/2775985.jsonl.zst
+2775986,VCT Americas - Stage 1 2025,Playoffs,2025-04-26T00:00:00Z,Cloud9 vs Evil Geniuses (1),val/events_2775986_grid.jsonl.zst,val-ability-supplements/2775986.jsonl.zst
+2775987,VCT Americas - Stage 1 2025,Playoffs,2025-04-26T21:00:00Z,MIBR vs KRÜ Visa,val/events_2775987_grid.jsonl.zst,val-ability-supplements/2775987.jsonl.zst
+2775988,VCT Americas - Stage 1 2025,Playoffs,2025-04-27T00:00:00Z,Sentinels vs G2 Esports,val/events_2775988_grid.jsonl.zst,val-ability-supplements/2775988.jsonl.zst
+2775989,VCT Americas - Stage 1 2025,Playoffs,2025-04-27T21:00:00Z,KRÜ Visa vs Evil Geniuses (1),val/events_2775989_grid.jsonl.zst,val-ability-supplements/2775989.jsonl.zst
+2775990,VCT Americas - Stage 1 2025,Playoffs,2025-04-28T00:00:00Z,G2 Esports vs 100 Thieves,val/events_2775990_grid.jsonl.zst,val-ability-supplements/2775990.jsonl.zst
+2787782,Game Changers JPN - Split 1 2025,Knockouts,2025-04-28T07:00:00Z,DRX Changers vs EOTO,val/events_2787782_grid.jsonl.zst,val-ability-supplements/2787782.jsonl.zst
+2792941,Game Changers NA - Split 1 2025,Swiss,2025-04-28T21:00:00Z,Teevee vs Fisher Fumblers,val/events_2792941_grid.jsonl.zst,val-ability-supplements/2792941.jsonl.zst
+2792942,Game Changers NA - Split 1 2025,Swiss,2025-04-28T21:00:00Z,Prosperity X vs Wadadaa,val/events_2792942_grid.jsonl.zst,val-ability-supplements/2792942.jsonl.zst
+2792944,Game Changers NA - Split 1 2025,Swiss,2025-04-28T21:00:00Z,Catnappers vs Teddy Tactics,val/events_2792944_grid.jsonl.zst,val-ability-supplements/2792944.jsonl.zst
+2773482,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-28T22:00:00Z,Fusion vs Antares Esports,val/events_2773482_grid.jsonl.zst,val-ability-supplements/2773482.jsonl.zst
+2792945,Game Changers NA - Split 1 2025,Swiss,2025-04-28T23:30:00Z,kessoku band vs Evolution,val/events_2792945_grid.jsonl.zst,val-ability-supplements/2792945.jsonl.zst
+2792946,Game Changers NA - Split 1 2025,Swiss,2025-04-28T23:30:00Z,Berzerkers Dawn vs :3,val/events_2792946_grid.jsonl.zst,val-ability-supplements/2792946.jsonl.zst
+2792947,Game Changers NA - Split 1 2025,Swiss,2025-04-28T23:30:00Z,100 Thieves GC vs FlyQuest Red,val/events_2792947_grid.jsonl.zst,val-ability-supplements/2792947.jsonl.zst
+2773483,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-29T01:00:00Z,MYVRA vs Akave Esports,val/events_2773483_grid.jsonl.zst,val-ability-supplements/2773483.jsonl.zst
+2787783,Game Changers JPN - Split 1 2025,Knockouts,2025-04-29T04:00:00Z,DRX Changers vs FENNEL HOTELAVA,val/events_2787783_grid.jsonl.zst,val-ability-supplements/2787783.jsonl.zst
+2776365,Game Changers BR - Split 1 2025,Playoffs,2025-04-29T20:00:00Z,Corinthians Esports (2) vs Team Liquid Visa,val/events_2776365_grid.jsonl.zst,val-ability-supplements/2776365.jsonl.zst
+2773241,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-29T22:00:00Z,University War GC vs Leviatan,val/events_2773241_grid.jsonl.zst,val-ability-supplements/2773241.jsonl.zst
+2776366,Game Changers BR - Split 1 2025,Playoffs,2025-04-29T23:00:00Z,2Game vs Made In Brazil,val/events_2776366_grid.jsonl.zst,val-ability-supplements/2776366.jsonl.zst
+2773484,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-30T01:00:00Z,Antares Esports vs MYVRA,val/events_2773484_grid.jsonl.zst,val-ability-supplements/2773484.jsonl.zst
+2787786,Game Changers JPN - Split 1 2025,Knockouts,2025-04-30T07:00:00Z,FENNEL HOTELAVA vs DRX Changers,val/events_2787786_grid.jsonl.zst,val-ability-supplements/2787786.jsonl.zst
+2773242,Game Changers LATAM - Split 1 2025,Playoffs,2025-04-30T19:00:00Z,University War GC vs VISA KRÜ Blaze,val/events_2773242_grid.jsonl.zst,val-ability-supplements/2773242.jsonl.zst
+2776367,Game Changers BR - Split 1 2025,Playoffs,2025-04-30T20:00:00Z,2Game vs Corinthians Esports (2),val/events_2776367_grid.jsonl.zst,val-ability-supplements/2776367.jsonl.zst
+2776368,Game Changers BR - Split 1 2025,Playoffs,2025-04-30T23:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2776368_grid.jsonl.zst,val-ability-supplements/2776368.jsonl.zst
+2776369,Game Changers BR - Split 1 2025,Playoffs,2025-05-01T20:00:00Z,2Game vs Made In Brazil,val/events_2776369_grid.jsonl.zst,val-ability-supplements/2776369.jsonl.zst
+2773485,Game Changers LATAM - Split 1 2025,Playoffs,2025-05-01T22:00:00Z,MYVRA vs Akave Esports,val/events_2773485_grid.jsonl.zst,val-ability-supplements/2773485.jsonl.zst
+2775991,VCT Americas - Stage 1 2025,Playoffs,2025-05-02T21:00:00Z,Sentinels vs MIBR,val/events_2775991_grid.jsonl.zst,val-ability-supplements/2775991.jsonl.zst
+2775992,VCT Americas - Stage 1 2025,Playoffs,2025-05-03T00:00:00Z,Evil Geniuses (1) vs G2 Esports,val/events_2775992_grid.jsonl.zst,val-ability-supplements/2775992.jsonl.zst
+2775993,VCT Americas - Stage 1 2025,Playoffs,2025-05-03T21:00:00Z,G2 Esports vs MIBR,val/events_2775993_grid.jsonl.zst,val-ability-supplements/2775993.jsonl.zst
+2775994,VCT Americas - Stage 1 2025,Playoffs,2025-05-04T21:00:00Z,G2 Esports vs Sentinels,val/events_2775994_grid.jsonl.zst,val-ability-supplements/2775994.jsonl.zst
+2792957,Game Changers NA - Split 1 2025,Swiss,2025-05-09T21:00:00Z,100 Thieves GC vs Ghost Gaming,val/events_2792957_grid.jsonl.zst,val-ability-supplements/2792957.jsonl.zst
+2792958,Game Changers NA - Split 1 2025,Swiss,2025-05-09T21:00:00Z,Fisher Fumblers vs YFP X,val/events_2792958_grid.jsonl.zst,val-ability-supplements/2792958.jsonl.zst
+2792959,Game Changers NA - Split 1 2025,Swiss,2025-05-09T21:00:00Z,Wadadaa vs FlyQuest Red,val/events_2792959_grid.jsonl.zst,val-ability-supplements/2792959.jsonl.zst
+2792960,Game Changers NA - Split 1 2025,Swiss,2025-05-09T21:00:00Z,kessoku band vs :3,val/events_2792960_grid.jsonl.zst,val-ability-supplements/2792960.jsonl.zst
+2792961,Game Changers NA - Split 1 2025,Swiss,2025-05-09T23:30:00Z,Teevee vs Berzerkers Dawn,val/events_2792961_grid.jsonl.zst,val-ability-supplements/2792961.jsonl.zst
+2792962,Game Changers NA - Split 1 2025,Swiss,2025-05-09T23:30:00Z,Evolution vs Teddy Tactics,val/events_2792962_grid.jsonl.zst,val-ability-supplements/2792962.jsonl.zst
+2792964,Game Changers NA - Split 1 2025,Swiss,2025-05-12T21:00:00Z,:3 vs FlyQuest Red,val/events_2792964_grid.jsonl.zst,val-ability-supplements/2792964.jsonl.zst
+2792968,Game Changers NA - Split 1 2025,Swiss,2025-05-12T21:00:00Z,Teddy Tactics vs Prosperity X,val/events_2792968_grid.jsonl.zst,val-ability-supplements/2792968.jsonl.zst
+2792965,Game Changers NA - Split 1 2025,Swiss,2025-05-12T23:30:00Z,YFP X vs Ghost Gaming,val/events_2792965_grid.jsonl.zst,val-ability-supplements/2792965.jsonl.zst
+2792966,Game Changers NA - Split 1 2025,Swiss,2025-05-12T23:30:00Z,Berzerkers Dawn vs Teevee,val/events_2792966_grid.jsonl.zst,val-ability-supplements/2792966.jsonl.zst
+2804161,Game Changers KR - Split 1 2025,Playoffs,2025-05-15T08:00:00Z,Ninetails vs CNE GC,val/events_2804161_grid.jsonl.zst,val-ability-supplements/2804161.jsonl.zst
+2776370,Game Changers BR - Split 1 2025,Playoffs,2025-05-16T21:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2776370_grid.jsonl.zst,val-ability-supplements/2776370.jsonl.zst
+2792969,Game Changers NA - Split 1 2025,Swiss,2025-05-16T21:00:00Z,Prosperity X vs Ghost Gaming,val/events_2792969_grid.jsonl.zst,val-ability-supplements/2792969.jsonl.zst
+2792970,Game Changers NA - Split 1 2025,Swiss,2025-05-16T23:30:00Z,Fisher Fumblers vs :3,val/events_2792970_grid.jsonl.zst,val-ability-supplements/2792970.jsonl.zst
+2792972,Game Changers NA - Split 1 2025,Playoffs,2025-05-23T21:00:00Z,Shopify Rebellion Gold vs :3,val/events_2792972_grid.jsonl.zst,val-ability-supplements/2792972.jsonl.zst
+2792973,Game Changers NA - Split 1 2025,Playoffs,2025-05-23T21:00:00Z,YFP X vs FlyQuest Red,val/events_2792973_grid.jsonl.zst,val-ability-supplements/2792973.jsonl.zst
+2792974,Game Changers NA - Split 1 2025,Playoffs,2025-05-23T23:30:00Z,Wadadaa vs Ghost Gaming,val/events_2792974_grid.jsonl.zst,val-ability-supplements/2792974.jsonl.zst
+2792975,Game Changers NA - Split 1 2025,Playoffs,2025-05-23T23:30:00Z,100 Thieves GC vs Teevee,val/events_2792975_grid.jsonl.zst,val-ability-supplements/2792975.jsonl.zst
+2792976,Game Changers NA - Split 1 2025,Playoffs,2025-05-24T21:00:00Z,YFP X vs Shopify Rebellion Gold,val/events_2792976_grid.jsonl.zst,val-ability-supplements/2792976.jsonl.zst
+2792977,Game Changers NA - Split 1 2025,Playoffs,2025-05-24T21:00:00Z,FlyQuest Red vs :3,val/events_2792977_grid.jsonl.zst,val-ability-supplements/2792977.jsonl.zst
+2792978,Game Changers NA - Split 1 2025,Playoffs,2025-05-24T23:30:00Z,100 Thieves GC vs Wadadaa,val/events_2792978_grid.jsonl.zst,val-ability-supplements/2792978.jsonl.zst
+2792979,Game Changers NA - Split 1 2025,Playoffs,2025-05-24T23:30:00Z,Teevee vs Ghost Gaming,val/events_2792979_grid.jsonl.zst,val-ability-supplements/2792979.jsonl.zst
+2792980,Game Changers NA - Split 1 2025,Playoffs,2025-05-25T21:00:00Z,Ghost Gaming vs YFP X,val/events_2792980_grid.jsonl.zst,val-ability-supplements/2792980.jsonl.zst
+2792981,Game Changers NA - Split 1 2025,Playoffs,2025-05-25T23:30:00Z,:3 vs 100 Thieves GC,val/events_2792981_grid.jsonl.zst,val-ability-supplements/2792981.jsonl.zst
+2792982,Game Changers NA - Split 1 2025,Playoffs,2025-05-30T21:00:00Z,Wadadaa vs Shopify Rebellion Gold,val/events_2792982_grid.jsonl.zst,val-ability-supplements/2792982.jsonl.zst
+2792983,Game Changers NA - Split 1 2025,Playoffs,2025-05-30T23:30:00Z,Ghost Gaming vs 100 Thieves GC,val/events_2792983_grid.jsonl.zst,val-ability-supplements/2792983.jsonl.zst
+2792984,Game Changers NA - Split 1 2025,Playoffs,2025-05-31T21:00:00Z,Ghost Gaming vs Wadadaa,val/events_2792984_grid.jsonl.zst,val-ability-supplements/2792984.jsonl.zst
+2792985,Game Changers NA - Split 1 2025,Playoffs,2025-06-01T21:00:00Z,Wadadaa vs Shopify Rebellion Gold,val/events_2792985_grid.jsonl.zst,val-ability-supplements/2792985.jsonl.zst
+2808410,VALORANT Masters - Masters Toronto,Swiss,2025-06-07T16:00:00Z,Team Heretics vs Paper Rex,val/events_2808410_grid.jsonl.zst,val-ability-supplements/2808410.jsonl.zst
+2808411,VALORANT Masters - Masters Toronto,Swiss,2025-06-07T19:00:00Z,Bilibili Gaming vs Team Liquid,val/events_2808411_grid.jsonl.zst,val-ability-supplements/2808411.jsonl.zst
+2808412,VALORANT Masters - Masters Toronto,Swiss,2025-06-08T16:00:00Z,Sentinels vs WOLVES ESPORTS,val/events_2808412_grid.jsonl.zst,val-ability-supplements/2808412.jsonl.zst
+2808413,VALORANT Masters - Masters Toronto,Swiss,2025-06-08T19:00:00Z,Gen.G vs MIBR,val/events_2808413_grid.jsonl.zst,val-ability-supplements/2808413.jsonl.zst
+2808414,VALORANT Masters - Masters Toronto,Swiss,2025-06-09T16:00:00Z,Bilibili Gaming vs Sentinels,val/events_2808414_grid.jsonl.zst,val-ability-supplements/2808414.jsonl.zst
+2808415,VALORANT Masters - Masters Toronto,Swiss,2025-06-09T19:00:00Z,Paper Rex vs Gen.G,val/events_2808415_grid.jsonl.zst,val-ability-supplements/2808415.jsonl.zst
+2808416,VALORANT Masters - Masters Toronto,Swiss,2025-06-10T16:00:00Z,Team Heretics vs WOLVES ESPORTS,val/events_2808416_grid.jsonl.zst,val-ability-supplements/2808416.jsonl.zst
+2808417,VALORANT Masters - Masters Toronto,Swiss,2025-06-10T19:00:00Z,Team Liquid vs MIBR,val/events_2808417_grid.jsonl.zst,val-ability-supplements/2808417.jsonl.zst
+2808418,VALORANT Masters - Masters Toronto,Swiss,2025-06-11T16:00:00Z,WOLVES ESPORTS vs Bilibili Gaming,val/events_2808418_grid.jsonl.zst,val-ability-supplements/2808418.jsonl.zst
+2808419,VALORANT Masters - Masters Toronto,Swiss,2025-06-11T19:00:00Z,Team Liquid vs Paper Rex,val/events_2808419_grid.jsonl.zst,val-ability-supplements/2808419.jsonl.zst
+2808422,VALORANT Masters - Masters Toronto,Playoffs,2025-06-13T16:00:00Z,G2 Esports vs Paper Rex,val/events_2808422_grid.jsonl.zst,val-ability-supplements/2808422.jsonl.zst
+2808423,VALORANT Masters - Masters Toronto,Playoffs,2025-06-13T19:00:00Z,Xi Lai Gaming vs Sentinels,val/events_2808423_grid.jsonl.zst,val-ability-supplements/2808423.jsonl.zst
+2808420,VALORANT Masters - Masters Toronto,Playoffs,2025-06-14T16:00:00Z,Rex Regum Qeon vs WOLVES ESPORTS,val/events_2808420_grid.jsonl.zst,val-ability-supplements/2808420.jsonl.zst
+2808421,VALORANT Masters - Masters Toronto,Playoffs,2025-06-14T19:00:00Z,Fnatic vs Gen.G,val/events_2808421_grid.jsonl.zst,val-ability-supplements/2808421.jsonl.zst
+2803539,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-15T15:00:00Z,SK Nebula vs BLVKHVND,val/events_2803539_grid.jsonl.zst,val-ability-supplements/2803539.jsonl.zst
+2808425,VALORANT Masters - Masters Toronto,Playoffs,2025-06-15T16:00:00Z,Xi Lai Gaming vs G2 Esports,val/events_2808425_grid.jsonl.zst,val-ability-supplements/2808425.jsonl.zst
+2803538,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-15T18:00:00Z,Karmine Corp GC vs Twisted Minds Orchid,val/events_2803538_grid.jsonl.zst,val-ability-supplements/2803538.jsonl.zst
+2808424,VALORANT Masters - Masters Toronto,Playoffs,2025-06-15T19:00:00Z,Fnatic vs Rex Regum Qeon,val/events_2808424_grid.jsonl.zst,val-ability-supplements/2808424.jsonl.zst
+2803541,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-16T15:00:00Z,SK Nebula vs GIANTX (2),val/events_2803541_grid.jsonl.zst,val-ability-supplements/2803541.jsonl.zst
+2808427,VALORANT Masters - Masters Toronto,Playoffs,2025-06-16T16:00:00Z,WOLVES ESPORTS vs Gen.G,val/events_2808427_grid.jsonl.zst,val-ability-supplements/2808427.jsonl.zst
+2803540,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-16T18:00:00Z,Karmine Corp GC vs G2 Gozen,val/events_2803540_grid.jsonl.zst,val-ability-supplements/2803540.jsonl.zst
+2808428,VALORANT Masters - Masters Toronto,Playoffs,2025-06-16T19:00:00Z,Paper Rex vs Sentinels,val/events_2808428_grid.jsonl.zst,val-ability-supplements/2808428.jsonl.zst
+2803542,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-17T15:00:00Z,GIANTX (2) vs Karmine Corp GC,val/events_2803542_grid.jsonl.zst,val-ability-supplements/2803542.jsonl.zst
+2808430,VALORANT Masters - Masters Toronto,Playoffs,2025-06-17T16:00:00Z,G2 Esports vs Gen.G,val/events_2808430_grid.jsonl.zst,val-ability-supplements/2808430.jsonl.zst
+2803543,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-17T18:00:00Z,G2 Gozen vs SK Nebula,val/events_2803543_grid.jsonl.zst,val-ability-supplements/2803543.jsonl.zst
+2808429,VALORANT Masters - Masters Toronto,Playoffs,2025-06-17T19:00:00Z,Fnatic vs Sentinels,val/events_2808429_grid.jsonl.zst,val-ability-supplements/2808429.jsonl.zst
+2803544,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-18T15:00:00Z,SK Nebula vs GIANTX (2),val/events_2803544_grid.jsonl.zst,val-ability-supplements/2803544.jsonl.zst
+2815370,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-18T19:00:00Z,University War GC vs Leviatan,val/events_2815370_grid.jsonl.zst,val-ability-supplements/2815370.jsonl.zst
+2815371,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-18T19:00:00Z,Polar Squad Esports vs HellGuardians Esports,val/events_2815371_grid.jsonl.zst,val-ability-supplements/2815371.jsonl.zst
+2815373,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-18T22:00:00Z,Zen Esports (2) vs VISA KRÜ Blaze,val/events_2815373_grid.jsonl.zst,val-ability-supplements/2815373.jsonl.zst
+2815374,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-18T22:00:00Z,Las Cabras GC vs Olimpo Gold,val/events_2815374_grid.jsonl.zst,val-ability-supplements/2815374.jsonl.zst
+2803545,Game Changers EMEA - Split 2 2025,Playoffs,2025-06-19T15:00:00Z,GIANTX (2) vs Karmine Corp GC,val/events_2803545_grid.jsonl.zst,val-ability-supplements/2803545.jsonl.zst
+2815375,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-19T22:00:00Z,Bon Bon Bum vs Fusion,val/events_2815375_grid.jsonl.zst,val-ability-supplements/2815375.jsonl.zst
+2815376,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-19T22:00:00Z,Nos Sweat Blossom vs Nekoma Club,val/events_2815376_grid.jsonl.zst,val-ability-supplements/2815376.jsonl.zst
+2815377,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T01:00:00Z,MYVRA vs Akave Esports,val/events_2815377_grid.jsonl.zst,val-ability-supplements/2815377.jsonl.zst
+2815378,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T01:00:00Z,KTANA GC vs Stray Cats (2),val/events_2815378_grid.jsonl.zst,val-ability-supplements/2815378.jsonl.zst
+2808431,VALORANT Masters - Masters Toronto,Playoffs,2025-06-20T16:00:00Z,Paper Rex vs WOLVES ESPORTS,val/events_2808431_grid.jsonl.zst,val-ability-supplements/2808431.jsonl.zst
+2808432,VALORANT Masters - Masters Toronto,Playoffs,2025-06-20T19:00:00Z,G2 Esports vs Fnatic,val/events_2808432_grid.jsonl.zst,val-ability-supplements/2808432.jsonl.zst
+2815379,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T19:00:00Z,University War GC vs Polar Squad Esports,val/events_2815379_grid.jsonl.zst,val-ability-supplements/2815379.jsonl.zst
+2815380,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T19:00:00Z,Leviatan vs Las Cabras GC,val/events_2815380_grid.jsonl.zst,val-ability-supplements/2815380.jsonl.zst
+2815381,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T22:00:00Z,HellGuardians Esports vs Zen Esports (2),val/events_2815381_grid.jsonl.zst,val-ability-supplements/2815381.jsonl.zst
+2815382,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-20T22:00:00Z,Olimpo Gold vs VISA KRÜ Blaze,val/events_2815382_grid.jsonl.zst,val-ability-supplements/2815382.jsonl.zst
+2808433,VALORANT Masters - Masters Toronto,Playoffs,2025-06-21T16:00:00Z,Fnatic vs WOLVES ESPORTS,val/events_2808433_grid.jsonl.zst,val-ability-supplements/2808433.jsonl.zst
+2815383,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-21T22:00:00Z,Stray Cats (2) vs Akave Esports,val/events_2815383_grid.jsonl.zst,val-ability-supplements/2815383.jsonl.zst
+2815384,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-21T22:00:00Z,MYVRA vs Nos Sweat Blossom,val/events_2815384_grid.jsonl.zst,val-ability-supplements/2815384.jsonl.zst
+2815385,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-22T01:00:00Z,Nekoma Club vs Bon Bon Bum,val/events_2815385_grid.jsonl.zst,val-ability-supplements/2815385.jsonl.zst
+2815386,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-22T01:00:00Z,KTANA GC vs Fusion,val/events_2815386_grid.jsonl.zst,val-ability-supplements/2815386.jsonl.zst
+2808434,VALORANT Masters - Masters Toronto,Playoffs,2025-06-22T17:00:00Z,Fnatic vs Paper Rex,val/events_2808434_grid.jsonl.zst,val-ability-supplements/2808434.jsonl.zst
+2815387,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-23T19:00:00Z,HellGuardians Esports vs Olimpo Gold,val/events_2815387_grid.jsonl.zst,val-ability-supplements/2815387.jsonl.zst
+2815388,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-23T19:00:00Z,Leviatan vs Zen Esports (2),val/events_2815388_grid.jsonl.zst,val-ability-supplements/2815388.jsonl.zst
+2815389,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-23T22:00:00Z,Las Cabras GC vs Polar Squad Esports,val/events_2815389_grid.jsonl.zst,val-ability-supplements/2815389.jsonl.zst
+2815390,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-23T22:00:00Z,University War GC vs VISA KRÜ Blaze,val/events_2815390_grid.jsonl.zst,val-ability-supplements/2815390.jsonl.zst
+2805106,Game Changers BR - Split 2 2025,Swiss,2025-06-24T20:00:00Z,Team Liquid Visa vs Não estamos aqui,val/events_2805106_grid.jsonl.zst,val-ability-supplements/2805106.jsonl.zst
+2805107,Game Changers BR - Split 2 2025,Swiss,2025-06-24T20:00:00Z,2Game vs Curralzinho,val/events_2805107_grid.jsonl.zst,val-ability-supplements/2805107.jsonl.zst
+2815391,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-24T22:00:00Z,Akave Esports vs Bon Bon Bum,val/events_2815391_grid.jsonl.zst,val-ability-supplements/2815391.jsonl.zst
+2815392,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-24T22:00:00Z,Stray Cats (2) vs Nos Sweat Blossom,val/events_2815392_grid.jsonl.zst,val-ability-supplements/2815392.jsonl.zst
+2805108,Game Changers BR - Split 2 2025,Swiss,2025-06-24T23:00:00Z,Ballerina Cappucina vs Made In Brazil,val/events_2805108_grid.jsonl.zst,val-ability-supplements/2805108.jsonl.zst
+2805109,Game Changers BR - Split 2 2025,Swiss,2025-06-24T23:00:00Z,Corinthians Esports (2) vs Team Brave Soldiers (2),val/events_2805109_grid.jsonl.zst,val-ability-supplements/2805109.jsonl.zst
+2813081,Game Changers JPN - Split 2 2025,Knockouts,2025-06-25T01:00:00Z,REIGNITE Lily vs SOLEIL GAMING GC,val/events_2813081_grid.jsonl.zst,val-ability-supplements/2813081.jsonl.zst
+2815393,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-25T01:00:00Z,KTANA GC vs Nekoma Club,val/events_2815393_grid.jsonl.zst,val-ability-supplements/2815393.jsonl.zst
+2815394,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-25T01:00:00Z,MYVRA vs Fusion,val/events_2815394_grid.jsonl.zst,val-ability-supplements/2815394.jsonl.zst
+2813082,Game Changers JPN - Split 2 2025,Knockouts,2025-06-25T04:00:00Z,DRX Changers vs Delight GC,val/events_2813082_grid.jsonl.zst,val-ability-supplements/2813082.jsonl.zst
+2813083,Game Changers JPN - Split 2 2025,Knockouts,2025-06-25T07:00:00Z,Meteor vs EOTO,val/events_2813083_grid.jsonl.zst,val-ability-supplements/2813083.jsonl.zst
+2813084,Game Changers JPN - Split 2 2025,Knockouts,2025-06-25T10:00:00Z,FENNEL HOTELAVA vs Sasanqua,val/events_2813084_grid.jsonl.zst,val-ability-supplements/2813084.jsonl.zst
+2813085,Game Changers JPN - Split 2 2025,Knockouts,2025-06-26T01:00:00Z,DRX Changers vs REIGNITE Lily,val/events_2813085_grid.jsonl.zst,val-ability-supplements/2813085.jsonl.zst
+2813086,Game Changers JPN - Split 2 2025,Knockouts,2025-06-26T04:00:00Z,FENNEL HOTELAVA vs EOTO,val/events_2813086_grid.jsonl.zst,val-ability-supplements/2813086.jsonl.zst
+2813087,Game Changers JPN - Split 2 2025,Knockouts,2025-06-26T07:00:00Z,Delight GC vs SOLEIL GAMING GC,val/events_2813087_grid.jsonl.zst,val-ability-supplements/2813087.jsonl.zst
+2813088,Game Changers JPN - Split 2 2025,Knockouts,2025-06-26T10:00:00Z,Sasanqua vs Meteor,val/events_2813088_grid.jsonl.zst,val-ability-supplements/2813088.jsonl.zst
+2815396,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-26T19:00:00Z,HellGuardians Esports vs VISA KRÜ Blaze,val/events_2815396_grid.jsonl.zst,val-ability-supplements/2815396.jsonl.zst
+2815397,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-26T19:00:00Z,Leviatan vs Polar Squad Esports,val/events_2815397_grid.jsonl.zst,val-ability-supplements/2815397.jsonl.zst
+2815398,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-26T22:00:00Z,University War GC vs Las Cabras GC,val/events_2815398_grid.jsonl.zst,val-ability-supplements/2815398.jsonl.zst
+2815399,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-26T22:00:00Z,Olimpo Gold vs Zen Esports (2),val/events_2815399_grid.jsonl.zst,val-ability-supplements/2815399.jsonl.zst
+2813089,Game Changers JPN - Split 2 2025,Knockouts,2025-06-27T04:00:00Z,SOLEIL GAMING GC vs EOTO,val/events_2813089_grid.jsonl.zst,val-ability-supplements/2813089.jsonl.zst
+2796762,Game Changers Oceania - 2025,Knockouts,2025-06-27T05:00:00Z,Rising Esports GC vs Eternal Valor Esports,val/events_2796762_grid.jsonl.zst,val-ability-supplements/2796762.jsonl.zst
+2813090,Game Changers JPN - Split 2 2025,Knockouts,2025-06-27T07:00:00Z,Meteor vs DRX Changers,val/events_2813090_grid.jsonl.zst,val-ability-supplements/2813090.jsonl.zst
+2796763,Game Changers Oceania - 2025,Knockouts,2025-06-27T08:00:00Z,KISS vs Divine ,val/events_2796763_grid.jsonl.zst,val-ability-supplements/2796763.jsonl.zst
+2813091,Game Changers JPN - Split 2 2025,Knockouts,2025-06-27T10:00:00Z,FENNEL HOTELAVA vs REIGNITE Lily,val/events_2813091_grid.jsonl.zst,val-ability-supplements/2813091.jsonl.zst
+2805110,Game Changers BR - Split 2 2025,Swiss,2025-06-27T20:00:00Z,Team Liquid Visa vs Team Brave Soldiers (2),val/events_2805110_grid.jsonl.zst,val-ability-supplements/2805110.jsonl.zst
+2805111,Game Changers BR - Split 2 2025,Swiss,2025-06-27T20:00:00Z,Made In Brazil vs 2Game,val/events_2805111_grid.jsonl.zst,val-ability-supplements/2805111.jsonl.zst
+2815400,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-27T22:00:00Z,Stray Cats (2) vs Fusion,val/events_2815400_grid.jsonl.zst,val-ability-supplements/2815400.jsonl.zst
+2815401,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-27T22:00:00Z,Nos Sweat Blossom vs Bon Bon Bum,val/events_2815401_grid.jsonl.zst,val-ability-supplements/2815401.jsonl.zst
+2805112,Game Changers BR - Split 2 2025,Swiss,2025-06-27T23:00:00Z,Corinthians Esports (2) vs Não estamos aqui,val/events_2805112_grid.jsonl.zst,val-ability-supplements/2805112.jsonl.zst
+2805113,Game Changers BR - Split 2 2025,Swiss,2025-06-27T23:00:00Z,Ballerina Cappucina vs Curralzinho,val/events_2805113_grid.jsonl.zst,val-ability-supplements/2805113.jsonl.zst
+2815402,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-28T01:00:00Z,KTANA GC vs Akave Esports,val/events_2815402_grid.jsonl.zst,val-ability-supplements/2815402.jsonl.zst
+2815403,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-28T01:00:00Z,MYVRA vs Nekoma Club,val/events_2815403_grid.jsonl.zst,val-ability-supplements/2815403.jsonl.zst
+2796764,Game Changers Oceania - 2025,Knockouts,2025-06-28T02:00:00Z,KISS vs Rising Esports GC,val/events_2796764_grid.jsonl.zst,val-ability-supplements/2796764.jsonl.zst
+2796765,Game Changers Oceania - 2025,Knockouts,2025-06-28T05:00:00Z,Divine  vs Eternal Valor Esports,val/events_2796765_grid.jsonl.zst,val-ability-supplements/2796765.jsonl.zst
+2813092,Game Changers JPN - Split 2 2025,Knockouts,2025-06-28T07:00:00Z,Meteor vs EOTO,val/events_2813092_grid.jsonl.zst,val-ability-supplements/2813092.jsonl.zst
+2796766,Game Changers Oceania - 2025,Knockouts,2025-06-28T08:00:00Z,Divine  vs Rising Esports GC,val/events_2796766_grid.jsonl.zst,val-ability-supplements/2796766.jsonl.zst
+2805114,Game Changers BR - Split 2 2025,Swiss,2025-06-28T20:00:00Z,2Game vs Team Liquid Visa,val/events_2805114_grid.jsonl.zst,val-ability-supplements/2805114.jsonl.zst
+2805115,Game Changers BR - Split 2 2025,Swiss,2025-06-28T20:00:00Z,Não estamos aqui vs Curralzinho,val/events_2805115_grid.jsonl.zst,val-ability-supplements/2805115.jsonl.zst
+2805116,Game Changers BR - Split 2 2025,Swiss,2025-06-28T23:00:00Z,Corinthians Esports (2) vs Made In Brazil,val/events_2805116_grid.jsonl.zst,val-ability-supplements/2805116.jsonl.zst
+2805117,Game Changers BR - Split 2 2025,Swiss,2025-06-28T23:00:00Z,Ballerina Cappucina vs Team Brave Soldiers (2),val/events_2805117_grid.jsonl.zst,val-ability-supplements/2805117.jsonl.zst
+2796767,Game Changers Oceania - 2025,Knockouts,2025-06-29T04:00:00Z,Rising Esports GC vs KISS,val/events_2796767_grid.jsonl.zst,val-ability-supplements/2796767.jsonl.zst
+2813094,Game Changers JPN - Split 2 2025,Knockouts,2025-06-29T07:00:00Z,REIGNITE Lily vs FENNEL HOTELAVA,val/events_2813094_grid.jsonl.zst,val-ability-supplements/2813094.jsonl.zst
+2815404,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-29T19:00:00Z,Polar Squad Esports vs Zen Esports (2),val/events_2815404_grid.jsonl.zst,val-ability-supplements/2815404.jsonl.zst
+2815406,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-29T22:00:00Z,Las Cabras GC vs VISA KRÜ Blaze,val/events_2815406_grid.jsonl.zst,val-ability-supplements/2815406.jsonl.zst
+2815407,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-29T22:00:00Z,University War GC vs Olimpo Gold,val/events_2815407_grid.jsonl.zst,val-ability-supplements/2815407.jsonl.zst
+2812663,Game Changers SEA - Split 2 2025,Playoffs,2025-06-30T09:00:00Z,Team Falcons Vega vs Salapao,val/events_2812663_grid.jsonl.zst,val-ability-supplements/2812663.jsonl.zst
+2812664,Game Changers SEA - Split 2 2025,Playoffs,2025-06-30T12:00:00Z,HYPA HYPA Esports vs Kimmy's Kitchen,val/events_2812664_grid.jsonl.zst,val-ability-supplements/2812664.jsonl.zst
+2815409,Game Changers LATAM - Split 2 2025,Regular Season,2025-06-30T22:00:00Z,Akave Esports vs Nekoma Club,val/events_2815409_grid.jsonl.zst,val-ability-supplements/2815409.jsonl.zst
+2815411,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-01T01:00:00Z,Nos Sweat Blossom vs Fusion,val/events_2815411_grid.jsonl.zst,val-ability-supplements/2815411.jsonl.zst
+2815412,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-01T01:00:00Z,Stray Cats (2) vs Bon Bon Bum,val/events_2815412_grid.jsonl.zst,val-ability-supplements/2815412.jsonl.zst
+2812665,Game Changers SEA - Split 2 2025,Playoffs,2025-07-01T09:00:00Z,MAD Army vs Kitty Nya Nya,val/events_2812665_grid.jsonl.zst,val-ability-supplements/2812665.jsonl.zst
+2812666,Game Changers SEA - Split 2 2025,Playoffs,2025-07-01T12:00:00Z,Xipto Esports vs Precision Power Quickness,val/events_2812666_grid.jsonl.zst,val-ability-supplements/2812666.jsonl.zst
+2812668,Game Changers SEA - Split 2 2025,Playoffs,2025-07-02T09:00:00Z,HYPA HYPA Esports vs Team Falcons Vega,val/events_2812668_grid.jsonl.zst,val-ability-supplements/2812668.jsonl.zst
+2812667,Game Changers SEA - Split 2 2025,Playoffs,2025-07-02T12:00:00Z,Xipto Esports vs MAD Army,val/events_2812667_grid.jsonl.zst,val-ability-supplements/2812667.jsonl.zst
+2812669,Game Changers SEA - Split 2 2025,Playoffs,2025-07-03T09:00:00Z,Kimmy's Kitchen vs Salapao,val/events_2812669_grid.jsonl.zst,val-ability-supplements/2812669.jsonl.zst
+2812670,Game Changers SEA - Split 2 2025,Playoffs,2025-07-03T12:00:00Z,Precision Power Quickness vs Kitty Nya Nya,val/events_2812670_grid.jsonl.zst,val-ability-supplements/2812670.jsonl.zst
+2810890,Game Changers KR - Split 2 2025,Playoffs,2025-07-04T08:00:00Z,Ninetails vs CNE GC,val/events_2810890_grid.jsonl.zst,val-ability-supplements/2810890.jsonl.zst
+2812671,Game Changers SEA - Split 2 2025,Playoffs,2025-07-04T09:00:00Z,Salapao vs MAD Army,val/events_2812671_grid.jsonl.zst,val-ability-supplements/2812671.jsonl.zst
+2812672,Game Changers SEA - Split 2 2025,Playoffs,2025-07-04T12:00:00Z,Precision Power Quickness vs HYPA HYPA Esports,val/events_2812672_grid.jsonl.zst,val-ability-supplements/2812672.jsonl.zst
+2805118,Game Changers BR - Split 2 2025,Swiss,2025-07-04T20:00:00Z,Team Brave Soldiers (2) vs Made In Brazil,val/events_2805118_grid.jsonl.zst,val-ability-supplements/2805118.jsonl.zst
+2805119,Game Changers BR - Split 2 2025,Swiss,2025-07-04T20:00:00Z,2Game vs Não estamos aqui,val/events_2805119_grid.jsonl.zst,val-ability-supplements/2805119.jsonl.zst
+2805120,Game Changers BR - Split 2 2025,Swiss,2025-07-04T23:00:00Z,Corinthians Esports (2) vs Ballerina Cappucina,val/events_2805120_grid.jsonl.zst,val-ability-supplements/2805120.jsonl.zst
+2812673,Game Changers SEA - Split 2 2025,Playoffs,2025-07-05T04:00:00Z,Xipto Esports vs Team Falcons Vega,val/events_2812673_grid.jsonl.zst,val-ability-supplements/2812673.jsonl.zst
+2812674,Game Changers SEA - Split 2 2025,Playoffs,2025-07-05T07:00:00Z,HYPA HYPA Esports vs Salapao,val/events_2812674_grid.jsonl.zst,val-ability-supplements/2812674.jsonl.zst
+2812675,Game Changers SEA - Split 2 2025,Playoffs,2025-07-05T10:00:00Z,HYPA HYPA Esports vs Xipto Esports,val/events_2812675_grid.jsonl.zst,val-ability-supplements/2812675.jsonl.zst
+2815413,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-05T19:00:00Z,University War GC vs HellGuardians Esports,val/events_2815413_grid.jsonl.zst,val-ability-supplements/2815413.jsonl.zst
+2815414,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-05T19:00:00Z,Polar Squad Esports vs VISA KRÜ Blaze,val/events_2815414_grid.jsonl.zst,val-ability-supplements/2815414.jsonl.zst
+2805121,Game Changers BR - Split 2 2025,Swiss,2025-07-05T20:00:00Z,Team Brave Soldiers (2) vs Corinthians Esports (2),val/events_2805121_grid.jsonl.zst,val-ability-supplements/2805121.jsonl.zst
+2815415,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-05T22:00:00Z,Leviatan vs Olimpo Gold,val/events_2815415_grid.jsonl.zst,val-ability-supplements/2815415.jsonl.zst
+2815416,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-05T22:00:00Z,Las Cabras GC vs Zen Esports (2),val/events_2815416_grid.jsonl.zst,val-ability-supplements/2815416.jsonl.zst
+2812676,Game Changers SEA - Split 2 2025,Playoffs,2025-07-06T06:00:00Z,Xipto Esports vs Team Falcons Vega,val/events_2812676_grid.jsonl.zst,val-ability-supplements/2812676.jsonl.zst
+2815417,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-06T22:00:00Z,Stray Cats (2) vs MYVRA,val/events_2815417_grid.jsonl.zst,val-ability-supplements/2815417.jsonl.zst
+2815418,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-06T22:00:00Z,Nekoma Club vs Fusion,val/events_2815418_grid.jsonl.zst,val-ability-supplements/2815418.jsonl.zst
+2815420,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-07T01:00:00Z,Akave Esports vs Nos Sweat Blossom,val/events_2815420_grid.jsonl.zst,val-ability-supplements/2815420.jsonl.zst
+2815421,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-07T19:00:00Z,Leviatan vs VISA KRÜ Blaze,val/events_2815421_grid.jsonl.zst,val-ability-supplements/2815421.jsonl.zst
+2815422,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-07T19:00:00Z,Las Cabras GC vs HellGuardians Esports,val/events_2815422_grid.jsonl.zst,val-ability-supplements/2815422.jsonl.zst
+2815423,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-07T22:00:00Z,University War GC vs Zen Esports (2),val/events_2815423_grid.jsonl.zst,val-ability-supplements/2815423.jsonl.zst
+2815424,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-07T22:00:00Z,Polar Squad Esports vs Olimpo Gold,val/events_2815424_grid.jsonl.zst,val-ability-supplements/2815424.jsonl.zst
+2815425,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-08T22:00:00Z,Akave Esports vs Fusion,val/events_2815425_grid.jsonl.zst,val-ability-supplements/2815425.jsonl.zst
+2815427,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-09T01:00:00Z,MYVRA vs Bon Bon Bum,val/events_2815427_grid.jsonl.zst,val-ability-supplements/2815427.jsonl.zst
+2815428,Game Changers LATAM - Split 2 2025,Regular Season,2025-07-09T01:00:00Z,Stray Cats (2) vs Nekoma Club,val/events_2815428_grid.jsonl.zst,val-ability-supplements/2815428.jsonl.zst
+2805123,Game Changers BR - Split 2 2025,Playoffs,2025-07-11T20:00:00Z,Team Liquid Visa vs Corinthians Esports (2),val/events_2805123_grid.jsonl.zst,val-ability-supplements/2805123.jsonl.zst
+2805124,Game Changers BR - Split 2 2025,Playoffs,2025-07-11T23:00:00Z,2Game vs Made In Brazil,val/events_2805124_grid.jsonl.zst,val-ability-supplements/2805124.jsonl.zst
+2805125,Game Changers BR - Split 2 2025,Playoffs,2025-07-12T20:00:00Z,Made In Brazil vs Corinthians Esports (2),val/events_2805125_grid.jsonl.zst,val-ability-supplements/2805125.jsonl.zst
+2805126,Game Changers BR - Split 2 2025,Playoffs,2025-07-12T23:00:00Z,2Game vs Team Liquid Visa,val/events_2805126_grid.jsonl.zst,val-ability-supplements/2805126.jsonl.zst
+2815430,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-13T19:00:00Z,University War GC vs Zen Esports (2),val/events_2815430_grid.jsonl.zst,val-ability-supplements/2815430.jsonl.zst
+2805127,Game Changers BR - Split 2 2025,Playoffs,2025-07-13T20:00:00Z,Made In Brazil vs 2Game,val/events_2805127_grid.jsonl.zst,val-ability-supplements/2805127.jsonl.zst
+2815431,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-13T22:00:00Z,VISA KRÜ Blaze vs Leviatan,val/events_2815431_grid.jsonl.zst,val-ability-supplements/2815431.jsonl.zst
+2815505,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-14T22:00:00Z,Akave Esports vs Bon Bon Bum,val/events_2815505_grid.jsonl.zst,val-ability-supplements/2815505.jsonl.zst
+2815506,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-15T01:00:00Z,Fusion vs MYVRA,val/events_2815506_grid.jsonl.zst,val-ability-supplements/2815506.jsonl.zst
+2815432,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-15T19:00:00Z,VISA KRÜ Blaze vs University War GC,val/events_2815432_grid.jsonl.zst,val-ability-supplements/2815432.jsonl.zst
+2815433,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-15T22:00:00Z,Leviatan vs Zen Esports (2),val/events_2815433_grid.jsonl.zst,val-ability-supplements/2815433.jsonl.zst
+2819676,VCT Americas - Stage 2 2025,Regular Season,2025-07-18T21:00:00Z,Cloud9 vs FURIA,val/events_2819676_grid.jsonl.zst,val-ability-supplements/2819676.jsonl.zst
+2819677,VCT Americas - Stage 2 2025,Regular Season,2025-07-19T00:00:00Z,Leviatán Esports vs LOUD,val/events_2819677_grid.jsonl.zst,val-ability-supplements/2819677.jsonl.zst
+2819678,VCT Americas - Stage 2 2025,Regular Season,2025-07-19T21:00:00Z,Evil Geniuses (1) vs 2GAME eSports,val/events_2819678_grid.jsonl.zst,val-ability-supplements/2819678.jsonl.zst
+2819679,VCT Americas - Stage 2 2025,Regular Season,2025-07-20T00:15:00Z,MIBR vs KRÜ Visa,val/events_2819679_grid.jsonl.zst,val-ability-supplements/2819679.jsonl.zst
+2819680,VCT Americas - Stage 2 2025,Regular Season,2025-07-20T21:00:00Z,100 Thieves vs NRG,val/events_2819680_grid.jsonl.zst,val-ability-supplements/2819680.jsonl.zst
+2819681,VCT Americas - Stage 2 2025,Regular Season,2025-07-21T00:00:00Z,Sentinels vs G2 Esports,val/events_2819681_grid.jsonl.zst,val-ability-supplements/2819681.jsonl.zst
+2815507,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-21T22:00:00Z,Fusion vs Bon Bon Bum,val/events_2815507_grid.jsonl.zst,val-ability-supplements/2815507.jsonl.zst
+2815434,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-22T22:00:00Z,University War GC vs Zen Esports (2),val/events_2815434_grid.jsonl.zst,val-ability-supplements/2815434.jsonl.zst
+2815508,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-23T01:00:00Z,Fusion vs MYVRA,val/events_2815508_grid.jsonl.zst,val-ability-supplements/2815508.jsonl.zst
+2805128,Game Changers BR - Split 2 2025,Playoffs,2025-07-24T21:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2805128_grid.jsonl.zst,val-ability-supplements/2805128.jsonl.zst
+2819682,VCT Americas - Stage 2 2025,Regular Season,2025-07-25T21:00:00Z,2GAME eSports vs G2 Esports,val/events_2819682_grid.jsonl.zst,val-ability-supplements/2819682.jsonl.zst
+2819683,VCT Americas - Stage 2 2025,Regular Season,2025-07-26T00:00:00Z,FURIA vs Sentinels,val/events_2819683_grid.jsonl.zst,val-ability-supplements/2819683.jsonl.zst
+2819684,VCT Americas - Stage 2 2025,Regular Season,2025-07-26T21:00:00Z,100 Thieves vs KRÜ Visa,val/events_2819684_grid.jsonl.zst,val-ability-supplements/2819684.jsonl.zst
+2819685,VCT Americas - Stage 2 2025,Regular Season,2025-07-27T00:00:00Z,LOUD vs NRG,val/events_2819685_grid.jsonl.zst,val-ability-supplements/2819685.jsonl.zst
+2819686,VCT Americas - Stage 2 2025,Regular Season,2025-07-27T21:00:00Z,Cloud9 vs Evil Geniuses (1),val/events_2819686_grid.jsonl.zst,val-ability-supplements/2819686.jsonl.zst
+2819687,VCT Americas - Stage 2 2025,Regular Season,2025-07-28T00:00:00Z,MIBR vs Leviatán Esports,val/events_2819687_grid.jsonl.zst,val-ability-supplements/2819687.jsonl.zst
+2815435,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-28T19:00:00Z,Zen Esports (2) vs Leviatan,val/events_2815435_grid.jsonl.zst,val-ability-supplements/2815435.jsonl.zst
+2833627,Game Changers NA - Split 2 2025,Swiss,2025-07-28T21:00:00Z,Ghost Gaming vs Alliance Angels,val/events_2833627_grid.jsonl.zst,val-ability-supplements/2833627.jsonl.zst
+2833628,Game Changers NA - Split 2 2025,Swiss,2025-07-28T21:00:00Z,FlyQuest Red vs Kiri Magenta,val/events_2833628_grid.jsonl.zst,val-ability-supplements/2833628.jsonl.zst
+2833629,Game Changers NA - Split 2 2025,Swiss,2025-07-28T21:00:00Z,Shopify Rebellion Gold vs Artificial Intelligence,val/events_2833629_grid.jsonl.zst,val-ability-supplements/2833629.jsonl.zst
+2833630,Game Changers NA - Split 2 2025,Swiss,2025-07-28T21:00:00Z,100 Thieves GC vs SEN Otters,val/events_2833630_grid.jsonl.zst,val-ability-supplements/2833630.jsonl.zst
+2833631,Game Changers NA - Split 2 2025,Swiss,2025-07-28T23:30:00Z,:3 vs Tenax GC,val/events_2833631_grid.jsonl.zst,val-ability-supplements/2833631.jsonl.zst
+2833633,Game Changers NA - Split 2 2025,Swiss,2025-07-28T23:30:00Z,Wadadaa vs ^-^,val/events_2833633_grid.jsonl.zst,val-ability-supplements/2833633.jsonl.zst
+2833634,Game Changers NA - Split 2 2025,Swiss,2025-07-28T23:30:00Z,YFP X vs YDZ Black,val/events_2833634_grid.jsonl.zst,val-ability-supplements/2833634.jsonl.zst
+2833635,Game Changers NA - Split 2 2025,Swiss,2025-07-28T23:30:00Z,Teevee vs Mak N Cheese,val/events_2833635_grid.jsonl.zst,val-ability-supplements/2833635.jsonl.zst
+2815510,Game Changers LATAM - Split 2 2025,Playoffs,2025-07-29T22:00:00Z,MYVRA vs Akave Esports,val/events_2815510_grid.jsonl.zst,val-ability-supplements/2815510.jsonl.zst
+2819688,VCT Americas - Stage 2 2025,Regular Season,2025-08-01T21:00:00Z,2GAME eSports vs FURIA,val/events_2819688_grid.jsonl.zst,val-ability-supplements/2819688.jsonl.zst
+2819689,VCT Americas - Stage 2 2025,Regular Season,2025-08-02T00:00:00Z,Leviatán Esports vs NRG,val/events_2819689_grid.jsonl.zst,val-ability-supplements/2819689.jsonl.zst
+2819690,VCT Americas - Stage 2 2025,Regular Season,2025-08-02T21:00:00Z,Sentinels vs Cloud9,val/events_2819690_grid.jsonl.zst,val-ability-supplements/2819690.jsonl.zst
+2819691,VCT Americas - Stage 2 2025,Regular Season,2025-08-03T00:00:00Z,100 Thieves vs MIBR,val/events_2819691_grid.jsonl.zst,val-ability-supplements/2819691.jsonl.zst
+2819692,VCT Americas - Stage 2 2025,Regular Season,2025-08-03T21:00:00Z,G2 Esports vs Evil Geniuses (1),val/events_2819692_grid.jsonl.zst,val-ability-supplements/2819692.jsonl.zst
+2819693,VCT Americas - Stage 2 2025,Regular Season,2025-08-04T00:00:00Z,LOUD vs KRÜ Visa,val/events_2819693_grid.jsonl.zst,val-ability-supplements/2819693.jsonl.zst
+2833637,Game Changers NA - Split 2 2025,Swiss,2025-08-04T21:00:00Z,Wadadaa vs YFP X,val/events_2833637_grid.jsonl.zst,val-ability-supplements/2833637.jsonl.zst
+2833639,Game Changers NA - Split 2 2025,Swiss,2025-08-04T21:00:00Z,Shopify Rebellion Gold vs Mak N Cheese,val/events_2833639_grid.jsonl.zst,val-ability-supplements/2833639.jsonl.zst
+2833640,Game Changers NA - Split 2 2025,Swiss,2025-08-04T21:00:00Z,SEN Otters vs Alliance Angels,val/events_2833640_grid.jsonl.zst,val-ability-supplements/2833640.jsonl.zst
+2833643,Game Changers NA - Split 2 2025,Swiss,2025-08-04T21:00:00Z,:3 vs YDZ Black,val/events_2833643_grid.jsonl.zst,val-ability-supplements/2833643.jsonl.zst
+2833636,Game Changers NA - Split 2 2025,Swiss,2025-08-04T23:30:00Z,Ghost Gaming vs Tenax GC,val/events_2833636_grid.jsonl.zst,val-ability-supplements/2833636.jsonl.zst
+2833638,Game Changers NA - Split 2 2025,Swiss,2025-08-04T23:30:00Z,100 Thieves GC vs Kiri Magenta,val/events_2833638_grid.jsonl.zst,val-ability-supplements/2833638.jsonl.zst
+2833641,Game Changers NA - Split 2 2025,Swiss,2025-08-04T23:30:00Z,Teevee vs Artificial Intelligence,val/events_2833641_grid.jsonl.zst,val-ability-supplements/2833641.jsonl.zst
+2833642,Game Changers NA - Split 2 2025,Swiss,2025-08-04T23:30:00Z,FlyQuest Red vs ^-^,val/events_2833642_grid.jsonl.zst,val-ability-supplements/2833642.jsonl.zst
+2819694,VCT Americas - Stage 2 2025,Regular Season,2025-08-08T21:00:00Z,Cloud9 vs 2GAME eSports,val/events_2819694_grid.jsonl.zst,val-ability-supplements/2819694.jsonl.zst
+2819695,VCT Americas - Stage 2 2025,Regular Season,2025-08-09T00:00:00Z,MIBR vs NRG,val/events_2819695_grid.jsonl.zst,val-ability-supplements/2819695.jsonl.zst
+2819696,VCT Americas - Stage 2 2025,Regular Season,2025-08-09T21:00:00Z,Sentinels vs Evil Geniuses (1),val/events_2819696_grid.jsonl.zst,val-ability-supplements/2819696.jsonl.zst
+2819697,VCT Americas - Stage 2 2025,Regular Season,2025-08-10T00:00:00Z,Leviatán Esports vs KRÜ Visa,val/events_2819697_grid.jsonl.zst,val-ability-supplements/2819697.jsonl.zst
+2819698,VCT Americas - Stage 2 2025,Regular Season,2025-08-10T21:00:00Z,FURIA vs G2 Esports,val/events_2819698_grid.jsonl.zst,val-ability-supplements/2819698.jsonl.zst
+2819699,VCT Americas - Stage 2 2025,Regular Season,2025-08-11T00:00:00Z,LOUD vs 100 Thieves,val/events_2819699_grid.jsonl.zst,val-ability-supplements/2819699.jsonl.zst
+2833645,Game Changers NA - Split 2 2025,Swiss,2025-08-11T21:00:00Z,100 Thieves GC vs Ghost Gaming,val/events_2833645_grid.jsonl.zst,val-ability-supplements/2833645.jsonl.zst
+2833646,Game Changers NA - Split 2 2025,Swiss,2025-08-11T21:00:00Z,:3 vs Kiri Magenta,val/events_2833646_grid.jsonl.zst,val-ability-supplements/2833646.jsonl.zst
+2833647,Game Changers NA - Split 2 2025,Swiss,2025-08-11T21:00:00Z,Shopify Rebellion Gold vs Wadadaa,val/events_2833647_grid.jsonl.zst,val-ability-supplements/2833647.jsonl.zst
+2833651,Game Changers NA - Split 2 2025,Swiss,2025-08-11T21:00:00Z,^-^ vs YDZ Black,val/events_2833651_grid.jsonl.zst,val-ability-supplements/2833651.jsonl.zst
+2833648,Game Changers NA - Split 2 2025,Swiss,2025-08-11T23:30:00Z,FlyQuest Red vs Artificial Intelligence,val/events_2833648_grid.jsonl.zst,val-ability-supplements/2833648.jsonl.zst
+2833649,Game Changers NA - Split 2 2025,Swiss,2025-08-11T23:30:00Z,Mak N Cheese vs Tenax GC,val/events_2833649_grid.jsonl.zst,val-ability-supplements/2833649.jsonl.zst
+2833650,Game Changers NA - Split 2 2025,Swiss,2025-08-11T23:30:00Z,SEN Otters vs YFP X,val/events_2833650_grid.jsonl.zst,val-ability-supplements/2833650.jsonl.zst
+2833652,Game Changers NA - Split 2 2025,Swiss,2025-08-11T23:30:00Z,Alliance Angels vs Teevee,val/events_2833652_grid.jsonl.zst,val-ability-supplements/2833652.jsonl.zst
+2819700,VCT Americas - Stage 2 2025,Regular Season,2025-08-15T21:00:00Z,KRÜ Visa vs NRG,val/events_2819700_grid.jsonl.zst,val-ability-supplements/2819700.jsonl.zst
+2819701,VCT Americas - Stage 2 2025,Regular Season,2025-08-16T00:00:00Z,100 Thieves vs Leviatán Esports,val/events_2819701_grid.jsonl.zst,val-ability-supplements/2819701.jsonl.zst
+2819702,VCT Americas - Stage 2 2025,Regular Season,2025-08-16T21:00:00Z,FURIA vs Evil Geniuses (1),val/events_2819702_grid.jsonl.zst,val-ability-supplements/2819702.jsonl.zst
+2819703,VCT Americas - Stage 2 2025,Regular Season,2025-08-17T00:00:00Z,2GAME eSports vs Sentinels,val/events_2819703_grid.jsonl.zst,val-ability-supplements/2819703.jsonl.zst
+2819704,VCT Americas - Stage 2 2025,Regular Season,2025-08-17T21:00:00Z,G2 Esports vs Cloud9,val/events_2819704_grid.jsonl.zst,val-ability-supplements/2819704.jsonl.zst
+2819705,VCT Americas - Stage 2 2025,Regular Season,2025-08-18T00:00:00Z,MIBR vs LOUD,val/events_2819705_grid.jsonl.zst,val-ability-supplements/2819705.jsonl.zst
+2833547,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-18T19:00:00Z,Zen Esports (2) vs Las Cabras GC,val/events_2833547_grid.jsonl.zst,val-ability-supplements/2833547.jsonl.zst
+2833653,Game Changers NA - Split 2 2025,Swiss,2025-08-18T21:00:00Z,Shopify Rebellion Gold vs 100 Thieves GC,val/events_2833653_grid.jsonl.zst,val-ability-supplements/2833653.jsonl.zst
+2833654,Game Changers NA - Split 2 2025,Swiss,2025-08-18T21:00:00Z,FlyQuest Red vs Ghost Gaming,val/events_2833654_grid.jsonl.zst,val-ability-supplements/2833654.jsonl.zst
+2833657,Game Changers NA - Split 2 2025,Swiss,2025-08-18T21:00:00Z,YDZ Black vs Kiri Magenta,val/events_2833657_grid.jsonl.zst,val-ability-supplements/2833657.jsonl.zst
+2833660,Game Changers NA - Split 2 2025,Swiss,2025-08-18T21:00:00Z,Artificial Intelligence vs Tenax GC,val/events_2833660_grid.jsonl.zst,val-ability-supplements/2833660.jsonl.zst
+2833548,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-18T22:00:00Z,VISA KRÜ Blaze vs Olimpo Gold,val/events_2833548_grid.jsonl.zst,val-ability-supplements/2833548.jsonl.zst
+2833656,Game Changers NA - Split 2 2025,Swiss,2025-08-18T23:30:00Z,Wadadaa vs Mak N Cheese,val/events_2833656_grid.jsonl.zst,val-ability-supplements/2833656.jsonl.zst
+2833658,Game Changers NA - Split 2 2025,Swiss,2025-08-18T23:30:00Z,^-^ vs Alliance Angels,val/events_2833658_grid.jsonl.zst,val-ability-supplements/2833658.jsonl.zst
+2833659,Game Changers NA - Split 2 2025,Swiss,2025-08-18T23:30:00Z,Teevee vs SEN Otters,val/events_2833659_grid.jsonl.zst,val-ability-supplements/2833659.jsonl.zst
+2833549,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-19T22:00:00Z,Fusion vs Nos Sweat Blossom,val/events_2833549_grid.jsonl.zst,val-ability-supplements/2833549.jsonl.zst
+2833550,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-20T01:00:00Z,Bon Bon Bum vs Stray Cats (2),val/events_2833550_grid.jsonl.zst,val-ability-supplements/2833550.jsonl.zst
+2843060,VCT Americas - Stage 2 2025,Playoffs,2025-08-21T21:00:00Z,Leviatán Esports vs Cloud9,val/events_2843060_grid.jsonl.zst,val-ability-supplements/2843060.jsonl.zst
+2843061,VCT Americas - Stage 2 2025,Playoffs,2025-08-22T00:00:00Z,G2 Esports vs 100 Thieves,val/events_2843061_grid.jsonl.zst,val-ability-supplements/2843061.jsonl.zst
+2843062,VCT Americas - Stage 2 2025,Playoffs,2025-08-22T21:00:00Z,Cloud9 vs Sentinels,val/events_2843062_grid.jsonl.zst,val-ability-supplements/2843062.jsonl.zst
+2843063,VCT Americas - Stage 2 2025,Playoffs,2025-08-23T00:00:00Z,G2 Esports vs NRG,val/events_2843063_grid.jsonl.zst,val-ability-supplements/2843063.jsonl.zst
+2843064,VCT Americas - Stage 2 2025,Playoffs,2025-08-23T21:00:00Z,Leviatán Esports vs KRÜ Visa,val/events_2843064_grid.jsonl.zst,val-ability-supplements/2843064.jsonl.zst
+2843065,VCT Americas - Stage 2 2025,Playoffs,2025-08-24T00:00:00Z,100 Thieves vs Evil Geniuses (1),val/events_2843065_grid.jsonl.zst,val-ability-supplements/2843065.jsonl.zst
+2843067,VCT Americas - Stage 2 2025,Playoffs,2025-08-24T21:00:00Z,NRG vs Leviatán Esports,val/events_2843067_grid.jsonl.zst,val-ability-supplements/2843067.jsonl.zst
+2843066,VCT Americas - Stage 2 2025,Playoffs,2025-08-25T00:00:00Z,Cloud9 vs 100 Thieves,val/events_2843066_grid.jsonl.zst,val-ability-supplements/2843066.jsonl.zst
+2833552,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-25T19:00:00Z,Zen Esports (2) vs Leviatan,val/events_2833552_grid.jsonl.zst,val-ability-supplements/2833552.jsonl.zst
+2833662,Game Changers NA - Split 2 2025,Swiss,2025-08-25T21:00:00Z,Ghost Gaming vs Wadadaa,val/events_2833662_grid.jsonl.zst,val-ability-supplements/2833662.jsonl.zst
+2833663,Game Changers NA - Split 2 2025,Swiss,2025-08-25T21:00:00Z,100 Thieves GC vs YFP X,val/events_2833663_grid.jsonl.zst,val-ability-supplements/2833663.jsonl.zst
+2833664,Game Changers NA - Split 2 2025,Swiss,2025-08-25T21:00:00Z,:3 vs SEN Otters,val/events_2833664_grid.jsonl.zst,val-ability-supplements/2833664.jsonl.zst
+2833665,Game Changers NA - Split 2 2025,Swiss,2025-08-25T21:00:00Z,FlyQuest Red vs Mak N Cheese,val/events_2833665_grid.jsonl.zst,val-ability-supplements/2833665.jsonl.zst
+2833553,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-25T22:00:00Z,VISA KRÜ Blaze vs University War GC,val/events_2833553_grid.jsonl.zst,val-ability-supplements/2833553.jsonl.zst
+2833666,Game Changers NA - Split 2 2025,Swiss,2025-08-25T23:30:00Z,Kiri Magenta vs Tenax GC,val/events_2833666_grid.jsonl.zst,val-ability-supplements/2833666.jsonl.zst
+2833667,Game Changers NA - Split 2 2025,Swiss,2025-08-25T23:30:00Z,Artificial Intelligence vs ^-^,val/events_2833667_grid.jsonl.zst,val-ability-supplements/2833667.jsonl.zst
+2833668,Game Changers NA - Split 2 2025,Swiss,2025-08-25T23:30:00Z,Teevee vs YDZ Black,val/events_2833668_grid.jsonl.zst,val-ability-supplements/2833668.jsonl.zst
+2833554,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-26T22:00:00Z,Fusion vs Akave Esports,val/events_2833554_grid.jsonl.zst,val-ability-supplements/2833554.jsonl.zst
+2833555,Game Changers LATAM - Main Event 2025,Knockouts,2025-08-27T01:00:00Z,Bon Bon Bum vs MYVRA,val/events_2833555_grid.jsonl.zst,val-ability-supplements/2833555.jsonl.zst
+2843068,VCT Americas - Stage 2 2025,Playoffs,2025-08-29T21:00:00Z,G2 Esports vs Sentinels,val/events_2843068_grid.jsonl.zst,val-ability-supplements/2843068.jsonl.zst
+2843069,VCT Americas - Stage 2 2025,Playoffs,2025-08-30T00:00:00Z,Cloud9 vs NRG,val/events_2843069_grid.jsonl.zst,val-ability-supplements/2843069.jsonl.zst
+2843070,VCT Americas - Stage 2 2025,Playoffs,2025-08-30T21:00:00Z,NRG vs Sentinels,val/events_2843070_grid.jsonl.zst,val-ability-supplements/2843070.jsonl.zst
+2843071,VCT Americas - Stage 2 2025,Playoffs,2025-08-31T21:00:00Z,NRG vs G2 Esports,val/events_2843071_grid.jsonl.zst,val-ability-supplements/2843071.jsonl.zst
+2833557,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-01T19:00:00Z,VISA KRÜ Blaze vs Leviatan,val/events_2833557_grid.jsonl.zst,val-ability-supplements/2833557.jsonl.zst
+2833558,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-01T22:00:00Z,University War GC vs Zen Esports (2),val/events_2833558_grid.jsonl.zst,val-ability-supplements/2833558.jsonl.zst
+2833559,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-02T22:00:00Z,MYVRA vs Akave Esports,val/events_2833559_grid.jsonl.zst,val-ability-supplements/2833559.jsonl.zst
+2833560,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-03T01:00:00Z,Bon Bon Bum vs Fusion,val/events_2833560_grid.jsonl.zst,val-ability-supplements/2833560.jsonl.zst
+2833561,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-03T19:00:00Z,Zen Esports (2) vs VISA KRÜ Blaze,val/events_2833561_grid.jsonl.zst,val-ability-supplements/2833561.jsonl.zst
+2833562,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-04T22:00:00Z,Bon Bon Bum vs MYVRA,val/events_2833562_grid.jsonl.zst,val-ability-supplements/2833562.jsonl.zst
+2841237,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-08T20:00:00Z,Made In Brazil vs Paintress,val/events_2841237_grid.jsonl.zst,val-ability-supplements/2841237.jsonl.zst
+2833669,Game Changers NA - Split 2 2025,Swiss,2025-09-08T21:00:00Z,100 Thieves GC vs FlyQuest Red,val/events_2833669_grid.jsonl.zst,val-ability-supplements/2833669.jsonl.zst
+2833670,Game Changers NA - Split 2 2025,Swiss,2025-09-08T21:00:00Z,Ghost Gaming vs Kiri Magenta,val/events_2833670_grid.jsonl.zst,val-ability-supplements/2833670.jsonl.zst
+2841238,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-08T23:00:00Z,Corinthians Esports (2) vs Team Brave Soldiers (2),val/events_2841238_grid.jsonl.zst,val-ability-supplements/2841238.jsonl.zst
+2833671,Game Changers NA - Split 2 2025,Swiss,2025-09-08T23:30:00Z,:3 vs Tenax GC,val/events_2833671_grid.jsonl.zst,val-ability-supplements/2833671.jsonl.zst
+2833672,Game Changers NA - Split 2 2025,Swiss,2025-09-08T23:30:00Z,SEN Otters vs YDZ Black,val/events_2833672_grid.jsonl.zst,val-ability-supplements/2833672.jsonl.zst
+2833673,Game Changers NA - Split 2 2025,Swiss,2025-09-08T23:30:00Z,Mak N Cheese vs ^-^,val/events_2833673_grid.jsonl.zst,val-ability-supplements/2833673.jsonl.zst
+2833563,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-09T19:00:00Z,VISA KRÜ Blaze vs Leviatan,val/events_2833563_grid.jsonl.zst,val-ability-supplements/2833563.jsonl.zst
+2841239,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-09T20:00:00Z,Team Liquid Visa vs Stellae Gaming (2),val/events_2841239_grid.jsonl.zst,val-ability-supplements/2841239.jsonl.zst
+2841240,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-09T23:00:00Z,2Game vs Não estamos aqui,val/events_2841240_grid.jsonl.zst,val-ability-supplements/2841240.jsonl.zst
+2841241,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-10T20:00:00Z,Paintress vs Corinthians Esports (2),val/events_2841241_grid.jsonl.zst,val-ability-supplements/2841241.jsonl.zst
+2833674,Game Changers NA - Split 2 2025,Swiss,2025-09-10T21:00:00Z,FlyQuest Red vs SEN Otters,val/events_2833674_grid.jsonl.zst,val-ability-supplements/2833674.jsonl.zst
+2833564,Game Changers LATAM - Main Event 2025,Knockouts,2025-09-10T22:00:00Z,MYVRA vs Akave Esports,val/events_2833564_grid.jsonl.zst,val-ability-supplements/2833564.jsonl.zst
+2841242,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-10T23:00:00Z,Stellae Gaming (2) vs Não estamos aqui,val/events_2841242_grid.jsonl.zst,val-ability-supplements/2841242.jsonl.zst
+2833675,Game Changers NA - Split 2 2025,Swiss,2025-09-10T23:30:00Z,Kiri Magenta vs ^-^,val/events_2833675_grid.jsonl.zst,val-ability-supplements/2833675.jsonl.zst
+2841243,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-23T20:00:00Z,Team Brave Soldiers (2) vs Made In Brazil,val/events_2841243_grid.jsonl.zst,val-ability-supplements/2841243.jsonl.zst
+2841244,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-23T23:00:00Z,2Game vs Team Liquid Visa,val/events_2841244_grid.jsonl.zst,val-ability-supplements/2841244.jsonl.zst
+2841245,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-24T20:00:00Z,Corinthians Esports (2) vs 2Game,val/events_2841245_grid.jsonl.zst,val-ability-supplements/2841245.jsonl.zst
+2841246,Game Changers BR - Season Finals 2025,Regional Finals,2025-09-24T23:00:00Z,Stellae Gaming (2) vs Team Brave Soldiers (2),val/events_2841246_grid.jsonl.zst,val-ability-supplements/2841246.jsonl.zst
+2855893,Game Changers Pacific - 2025,Knockouts,2025-10-06T08:00:00Z,Xipto Esports vs Rising Esports GC,val/events_2855893_grid.jsonl.zst,val-ability-supplements/2855893.jsonl.zst
+2855894,Game Changers Pacific - 2025,Knockouts,2025-10-06T10:00:00Z,Team Falcons Vega vs REIGNITE Lily,val/events_2855894_grid.jsonl.zst,val-ability-supplements/2855894.jsonl.zst
+2855895,Game Changers Pacific - 2025,Knockouts,2025-10-07T06:00:00Z,FENNEL HOTELAVA vs HYPA HYPA Esports,val/events_2855895_grid.jsonl.zst,val-ability-supplements/2855895.jsonl.zst
+2855896,Game Changers Pacific - 2025,Knockouts,2025-10-07T08:00:00Z,Ninetails vs Asterisk Women,val/events_2855896_grid.jsonl.zst,val-ability-supplements/2855896.jsonl.zst
+2855897,Game Changers Pacific - 2025,Knockouts,2025-10-07T10:00:00Z,Team Falcons Vega vs Xipto Esports,val/events_2855897_grid.jsonl.zst,val-ability-supplements/2855897.jsonl.zst
+2833676,Game Changers NA - Split 2 2025,Playoffs,2025-10-07T21:00:00Z,Shopify Rebellion Gold vs SEN Otters,val/events_2833676_grid.jsonl.zst,val-ability-supplements/2833676.jsonl.zst
+2833677,Game Changers NA - Split 2 2025,Playoffs,2025-10-07T21:00:00Z,100 Thieves GC vs Ghost Gaming,val/events_2833677_grid.jsonl.zst,val-ability-supplements/2833677.jsonl.zst
+2833678,Game Changers NA - Split 2 2025,Playoffs,2025-10-07T23:30:00Z,YFP X vs Kiri Magenta,val/events_2833678_grid.jsonl.zst,val-ability-supplements/2833678.jsonl.zst
+2833679,Game Changers NA - Split 2 2025,Playoffs,2025-10-07T23:30:00Z,Wadadaa vs :3,val/events_2833679_grid.jsonl.zst,val-ability-supplements/2833679.jsonl.zst
+2855898,Game Changers Pacific - 2025,Knockouts,2025-10-08T06:00:00Z,Ninetails vs FENNEL HOTELAVA,val/events_2855898_grid.jsonl.zst,val-ability-supplements/2855898.jsonl.zst
+2855899,Game Changers Pacific - 2025,Knockouts,2025-10-08T08:00:00Z,REIGNITE Lily vs Rising Esports GC,val/events_2855899_grid.jsonl.zst,val-ability-supplements/2855899.jsonl.zst
+2855900,Game Changers Pacific - 2025,Knockouts,2025-10-08T10:00:00Z,Asterisk Women vs HYPA HYPA Esports,val/events_2855900_grid.jsonl.zst,val-ability-supplements/2855900.jsonl.zst
+2833680,Game Changers NA - Split 2 2025,Playoffs,2025-10-08T21:00:00Z,100 Thieves GC vs Shopify Rebellion Gold,val/events_2833680_grid.jsonl.zst,val-ability-supplements/2833680.jsonl.zst
+2833681,Game Changers NA - Split 2 2025,Playoffs,2025-10-08T21:00:00Z,Ghost Gaming vs SEN Otters,val/events_2833681_grid.jsonl.zst,val-ability-supplements/2833681.jsonl.zst
+2833682,Game Changers NA - Split 2 2025,Playoffs,2025-10-08T23:30:00Z,Wadadaa vs YFP X,val/events_2833682_grid.jsonl.zst,val-ability-supplements/2833682.jsonl.zst
+2833683,Game Changers NA - Split 2 2025,Playoffs,2025-10-08T23:30:00Z,:3 vs Kiri Magenta,val/events_2833683_grid.jsonl.zst,val-ability-supplements/2833683.jsonl.zst
+2855902,Game Changers Pacific - 2025,Knockouts,2025-10-09T08:00:00Z,FENNEL HOTELAVA vs REIGNITE Lily,val/events_2855902_grid.jsonl.zst,
+2855903,Game Changers Pacific - 2025,Knockouts,2025-10-09T10:00:00Z,Team Falcons Vega vs HYPA HYPA Esports,val/events_2855903_grid.jsonl.zst,val-ability-supplements/2855903.jsonl.zst
+2841247,Game Changers BR - Season Finals 2025,Regional Finals,2025-10-09T20:00:00Z,Team Brave Soldiers (2) vs 2Game,val/events_2841247_grid.jsonl.zst,val-ability-supplements/2841247.jsonl.zst
+2833684,Game Changers NA - Split 2 2025,Playoffs,2025-10-09T21:00:00Z,Kiri Magenta vs 100 Thieves GC,val/events_2833684_grid.jsonl.zst,val-ability-supplements/2833684.jsonl.zst
+2841248,Game Changers BR - Season Finals 2025,Regional Finals,2025-10-09T23:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2841248_grid.jsonl.zst,val-ability-supplements/2841248.jsonl.zst
+2833685,Game Changers NA - Split 2 2025,Playoffs,2025-10-09T23:30:00Z,SEN Otters vs Wadadaa,val/events_2833685_grid.jsonl.zst,val-ability-supplements/2833685.jsonl.zst
+2855904,Game Changers Pacific - 2025,Knockouts,2025-10-10T08:00:00Z,Ninetails vs Xipto Esports,val/events_2855904_grid.jsonl.zst,val-ability-supplements/2855904.jsonl.zst
+2855905,Game Changers Pacific - 2025,Knockouts,2025-10-10T10:00:00Z,Team Falcons Vega vs FENNEL HOTELAVA,val/events_2855905_grid.jsonl.zst,val-ability-supplements/2855905.jsonl.zst
+2841249,Game Changers BR - Season Finals 2025,Regional Finals,2025-10-10T20:00:00Z,2Game vs Made In Brazil,val/events_2841249_grid.jsonl.zst,val-ability-supplements/2841249.jsonl.zst
+2833686,Game Changers NA - Split 2 2025,Playoffs,2025-10-10T21:00:00Z,YFP X vs Shopify Rebellion Gold,val/events_2833686_grid.jsonl.zst,val-ability-supplements/2833686.jsonl.zst
+2833687,Game Changers NA - Split 2 2025,Playoffs,2025-10-10T23:30:00Z,Kiri Magenta vs Wadadaa,val/events_2833687_grid.jsonl.zst,val-ability-supplements/2833687.jsonl.zst
+2855906,Game Changers Pacific - 2025,Knockouts,2025-10-11T08:00:00Z,Team Falcons Vega vs Ninetails,val/events_2855906_grid.jsonl.zst,val-ability-supplements/2855906.jsonl.zst
+2841250,Game Changers BR - Season Finals 2025,Regional Finals,2025-10-11T20:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2841250_grid.jsonl.zst,val-ability-supplements/2841250.jsonl.zst
+2833688,Game Changers NA - Split 2 2025,Playoffs,2025-10-11T21:00:00Z,Wadadaa vs YFP X,val/events_2833688_grid.jsonl.zst,val-ability-supplements/2833688.jsonl.zst
+2855907,Game Changers Pacific - 2025,Knockouts,2025-10-12T08:00:00Z,Ninetails vs Xipto Esports,val/events_2855907_grid.jsonl.zst,val-ability-supplements/2855907.jsonl.zst
+2833689,Game Changers NA - Split 2 2025,Playoffs,2025-10-12T21:00:00Z,YFP X vs Shopify Rebellion Gold,val/events_2833689_grid.jsonl.zst,val-ability-supplements/2833689.jsonl.zst
+2855006,Game Changers LATAM - Main Event 2025,Regional Finals,2025-10-12T21:00:00Z,VISA KRÜ Blaze vs Akave Esports,val/events_2855006_grid.jsonl.zst,val-ability-supplements/2855006.jsonl.zst
+2856703,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-16T15:00:00Z,G2 Gozen vs SK Nebula,val/events_2856703_grid.jsonl.zst,val-ability-supplements/2856703.jsonl.zst
+2856702,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-16T18:00:00Z,AlQadsiah Corals vs GIANTX (2),val/events_2856702_grid.jsonl.zst,val-ability-supplements/2856702.jsonl.zst
+2856705,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-17T15:00:00Z,Karmine Corp GC vs G2 Gozen,val/events_2856705_grid.jsonl.zst,val-ability-supplements/2856705.jsonl.zst
+2856704,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-17T18:00:00Z,Twisted Minds Orchid vs GIANTX (2),val/events_2856704_grid.jsonl.zst,val-ability-supplements/2856704.jsonl.zst
+2856707,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-23T15:00:00Z,Karmine Corp GC vs GIANTX (2),val/events_2856707_grid.jsonl.zst,val-ability-supplements/2856707.jsonl.zst
+2856706,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-23T18:00:00Z,Twisted Minds Orchid vs G2 Gozen,val/events_2856706_grid.jsonl.zst,val-ability-supplements/2856706.jsonl.zst
+2856708,Game Changers EMEA - Split 3 2025,Playoffs,2025-10-24T15:00:00Z,GIANTX (2) vs Twisted Minds Orchid,val/events_2856708_grid.jsonl.zst,val-ability-supplements/2856708.jsonl.zst
+2856709,Game Changers EMEA - Split 3 2025,Playoffs,2025-11-02T14:00:00Z,G2 Gozen vs Twisted Minds Orchid,val/events_2856709_grid.jsonl.zst,val-ability-supplements/2856709.jsonl.zst
+2864124,Game Changers Championship - 2025,Playoffs,2025-11-20T08:00:00Z,Ninetails vs Nova Esports GC,val/events_2864124_grid.jsonl.zst,val-ability-supplements/2864124.jsonl.zst
+2864125,Game Changers Championship - 2025,Playoffs,2025-11-20T11:00:00Z,Made In Brazil vs GIANTX (2),val/events_2864125_grid.jsonl.zst,val-ability-supplements/2864125.jsonl.zst
+2864127,Game Changers Championship - 2025,Playoffs,2025-11-21T08:00:00Z,Xipto Esports vs Karmine Corp GC,val/events_2864127_grid.jsonl.zst,val-ability-supplements/2864127.jsonl.zst
+2864126,Game Changers Championship - 2025,Playoffs,2025-11-21T11:00:00Z,Team Liquid Visa vs VISA KRÜ Blaze,val/events_2864126_grid.jsonl.zst,val-ability-supplements/2864126.jsonl.zst
+2864128,Game Changers Championship - 2025,Playoffs,2025-11-22T08:00:00Z,Nova Esports GC vs G2 Gozen,val/events_2864128_grid.jsonl.zst,val-ability-supplements/2864128.jsonl.zst
+2864129,Game Changers Championship - 2025,Playoffs,2025-11-22T11:00:00Z,Made In Brazil vs Shopify Rebellion Gold,val/events_2864129_grid.jsonl.zst,val-ability-supplements/2864129.jsonl.zst
+2864131,Game Changers Championship - 2025,Playoffs,2025-11-23T08:00:00Z,Ninetails vs Xipto Esports,val/events_2864131_grid.jsonl.zst,val-ability-supplements/2864131.jsonl.zst
+2864130,Game Changers Championship - 2025,Playoffs,2025-11-23T11:00:00Z,GIANTX (2) vs VISA KRÜ Blaze,val/events_2864130_grid.jsonl.zst,val-ability-supplements/2864130.jsonl.zst
+2864133,Game Changers Championship - 2025,Playoffs,2025-11-24T08:00:00Z,Ninetails vs Made In Brazil,val/events_2864133_grid.jsonl.zst,val-ability-supplements/2864133.jsonl.zst
+2864132,Game Changers Championship - 2025,Playoffs,2025-11-24T11:00:00Z,VISA KRÜ Blaze vs Nova Esports GC,val/events_2864132_grid.jsonl.zst,val-ability-supplements/2864132.jsonl.zst
+2864134,Game Changers Championship - 2025,Playoffs,2025-11-26T08:00:00Z,Team Liquid Visa vs G2 Gozen,val/events_2864134_grid.jsonl.zst,val-ability-supplements/2864134.jsonl.zst
+2864135,Game Changers Championship - 2025,Playoffs,2025-11-26T11:00:00Z,Karmine Corp GC vs Shopify Rebellion Gold,val/events_2864135_grid.jsonl.zst,val-ability-supplements/2864135.jsonl.zst
+2864136,Game Changers Championship - 2025,Playoffs,2025-11-27T08:00:00Z,Made In Brazil vs G2 Gozen,val/events_2864136_grid.jsonl.zst,val-ability-supplements/2864136.jsonl.zst
+2864137,Game Changers Championship - 2025,Playoffs,2025-11-27T11:00:00Z,VISA KRÜ Blaze vs Karmine Corp GC,val/events_2864137_grid.jsonl.zst,val-ability-supplements/2864137.jsonl.zst
+2864138,Game Changers Championship - 2025,Playoffs,2025-11-28T08:00:00Z,Shopify Rebellion Gold vs Team Liquid Visa,val/events_2864138_grid.jsonl.zst,val-ability-supplements/2864138.jsonl.zst
+2864139,Game Changers Championship - 2025,Playoffs,2025-11-28T11:40:00Z,Made In Brazil vs VISA KRÜ Blaze,val/events_2864139_grid.jsonl.zst,val-ability-supplements/2864139.jsonl.zst
+2864140,Game Changers Championship - 2025,Playoffs,2025-11-29T09:00:00Z,Made In Brazil vs Shopify Rebellion Gold,val/events_2864140_grid.jsonl.zst,val-ability-supplements/2864140.jsonl.zst
+2864141,Game Changers Championship - 2025,Playoffs,2025-11-30T08:00:00Z,Shopify Rebellion Gold vs Team Liquid Visa,val/events_2864141_grid.jsonl.zst,val-ability-supplements/2864141.jsonl.zst
+2877137,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T00:00:00Z,Team Liquid Visa vs Beta Division GC,val/events_2877137_grid.jsonl.zst,val-ability-supplements/2877137.jsonl.zst
+2877138,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T00:00:00Z,Evil Geniuses (2) vs quero injustiça,val/events_2877138_grid.jsonl.zst,val-ability-supplements/2877138.jsonl.zst
+2877139,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T03:00:00Z,Made In Brazil vs Aura Farming,val/events_2877139_grid.jsonl.zst,val-ability-supplements/2877139.jsonl.zst
+2877140,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T03:00:00Z,Barões da Academia vs OUROBOROS,val/events_2877140_grid.jsonl.zst,val-ability-supplements/2877140.jsonl.zst
+2877141,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T20:00:00Z,Evil Geniuses (2) vs Team Liquid Visa,val/events_2877141_grid.jsonl.zst,val-ability-supplements/2877141.jsonl.zst
+2877142,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T20:00:00Z,Barões da Academia vs Made In Brazil,val/events_2877142_grid.jsonl.zst,val-ability-supplements/2877142.jsonl.zst
+2877143,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T23:00:00Z,quero injustiça vs Beta Division GC,val/events_2877143_grid.jsonl.zst,val-ability-supplements/2877143.jsonl.zst
+2877144,Game Changers BR - Kickoff 2026,Knockouts,2026-02-03T23:00:00Z,OUROBOROS vs Aura Farming,val/events_2877144_grid.jsonl.zst,val-ability-supplements/2877144.jsonl.zst
+2877145,Game Changers BR - Kickoff 2026,Knockouts,2026-02-08T20:00:00Z,quero injustiça vs Barões da Academia,val/events_2877145_grid.jsonl.zst,val-ability-supplements/2877145.jsonl.zst
+2877146,Game Changers BR - Kickoff 2026,Knockouts,2026-02-08T20:00:00Z,OUROBOROS vs Team Liquid Visa,val/events_2877146_grid.jsonl.zst,val-ability-supplements/2877146.jsonl.zst
+2890324,Game Changers LATAM - Kickoff 2026,Playoffs,2026-02-08T22:00:00Z,VISA KRÜ Blaze vs Olimpo Gold,val/events_2890324_grid.jsonl.zst,val-ability-supplements/2890324.jsonl.zst
+2877147,Game Changers BR - Kickoff 2026,Knockouts,2026-02-08T23:00:00Z,Barões da Academia vs Team Liquid Visa,val/events_2877147_grid.jsonl.zst,val-ability-supplements/2877147.jsonl.zst
+2877148,Game Changers BR - Kickoff 2026,Knockouts,2026-02-08T23:00:00Z,Made In Brazil vs Evil Geniuses (2),val/events_2877148_grid.jsonl.zst,val-ability-supplements/2877148.jsonl.zst
+2890325,Game Changers LATAM - Kickoff 2026,Playoffs,2026-02-09T01:00:00Z,Akave Esports vs MYVRA,val/events_2890325_grid.jsonl.zst,val-ability-supplements/2890325.jsonl.zst
+2890326,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-11T22:00:00Z,Looking For Laburo GC vs University War GC,val/events_2890326_grid.jsonl.zst,val-ability-supplements/2890326.jsonl.zst
+2890327,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-12T01:00:00Z,Bon Bon Bum vs Fusion,val/events_2890327_grid.jsonl.zst,val-ability-supplements/2890327.jsonl.zst
+2890328,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-12T22:00:00Z,Polar Squad Esports vs VISA KRÜ Blaze,val/events_2890328_grid.jsonl.zst,val-ability-supplements/2890328.jsonl.zst
+2890329,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-13T01:00:00Z,Nos Sweat Blossom vs Akave Esports,val/events_2890329_grid.jsonl.zst,val-ability-supplements/2890329.jsonl.zst
+2890330,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-13T22:00:00Z,Leviatan vs Olimpo Gold,val/events_2890330_grid.jsonl.zst,val-ability-supplements/2890330.jsonl.zst
+2890331,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-14T01:00:00Z,Stray Cats (2) vs MYVRA,val/events_2890331_grid.jsonl.zst,val-ability-supplements/2890331.jsonl.zst
+2877149,Game Changers BR - Kickoff 2026,Knockouts,2026-02-16T20:00:00Z,Team Liquid Visa vs Evil Geniuses (2),val/events_2877149_grid.jsonl.zst,val-ability-supplements/2877149.jsonl.zst
+2877150,Game Changers BR - Kickoff 2026,Knockouts,2026-02-17T20:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2877150_grid.jsonl.zst,val-ability-supplements/2877150.jsonl.zst
+2897509,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-18T16:00:00Z,Karmine Corp GC vs ALTERNATE aTTaX Ruby,val/events_2897509_grid.jsonl.zst,val-ability-supplements/2897509.jsonl.zst
+2897508,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-18T19:00:00Z,Twisted Minds Orchid vs GIANTX (2),val/events_2897508_grid.jsonl.zst,val-ability-supplements/2897508.jsonl.zst
+2890332,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-18T22:00:00Z,Polar Squad Esports vs University War GC,val/events_2890332_grid.jsonl.zst,val-ability-supplements/2890332.jsonl.zst
+2890333,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-19T01:00:00Z,Nos Sweat Blossom vs Fusion,val/events_2890333_grid.jsonl.zst,val-ability-supplements/2890333.jsonl.zst
+2897510,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-19T16:00:00Z,G2 Gozen vs GIANTX (2),val/events_2897510_grid.jsonl.zst,val-ability-supplements/2897510.jsonl.zst
+2897511,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-19T19:00:00Z,Karmine Corp GC vs Gentle Mates (2),val/events_2897511_grid.jsonl.zst,val-ability-supplements/2897511.jsonl.zst
+2890334,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-19T22:00:00Z,Olimpo Gold vs Looking For Laburo GC,val/events_2890334_grid.jsonl.zst,val-ability-supplements/2890334.jsonl.zst
+2890335,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-20T01:00:00Z,Stray Cats (2) vs Bon Bon Bum,val/events_2890335_grid.jsonl.zst,val-ability-supplements/2890335.jsonl.zst
+2897513,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-20T16:00:00Z,Gentle Mates (2) vs G2 Gozen,val/events_2897513_grid.jsonl.zst,val-ability-supplements/2897513.jsonl.zst
+2897514,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-20T19:00:00Z,Karmine Corp GC vs GIANTX (2),val/events_2897514_grid.jsonl.zst,val-ability-supplements/2897514.jsonl.zst
+2888822,Game Changers NA - Kickoff 2026,Knockouts,2026-02-20T22:00:00Z,Wadadaa vs Maui Wowie,val/events_2888822_grid.jsonl.zst,val-ability-supplements/2888822.jsonl.zst
+2888823,Game Changers NA - Kickoff 2026,Knockouts,2026-02-20T22:00:00Z,SEN Otters vs Evictix GC,val/events_2888823_grid.jsonl.zst,val-ability-supplements/2888823.jsonl.zst
+2888824,Game Changers NA - Kickoff 2026,Knockouts,2026-02-21T00:30:00Z,FlyQuest Red vs Ghost Gaming,val/events_2888824_grid.jsonl.zst,val-ability-supplements/2888824.jsonl.zst
+2888825,Game Changers NA - Kickoff 2026,Knockouts,2026-02-21T00:30:00Z,100 Thieves GC vs Teevee,val/events_2888825_grid.jsonl.zst,val-ability-supplements/2888825.jsonl.zst
+2890337,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-21T01:00:00Z,MYVRA vs Akave Esports,val/events_2890337_grid.jsonl.zst,val-ability-supplements/2890337.jsonl.zst
+2897515,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-21T16:00:00Z,GIANTX (2) vs G2 Gozen,val/events_2897515_grid.jsonl.zst,val-ability-supplements/2897515.jsonl.zst
+2888826,Game Changers NA - Kickoff 2026,Knockouts,2026-02-21T22:00:00Z,SEN Otters vs Wadadaa,val/events_2888826_grid.jsonl.zst,val-ability-supplements/2888826.jsonl.zst
+2888827,Game Changers NA - Kickoff 2026,Knockouts,2026-02-21T22:00:00Z,Evictix GC vs Maui Wowie,val/events_2888827_grid.jsonl.zst,val-ability-supplements/2888827.jsonl.zst
+2888828,Game Changers NA - Kickoff 2026,Knockouts,2026-02-22T00:30:00Z,100 Thieves GC vs FlyQuest Red,val/events_2888828_grid.jsonl.zst,val-ability-supplements/2888828.jsonl.zst
+2888829,Game Changers NA - Kickoff 2026,Knockouts,2026-02-22T00:30:00Z,Teevee vs Ghost Gaming,val/events_2888829_grid.jsonl.zst,val-ability-supplements/2888829.jsonl.zst
+2897516,Game Changers EMEA - Stage 1 2026,Playoffs,2026-02-22T16:00:00Z,G2 Gozen vs Gentle Mates (2),val/events_2897516_grid.jsonl.zst,val-ability-supplements/2897516.jsonl.zst
+2888830,Game Changers NA - Kickoff 2026,Knockouts,2026-02-22T22:00:00Z,Ghost Gaming vs SEN Otters,val/events_2888830_grid.jsonl.zst,val-ability-supplements/2888830.jsonl.zst
+2890336,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-22T22:00:00Z,Leviatan vs VISA KRÜ Blaze,val/events_2890336_grid.jsonl.zst,val-ability-supplements/2890336.jsonl.zst
+2888831,Game Changers NA - Kickoff 2026,Knockouts,2026-02-23T00:30:00Z,Evictix GC vs 100 Thieves GC,val/events_2888831_grid.jsonl.zst,val-ability-supplements/2888831.jsonl.zst
+2890338,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-25T22:00:00Z,VISA KRÜ Blaze vs University War GC,val/events_2890338_grid.jsonl.zst,val-ability-supplements/2890338.jsonl.zst
+2890339,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-26T01:00:00Z,Akave Esports vs Fusion,val/events_2890339_grid.jsonl.zst,val-ability-supplements/2890339.jsonl.zst
+2890340,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-26T22:00:00Z,Leviatan vs Looking For Laburo GC,val/events_2890340_grid.jsonl.zst,val-ability-supplements/2890340.jsonl.zst
+2890341,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-27T01:00:00Z,MYVRA vs Bon Bon Bum,val/events_2890341_grid.jsonl.zst,val-ability-supplements/2890341.jsonl.zst
+2888832,Game Changers NA - Kickoff 2026,Knockouts,2026-02-27T22:00:00Z,FlyQuest Red vs Wadadaa,val/events_2888832_grid.jsonl.zst,val-ability-supplements/2888832.jsonl.zst
+2890342,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-27T22:00:00Z,Polar Squad Esports vs Olimpo Gold,val/events_2890342_grid.jsonl.zst,val-ability-supplements/2890342.jsonl.zst
+2888833,Game Changers NA - Kickoff 2026,Knockouts,2026-02-28T00:30:00Z,SEN Otters vs 100 Thieves GC,val/events_2888833_grid.jsonl.zst,val-ability-supplements/2888833.jsonl.zst
+2890343,Game Changers LATAM - Split 1 2026,Regular Season,2026-02-28T01:00:00Z,Stray Cats (2) vs Nos Sweat Blossom,val/events_2890343_grid.jsonl.zst,val-ability-supplements/2890343.jsonl.zst
+2888834,Game Changers NA - Kickoff 2026,Knockouts,2026-02-28T22:00:00Z,SEN Otters vs Wadadaa,val/events_2888834_grid.jsonl.zst,val-ability-supplements/2888834.jsonl.zst
+2888835,Game Changers NA - Kickoff 2026,Knockouts,2026-03-01T22:00:00Z,SEN Otters vs FlyQuest Red,val/events_2888835_grid.jsonl.zst,val-ability-supplements/2888835.jsonl.zst
+2890350,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-16T22:00:00Z,Olimpo Gold vs VISA KRÜ Blaze,val/events_2890350_grid.jsonl.zst,val-ability-supplements/2890350.jsonl.zst
+2890351,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-17T01:00:00Z,Stray Cats (2) vs Akave Esports,val/events_2890351_grid.jsonl.zst,val-ability-supplements/2890351.jsonl.zst
+2890354,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-17T22:00:00Z,Leviatan vs University War GC,val/events_2890354_grid.jsonl.zst,val-ability-supplements/2890354.jsonl.zst
+2890355,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-18T01:00:00Z,MYVRA vs Fusion,val/events_2890355_grid.jsonl.zst,val-ability-supplements/2890355.jsonl.zst
+2890352,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-18T22:00:00Z,Polar Squad Esports vs Looking For Laburo GC,val/events_2890352_grid.jsonl.zst,val-ability-supplements/2890352.jsonl.zst
+2890353,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-19T01:00:00Z,Nos Sweat Blossom vs Bon Bon Bum,val/events_2890353_grid.jsonl.zst,val-ability-supplements/2890353.jsonl.zst
+2908894,Game Changers BR - Split 1 2026,Swiss,2026-03-21T20:00:00Z,oi posso fala vs Pão com Rato,val/events_2908894_grid.jsonl.zst,val-ability-supplements/2908894.jsonl.zst
+2908895,Game Changers BR - Split 1 2026,Swiss,2026-03-21T20:00:00Z,Team Liquid Visa vs Beta Division GC,val/events_2908895_grid.jsonl.zst,val-ability-supplements/2908895.jsonl.zst
+2908896,Game Changers BR - Split 1 2026,Swiss,2026-03-21T23:00:00Z,Evil Geniuses (2) vs Forged To Shine,val/events_2908896_grid.jsonl.zst,val-ability-supplements/2908896.jsonl.zst
+2908897,Game Changers BR - Split 1 2026,Swiss,2026-03-21T23:00:00Z,malvadinhas 3.0 vs Made In Brazil,val/events_2908897_grid.jsonl.zst,val-ability-supplements/2908897.jsonl.zst
+2890348,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-23T22:00:00Z,VISA KRÜ Blaze vs Looking For Laburo GC,val/events_2890348_grid.jsonl.zst,val-ability-supplements/2890348.jsonl.zst
+2890349,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-24T01:00:00Z,Akave Esports vs Bon Bon Bum,val/events_2890349_grid.jsonl.zst,val-ability-supplements/2890349.jsonl.zst
+2890344,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-24T22:00:00Z,Polar Squad Esports vs Leviatan,val/events_2890344_grid.jsonl.zst,val-ability-supplements/2890344.jsonl.zst
+2890345,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-25T01:00:00Z,MYVRA vs Nos Sweat Blossom,val/events_2890345_grid.jsonl.zst,val-ability-supplements/2890345.jsonl.zst
+2890346,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-25T22:00:00Z,Olimpo Gold vs University War GC,val/events_2890346_grid.jsonl.zst,val-ability-supplements/2890346.jsonl.zst
+2890347,Game Changers LATAM - Split 1 2026,Regular Season,2026-03-26T01:00:00Z,Stray Cats (2) vs Fusion,val/events_2890347_grid.jsonl.zst,val-ability-supplements/2890347.jsonl.zst
+2908899,Game Changers BR - Split 1 2026,Swiss,2026-03-26T20:00:00Z,Made In Brazil vs Evil Geniuses (2),val/events_2908899_grid.jsonl.zst,val-ability-supplements/2908899.jsonl.zst
+2908900,Game Changers BR - Split 1 2026,Swiss,2026-03-26T21:00:00Z,Pão com Rato vs Beta Division GC,val/events_2908900_grid.jsonl.zst,val-ability-supplements/2908900.jsonl.zst
+2908901,Game Changers BR - Split 1 2026,Swiss,2026-03-26T23:00:00Z,Forged To Shine vs malvadinhas 3.0,val/events_2908901_grid.jsonl.zst,val-ability-supplements/2908901.jsonl.zst
+2908898,Game Changers BR - Split 1 2026,Swiss,2026-03-27T00:00:00Z,Team Liquid Visa vs oi posso fala,val/events_2908898_grid.jsonl.zst,val-ability-supplements/2908898.jsonl.zst
+2908903,Game Changers BR - Split 1 2026,Swiss,2026-03-30T20:00:00Z,Team Liquid Visa vs Evil Geniuses (2),val/events_2908903_grid.jsonl.zst,val-ability-supplements/2908903.jsonl.zst
+2908904,Game Changers BR - Split 1 2026,Swiss,2026-03-30T20:00:00Z,Beta Division GC vs malvadinhas 3.0,val/events_2908904_grid.jsonl.zst,val-ability-supplements/2908904.jsonl.zst
+2890356,Game Changers LATAM - Split 1 2026,Playoffs,2026-03-30T22:00:00Z,VISA KRÜ Blaze vs Looking For Laburo GC,val/events_2890356_grid.jsonl.zst,val-ability-supplements/2890356.jsonl.zst
+2908905,Game Changers BR - Split 1 2026,Swiss,2026-03-30T23:00:00Z,Made In Brazil vs Pão com Rato,val/events_2908905_grid.jsonl.zst,val-ability-supplements/2908905.jsonl.zst
+2908906,Game Changers BR - Split 1 2026,Swiss,2026-03-30T23:00:00Z,oi posso fala vs Forged To Shine,val/events_2908906_grid.jsonl.zst,val-ability-supplements/2908906.jsonl.zst
+2890635,Game Changers LATAM - Split 1 2026,Playoffs,2026-03-31T01:00:00Z,Akave Esports vs Fusion,val/events_2890635_grid.jsonl.zst,val-ability-supplements/2890635.jsonl.zst
+2890357,Game Changers LATAM - Split 1 2026,Playoffs,2026-03-31T22:00:00Z,Polar Squad Esports vs Olimpo Gold,val/events_2890357_grid.jsonl.zst,val-ability-supplements/2890357.jsonl.zst
+2890636,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-01T01:00:00Z,MYVRA vs Nos Sweat Blossom,val/events_2890636_grid.jsonl.zst,val-ability-supplements/2890636.jsonl.zst
+2890358,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-02T22:00:00Z,Polar Squad Esports vs Looking For Laburo GC,val/events_2890358_grid.jsonl.zst,val-ability-supplements/2890358.jsonl.zst
+2890637,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-03T01:00:00Z,Nos Sweat Blossom vs Fusion,val/events_2890637_grid.jsonl.zst,val-ability-supplements/2890637.jsonl.zst
+2890359,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-03T22:00:00Z,Olimpo Gold vs VISA KRÜ Blaze,val/events_2890359_grid.jsonl.zst,val-ability-supplements/2890359.jsonl.zst
+2890638,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-04T01:00:00Z,MYVRA vs Akave Esports,val/events_2890638_grid.jsonl.zst,val-ability-supplements/2890638.jsonl.zst
+2908907,Game Changers BR - Split 1 2026,Swiss,2026-04-04T20:00:00Z,oi posso fala vs Made In Brazil,val/events_2908907_grid.jsonl.zst,val-ability-supplements/2908907.jsonl.zst
+2908908,Game Changers BR - Split 1 2026,Swiss,2026-04-04T20:00:00Z,Evil Geniuses (2) vs malvadinhas 3.0,val/events_2908908_grid.jsonl.zst,val-ability-supplements/2908908.jsonl.zst
+2890360,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-04T22:00:00Z,Looking For Laburo GC vs VISA KRÜ Blaze,val/events_2890360_grid.jsonl.zst,val-ability-supplements/2890360.jsonl.zst
+2908909,Game Changers BR - Split 1 2026,Swiss,2026-04-04T23:00:00Z,Forged To Shine vs Pão com Rato,val/events_2908909_grid.jsonl.zst,val-ability-supplements/2908909.jsonl.zst
+2890639,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-05T01:00:00Z,Nos Sweat Blossom vs MYVRA,val/events_2890639_grid.jsonl.zst,val-ability-supplements/2890639.jsonl.zst
+2908910,Game Changers BR - Split 1 2026,Swiss,2026-04-05T20:00:00Z,oi posso fala vs Pão com Rato,val/events_2908910_grid.jsonl.zst,val-ability-supplements/2908910.jsonl.zst
+2890361,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-06T19:00:00Z,VISA KRÜ Blaze vs Olimpo Gold,val/events_2890361_grid.jsonl.zst,val-ability-supplements/2890361.jsonl.zst
+2890640,Game Changers LATAM - Split 1 2026,Playoffs,2026-04-07T22:00:00Z,Nos Sweat Blossom vs Akave Esports,val/events_2890640_grid.jsonl.zst,val-ability-supplements/2890640.jsonl.zst
+2908911,Game Changers BR - Split 1 2026,Playoffs,2026-04-13T20:00:00Z,Team Liquid Visa vs Pão com Rato,val/events_2908911_grid.jsonl.zst,val-ability-supplements/2908911.jsonl.zst
+2908912,Game Changers BR - Split 1 2026,Playoffs,2026-04-13T23:00:00Z,Evil Geniuses (2) vs Made In Brazil,val/events_2908912_grid.jsonl.zst,val-ability-supplements/2908912.jsonl.zst
+2908913,Game Changers BR - Split 1 2026,Playoffs,2026-04-14T20:00:00Z,Evil Geniuses (2) vs Pão com Rato,val/events_2908913_grid.jsonl.zst,val-ability-supplements/2908913.jsonl.zst
+2908914,Game Changers BR - Split 1 2026,Playoffs,2026-04-14T23:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2908914_grid.jsonl.zst,val-ability-supplements/2908914.jsonl.zst
+2908915,Game Changers BR - Split 1 2026,Playoffs,2026-04-15T20:00:00Z,Evil Geniuses (2) vs Team Liquid Visa,val/events_2908915_grid.jsonl.zst,val-ability-supplements/2908915.jsonl.zst
+2934509,Game Changers NA - Split 1 2026,Swiss,2026-04-15T21:00:00Z,:3 vs Ghost Gaming,val/events_2934509_grid.jsonl.zst,val-ability-supplements/2934509.jsonl.zst
+2934511,Game Changers NA - Split 1 2026,Swiss,2026-04-15T21:00:00Z,Puppy Thieves vs MVSK Secret,val/events_2934511_grid.jsonl.zst,val-ability-supplements/2934511.jsonl.zst
+2934512,Game Changers NA - Split 1 2026,Swiss,2026-04-15T21:00:00Z,FlyQuest Red vs Auraboros,val/events_2934512_grid.jsonl.zst,val-ability-supplements/2934512.jsonl.zst
+2934513,Game Changers NA - Split 1 2026,Swiss,2026-04-15T21:00:00Z,Wadadaa vs HyperSpeed Golden,val/events_2934513_grid.jsonl.zst,val-ability-supplements/2934513.jsonl.zst
+2934514,Game Changers NA - Split 1 2026,Swiss,2026-04-15T23:30:00Z,SEN Otters vs Teevee,val/events_2934514_grid.jsonl.zst,val-ability-supplements/2934514.jsonl.zst
+2934515,Game Changers NA - Split 1 2026,Swiss,2026-04-15T23:30:00Z,Shopify Rebellion Gold vs Frost White,val/events_2934515_grid.jsonl.zst,val-ability-supplements/2934515.jsonl.zst
+2934516,Game Changers NA - Split 1 2026,Swiss,2026-04-15T23:30:00Z,SwimTrek Blue vs Monarch-X GC,val/events_2934516_grid.jsonl.zst,val-ability-supplements/2934516.jsonl.zst
+2934517,Game Changers NA - Split 1 2026,Swiss,2026-04-15T23:30:00Z,SaD GC vs EMPIRE GC,val/events_2934517_grid.jsonl.zst,val-ability-supplements/2934517.jsonl.zst
+2934521,Game Changers NA - Split 1 2026,Swiss,2026-04-23T21:00:00Z,Ghost Gaming vs MVSK Secret,val/events_2934521_grid.jsonl.zst,val-ability-supplements/2934521.jsonl.zst
+2934522,Game Changers NA - Split 1 2026,Swiss,2026-04-23T21:00:00Z,Shopify Rebellion Gold vs SEN Otters,val/events_2934522_grid.jsonl.zst,val-ability-supplements/2934522.jsonl.zst
+2934523,Game Changers NA - Split 1 2026,Swiss,2026-04-23T21:00:00Z,Monarch-X GC vs Frost White,val/events_2934523_grid.jsonl.zst,val-ability-supplements/2934523.jsonl.zst
+2934524,Game Changers NA - Split 1 2026,Swiss,2026-04-23T21:00:00Z,Puppy Thieves vs Wadadaa,val/events_2934524_grid.jsonl.zst,val-ability-supplements/2934524.jsonl.zst
+2934525,Game Changers NA - Split 1 2026,Swiss,2026-04-23T23:30:00Z,FlyQuest Red vs SwimTrek Blue,val/events_2934525_grid.jsonl.zst,val-ability-supplements/2934525.jsonl.zst
+2934526,Game Changers NA - Split 1 2026,Swiss,2026-04-23T23:30:00Z,:3 vs SaD GC,val/events_2934526_grid.jsonl.zst,val-ability-supplements/2934526.jsonl.zst
+2934527,Game Changers NA - Split 1 2026,Swiss,2026-04-23T23:30:00Z,Auraboros vs Teevee,val/events_2934527_grid.jsonl.zst,val-ability-supplements/2934527.jsonl.zst
+2934528,Game Changers NA - Split 1 2026,Swiss,2026-04-23T23:30:00Z,HyperSpeed Golden vs EMPIRE GC,val/events_2934528_grid.jsonl.zst,val-ability-supplements/2934528.jsonl.zst
+2932847,Game Changers KR - Split 1 2026,Playoffs,2026-04-27T08:00:00Z,Gen.G GC vs SUZ,val/events_2932847_grid.jsonl.zst,val-ability-supplements/2932847.jsonl.zst
+2932848,Game Changers KR - Split 1 2026,Playoffs,2026-04-27T10:00:00Z,Ninetails vs Meikai Dolls,val/events_2932848_grid.jsonl.zst,val-ability-supplements/2932848.jsonl.zst
+2938711,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-27T15:00:00Z,Twisted Minds Orchid vs G2 Gozen,val/events_2938711_grid.jsonl.zst,val-ability-supplements/2938711.jsonl.zst
+2938712,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-27T15:00:00Z,FOKUS Sakura vs Gentle Mates (2),val/events_2938712_grid.jsonl.zst,val-ability-supplements/2938712.jsonl.zst
+2932849,Game Changers KR - Split 1 2026,Playoffs,2026-04-28T08:00:00Z,Meikai Dolls vs Gen.G GC,val/events_2932849_grid.jsonl.zst,val-ability-supplements/2932849.jsonl.zst
+2932850,Game Changers KR - Split 1 2026,Playoffs,2026-04-28T10:00:00Z,Ninetails vs SUZ,val/events_2932850_grid.jsonl.zst,val-ability-supplements/2932850.jsonl.zst
+2938714,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-28T15:00:00Z,GIANTX (2) vs G2 Gozen,val/events_2938714_grid.jsonl.zst,val-ability-supplements/2938714.jsonl.zst
+2938715,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-28T15:00:00Z,ZennIT Orange vs Barça eSports,val/events_2938715_grid.jsonl.zst,val-ability-supplements/2938715.jsonl.zst
+2938717,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-28T18:00:00Z,ALTERNATE aTTaX Ruby vs Twisted Minds Orchid,val/events_2938717_grid.jsonl.zst,val-ability-supplements/2938717.jsonl.zst
+2932851,Game Changers KR - Split 1 2026,Playoffs,2026-04-29T08:00:00Z,Ninetails vs Meikai Dolls,val/events_2932851_grid.jsonl.zst,val-ability-supplements/2932851.jsonl.zst
+2938724,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-29T15:00:00Z,GIANTX (2) vs Barça eSports,val/events_2938724_grid.jsonl.zst,val-ability-supplements/2938724.jsonl.zst
+2938726,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-29T15:00:00Z,ZennIT Orange vs Gentle Mates (2),val/events_2938726_grid.jsonl.zst,val-ability-supplements/2938726.jsonl.zst
+2938725,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-29T18:00:00Z,Karmine Corp GC vs ALTERNATE aTTaX Ruby,val/events_2938725_grid.jsonl.zst,val-ability-supplements/2938725.jsonl.zst
+2938727,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-29T18:00:00Z,FOKUS Sakura vs G2 Gozen,val/events_2938727_grid.jsonl.zst,val-ability-supplements/2938727.jsonl.zst
+2934530,Game Changers NA - Split 1 2026,Swiss,2026-04-29T21:00:00Z,Wadadaa vs Ghost Gaming,val/events_2934530_grid.jsonl.zst,val-ability-supplements/2934530.jsonl.zst
+2934531,Game Changers NA - Split 1 2026,Swiss,2026-04-29T21:00:00Z,SwimTrek Blue vs Puppy Thieves,val/events_2934531_grid.jsonl.zst,val-ability-supplements/2934531.jsonl.zst
+2934532,Game Changers NA - Split 1 2026,Swiss,2026-04-29T21:00:00Z,SEN Otters vs Auraboros,val/events_2934532_grid.jsonl.zst,val-ability-supplements/2934532.jsonl.zst
+2934534,Game Changers NA - Split 1 2026,Swiss,2026-04-29T21:00:00Z,Frost White vs MVSK Secret,val/events_2934534_grid.jsonl.zst,val-ability-supplements/2934534.jsonl.zst
+2934529,Game Changers NA - Split 1 2026,Swiss,2026-04-29T23:30:00Z,Shopify Rebellion Gold vs SaD GC,val/events_2934529_grid.jsonl.zst,val-ability-supplements/2934529.jsonl.zst
+2934533,Game Changers NA - Split 1 2026,Swiss,2026-04-29T23:30:00Z,Teevee vs HyperSpeed Golden,val/events_2934533_grid.jsonl.zst,val-ability-supplements/2934533.jsonl.zst
+2934535,Game Changers NA - Split 1 2026,Swiss,2026-04-29T23:30:00Z,Monarch-X GC vs EMPIRE GC,val/events_2934535_grid.jsonl.zst,val-ability-supplements/2934535.jsonl.zst
+2934536,Game Changers NA - Split 1 2026,Swiss,2026-04-29T23:30:00Z,:3 vs FlyQuest Red,val/events_2934536_grid.jsonl.zst,val-ability-supplements/2934536.jsonl.zst
+2938728,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-30T15:00:00Z,SK Nebula vs Twisted Minds Orchid,val/events_2938728_grid.jsonl.zst,val-ability-supplements/2938728.jsonl.zst
+2938730,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-30T15:00:00Z,Karmine Corp GC vs Gentle Mates (2),val/events_2938730_grid.jsonl.zst,val-ability-supplements/2938730.jsonl.zst
+2938729,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-30T18:00:00Z,ZennIT Orange vs GIANTX (2),val/events_2938729_grid.jsonl.zst,val-ability-supplements/2938729.jsonl.zst
+2938731,Game Changers EMEA - Split 2 2026,Regular Season,2026-04-30T18:00:00Z,Barça eSports vs G2 Gozen,val/events_2938731_grid.jsonl.zst,val-ability-supplements/2938731.jsonl.zst
+2908916,Game Changers BR - Split 1 2026,Playoffs,2026-04-30T21:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2908916_grid.jsonl.zst,val-ability-supplements/2908916.jsonl.zst
+2942405,Game Changers JPN - Split 1 2026,Playoffs,2026-05-04T07:00:00Z,EOTO vs Uwinks,val/events_2942405_grid.jsonl.zst,val-ability-supplements/2942405.jsonl.zst
+2942406,Game Changers JPN - Split 1 2026,Playoffs,2026-05-04T10:00:00Z,FENNEL HOTELAVA vs Sasanqua,val/events_2942406_grid.jsonl.zst,val-ability-supplements/2942406.jsonl.zst
+2938732,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-04T15:00:00Z,Gentle Mates (2) vs G2 Gozen,val/events_2938732_grid.jsonl.zst,val-ability-supplements/2938732.jsonl.zst
+2938734,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-04T15:00:00Z,ZennIT Orange vs ALTERNATE aTTaX Ruby,val/events_2938734_grid.jsonl.zst,val-ability-supplements/2938734.jsonl.zst
+2938733,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-04T18:00:00Z,SK Nebula vs FOKUS Sakura,val/events_2938733_grid.jsonl.zst,val-ability-supplements/2938733.jsonl.zst
+2938735,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-04T18:00:00Z,GIANTX (2) vs Twisted Minds Orchid,val/events_2938735_grid.jsonl.zst,val-ability-supplements/2938735.jsonl.zst
+2938612,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-04T22:00:00Z,Polar Squad Esports vs VISA KRÜ Blaze,val/events_2938612_grid.jsonl.zst,val-ability-supplements/2938612.jsonl.zst
+2938613,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-05T01:00:00Z,Nos Sweat Blossom vs Akave Esports,val/events_2938613_grid.jsonl.zst,val-ability-supplements/2938613.jsonl.zst
+2942407,Game Changers JPN - Split 1 2026,Playoffs,2026-05-05T04:00:00Z,FENNEL HOTELAVA vs EOTO,val/events_2942407_grid.jsonl.zst,val-ability-supplements/2942407.jsonl.zst
+2942408,Game Changers JPN - Split 1 2026,Playoffs,2026-05-05T07:00:00Z,Sasanqua vs Uwinks,val/events_2942408_grid.jsonl.zst,val-ability-supplements/2942408.jsonl.zst
+2942409,Game Changers JPN - Split 1 2026,Playoffs,2026-05-05T10:00:00Z,Uwinks vs EOTO,val/events_2942409_grid.jsonl.zst,val-ability-supplements/2942409.jsonl.zst
+2938736,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-05T15:00:00Z,Karmine Corp GC vs ZennIT Orange,val/events_2938736_grid.jsonl.zst,val-ability-supplements/2938736.jsonl.zst
+2938738,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-05T15:00:00Z,SK Nebula vs Barça eSports,val/events_2938738_grid.jsonl.zst,val-ability-supplements/2938738.jsonl.zst
+2938737,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-05T18:00:00Z,GIANTX (2) vs FOKUS Sakura,val/events_2938737_grid.jsonl.zst,val-ability-supplements/2938737.jsonl.zst
+2938614,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-05T22:00:00Z,Leviatan vs Olimpo Gold,val/events_2938614_grid.jsonl.zst,val-ability-supplements/2938614.jsonl.zst
+2938616,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-06T01:00:00Z,Stray Cats (2) vs MYVRA,val/events_2938616_grid.jsonl.zst,val-ability-supplements/2938616.jsonl.zst
+2932852,Game Changers KR - Split 1 2026,Playoffs,2026-05-06T08:00:00Z,Meikai Dolls vs Gen.G GC,val/events_2932852_grid.jsonl.zst,val-ability-supplements/2932852.jsonl.zst
+2942410,Game Changers JPN - Split 1 2026,Playoffs,2026-05-06T08:00:00Z,EOTO vs FENNEL HOTELAVA,val/events_2942410_grid.jsonl.zst,val-ability-supplements/2942410.jsonl.zst
+2938739,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-06T15:00:00Z,Karmine Corp GC vs Twisted Minds Orchid,val/events_2938739_grid.jsonl.zst,val-ability-supplements/2938739.jsonl.zst
+2938741,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-06T15:00:00Z,SK Nebula vs GIANTX (2),val/events_2938741_grid.jsonl.zst,val-ability-supplements/2938741.jsonl.zst
+2938740,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-06T18:00:00Z,ALTERNATE aTTaX Ruby vs Gentle Mates (2),val/events_2938740_grid.jsonl.zst,val-ability-supplements/2938740.jsonl.zst
+2938742,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-06T18:00:00Z,ZennIT Orange vs G2 Gozen,val/events_2938742_grid.jsonl.zst,val-ability-supplements/2938742.jsonl.zst
+2934537,Game Changers NA - Split 1 2026,Swiss,2026-05-06T21:00:00Z,Puppy Thieves vs Shopify Rebellion Gold,val/events_2934537_grid.jsonl.zst,val-ability-supplements/2934537.jsonl.zst
+2934538,Game Changers NA - Split 1 2026,Swiss,2026-05-06T21:00:00Z,FlyQuest Red vs SEN Otters,val/events_2934538_grid.jsonl.zst,val-ability-supplements/2934538.jsonl.zst
+2934539,Game Changers NA - Split 1 2026,Swiss,2026-05-06T21:00:00Z,SwimTrek Blue vs Wadadaa,val/events_2934539_grid.jsonl.zst,val-ability-supplements/2934539.jsonl.zst
+2934541,Game Changers NA - Split 1 2026,Swiss,2026-05-06T21:00:00Z,:3 vs EMPIRE GC,val/events_2934541_grid.jsonl.zst,val-ability-supplements/2934541.jsonl.zst
+2938617,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-06T22:00:00Z,Looking For Laburo GC vs Daruma Synergy,val/events_2938617_grid.jsonl.zst,val-ability-supplements/2938617.jsonl.zst
+2934540,Game Changers NA - Split 1 2026,Swiss,2026-05-06T23:30:00Z,Monarch-X GC vs SaD GC,val/events_2934540_grid.jsonl.zst,val-ability-supplements/2934540.jsonl.zst
+2934542,Game Changers NA - Split 1 2026,Swiss,2026-05-06T23:30:00Z,Frost White vs HyperSpeed Golden,val/events_2934542_grid.jsonl.zst,val-ability-supplements/2934542.jsonl.zst
+2934544,Game Changers NA - Split 1 2026,Swiss,2026-05-06T23:30:00Z,Auraboros vs MVSK Secret,val/events_2934544_grid.jsonl.zst,val-ability-supplements/2934544.jsonl.zst
+2934545,Game Changers NA - Split 1 2026,Swiss,2026-05-06T23:30:00Z,Ghost Gaming vs Teevee,val/events_2934545_grid.jsonl.zst,val-ability-supplements/2934545.jsonl.zst
+2938618,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-07T01:00:00Z,Bon Bon Bum vs Fusion,val/events_2938618_grid.jsonl.zst,val-ability-supplements/2938618.jsonl.zst
+2938743,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-07T15:00:00Z,Barça eSports vs Twisted Minds Orchid,val/events_2938743_grid.jsonl.zst,val-ability-supplements/2938743.jsonl.zst
+2938745,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-07T15:00:00Z,SK Nebula vs Gentle Mates (2),val/events_2938745_grid.jsonl.zst,val-ability-supplements/2938745.jsonl.zst
+2938744,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-07T18:00:00Z,GIANTX (2) vs ALTERNATE aTTaX Ruby,val/events_2938744_grid.jsonl.zst,val-ability-supplements/2938744.jsonl.zst
+2938746,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-07T18:00:00Z,ZennIT Orange vs FOKUS Sakura,val/events_2938746_grid.jsonl.zst,val-ability-supplements/2938746.jsonl.zst
+2938747,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-11T15:00:00Z,SK Nebula vs ZennIT Orange,val/events_2938747_grid.jsonl.zst,val-ability-supplements/2938747.jsonl.zst
+2938749,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-11T15:00:00Z,GIANTX (2) vs Gentle Mates (2),val/events_2938749_grid.jsonl.zst,val-ability-supplements/2938749.jsonl.zst
+2938748,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-11T18:00:00Z,Karmine Corp GC vs G2 Gozen,val/events_2938748_grid.jsonl.zst,val-ability-supplements/2938748.jsonl.zst
+2938619,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-11T22:00:00Z,Polar Squad Esports vs Daruma Synergy,val/events_2938619_grid.jsonl.zst,val-ability-supplements/2938619.jsonl.zst
+2938620,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-12T01:00:00Z,Nos Sweat Blossom vs Fusion,val/events_2938620_grid.jsonl.zst,val-ability-supplements/2938620.jsonl.zst
+2938750,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-12T15:00:00Z,SK Nebula vs G2 Gozen,val/events_2938750_grid.jsonl.zst,val-ability-supplements/2938750.jsonl.zst
+2938752,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-12T15:00:00Z,Karmine Corp GC vs Barça eSports,val/events_2938752_grid.jsonl.zst,val-ability-supplements/2938752.jsonl.zst
+2938751,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-12T18:00:00Z,ALTERNATE aTTaX Ruby vs FOKUS Sakura,val/events_2938751_grid.jsonl.zst,val-ability-supplements/2938751.jsonl.zst
+2938753,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-12T18:00:00Z,ZennIT Orange vs Twisted Minds Orchid,val/events_2938753_grid.jsonl.zst,val-ability-supplements/2938753.jsonl.zst
+2938621,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-12T22:00:00Z,Olimpo Gold vs Looking For Laburo GC,val/events_2938621_grid.jsonl.zst,val-ability-supplements/2938621.jsonl.zst
+2934549,Game Changers NA - Split 1 2026,Swiss,2026-05-13T00:00:00Z,SaD GC vs SwimTrek Blue,val/events_2934549_grid.jsonl.zst,val-ability-supplements/2934549.jsonl.zst
+2938622,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-13T01:00:00Z,Stray Cats (2) vs Bon Bon Bum,val/events_2938622_grid.jsonl.zst,val-ability-supplements/2938622.jsonl.zst
+2938754,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-13T15:00:00Z,Gentle Mates (2) vs Twisted Minds Orchid,val/events_2938754_grid.jsonl.zst,val-ability-supplements/2938754.jsonl.zst
+2938756,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-13T15:00:00Z,SK Nebula vs Karmine Corp GC,val/events_2938756_grid.jsonl.zst,val-ability-supplements/2938756.jsonl.zst
+2938755,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-13T18:00:00Z,Barça eSports vs FOKUS Sakura,val/events_2938755_grid.jsonl.zst,val-ability-supplements/2938755.jsonl.zst
+2938757,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-13T18:00:00Z,ALTERNATE aTTaX Ruby vs G2 Gozen,val/events_2938757_grid.jsonl.zst,val-ability-supplements/2938757.jsonl.zst
+2934547,Game Changers NA - Split 1 2026,Swiss,2026-05-13T21:00:00Z,SEN Otters vs MVSK Secret,val/events_2934547_grid.jsonl.zst,val-ability-supplements/2934547.jsonl.zst
+2934548,Game Changers NA - Split 1 2026,Swiss,2026-05-13T21:00:00Z,:3 vs Wadadaa,val/events_2934548_grid.jsonl.zst,val-ability-supplements/2934548.jsonl.zst
+2934551,Game Changers NA - Split 1 2026,Swiss,2026-05-13T21:00:00Z,Auraboros vs Frost White,val/events_2934551_grid.jsonl.zst,val-ability-supplements/2934551.jsonl.zst
+2938623,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-13T22:00:00Z,Leviatan vs VISA KRÜ Blaze,val/events_2938623_grid.jsonl.zst,val-ability-supplements/2938623.jsonl.zst
+2934546,Game Changers NA - Split 1 2026,Swiss,2026-05-13T23:30:00Z,FlyQuest Red vs Puppy Thieves,val/events_2934546_grid.jsonl.zst,val-ability-supplements/2934546.jsonl.zst
+2934550,Game Changers NA - Split 1 2026,Swiss,2026-05-13T23:30:00Z,Ghost Gaming vs Monarch-X GC,val/events_2934550_grid.jsonl.zst,val-ability-supplements/2934550.jsonl.zst
+2934552,Game Changers NA - Split 1 2026,Swiss,2026-05-13T23:30:00Z,EMPIRE GC vs Teevee,val/events_2934552_grid.jsonl.zst,val-ability-supplements/2934552.jsonl.zst
+2938624,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-14T01:00:00Z,MYVRA vs Akave Esports,val/events_2938624_grid.jsonl.zst,val-ability-supplements/2938624.jsonl.zst
+2938759,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-14T15:00:00Z,Karmine Corp GC vs GIANTX (2),val/events_2938759_grid.jsonl.zst,val-ability-supplements/2938759.jsonl.zst
+2938761,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-14T15:00:00Z,Barça eSports vs Gentle Mates (2),val/events_2938761_grid.jsonl.zst,val-ability-supplements/2938761.jsonl.zst
+2938760,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-14T18:00:00Z,SK Nebula vs ALTERNATE aTTaX Ruby,val/events_2938760_grid.jsonl.zst,val-ability-supplements/2938760.jsonl.zst
+2938762,Game Changers EMEA - Split 2 2026,Regular Season,2026-05-14T18:00:00Z,FOKUS Sakura vs Twisted Minds Orchid,val/events_2938762_grid.jsonl.zst,val-ability-supplements/2938762.jsonl.zst
+2934555,Game Changers NA - Split 1 2026,Swiss,2026-05-18T21:00:00Z,FlyQuest Red vs Ghost Gaming,val/events_2934555_grid.jsonl.zst,val-ability-supplements/2934555.jsonl.zst
+2934557,Game Changers NA - Split 1 2026,Swiss,2026-05-18T21:00:00Z,SEN Otters vs EMPIRE GC,val/events_2934557_grid.jsonl.zst,val-ability-supplements/2934557.jsonl.zst
+2934558,Game Changers NA - Split 1 2026,Swiss,2026-05-18T23:30:00Z,Monarch-X GC vs MVSK Secret,val/events_2934558_grid.jsonl.zst,val-ability-supplements/2934558.jsonl.zst
+2934559,Game Changers NA - Split 1 2026,Swiss,2026-05-18T23:30:00Z,:3 vs Frost White,val/events_2934559_grid.jsonl.zst,val-ability-supplements/2934559.jsonl.zst
+2930015,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-20T15:00:00Z,GIANTX (2) vs Twisted Minds Orchid,val/events_2930015_grid.jsonl.zst,val-ability-supplements/2930015.jsonl.zst
+2930016,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-20T18:00:00Z,G2 Gozen vs Barça eSports,val/events_2930016_grid.jsonl.zst,val-ability-supplements/2930016.jsonl.zst
+2934560,Game Changers NA - Split 1 2026,Swiss,2026-05-20T21:00:00Z,Ghost Gaming vs SaD GC,val/events_2934560_grid.jsonl.zst,val-ability-supplements/2934560.jsonl.zst
+2934561,Game Changers NA - Split 1 2026,Swiss,2026-05-20T23:30:00Z,:3 vs MVSK Secret,val/events_2934561_grid.jsonl.zst,val-ability-supplements/2934561.jsonl.zst
+2930017,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-21T15:00:00Z,GIANTX (2) vs Gentle Mates (2),val/events_2930017_grid.jsonl.zst,val-ability-supplements/2930017.jsonl.zst
+2930018,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-21T18:00:00Z,G2 Gozen vs SK Nebula,val/events_2930018_grid.jsonl.zst,val-ability-supplements/2930018.jsonl.zst
+2930019,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-22T15:00:00Z,G2 Gozen vs Gentle Mates (2),val/events_2930019_grid.jsonl.zst,val-ability-supplements/2930019.jsonl.zst
+2930020,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-22T18:00:00Z,SK Nebula vs GIANTX (2),val/events_2930020_grid.jsonl.zst,val-ability-supplements/2930020.jsonl.zst
+2930021,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-23T15:00:00Z,SK Nebula vs G2 Gozen,val/events_2930021_grid.jsonl.zst,val-ability-supplements/2930021.jsonl.zst
+2930022,Game Changers EMEA - Split 2 2026,Playoffs,2026-05-24T15:00:00Z,SK Nebula vs Gentle Mates (2),val/events_2930022_grid.jsonl.zst,val-ability-supplements/2930022.jsonl.zst
+2955874,Game Changers BR - Split 2 2026,Swiss,2026-05-25T20:00:00Z,Team Liquid Visa vs Angels of Delusion,val/events_2955874_grid.jsonl.zst,val-ability-supplements/2955874.jsonl.zst
+2955875,Game Changers BR - Split 2 2026,Swiss,2026-05-25T20:00:00Z,Ushiras vs Pão com Rato,val/events_2955875_grid.jsonl.zst,val-ability-supplements/2955875.jsonl.zst
+2955876,Game Changers BR - Split 2 2026,Swiss,2026-05-25T23:00:00Z,Evil Geniuses (2) vs Arashi,val/events_2955876_grid.jsonl.zst,val-ability-supplements/2955876.jsonl.zst
+2955877,Game Changers BR - Split 2 2026,Swiss,2026-05-25T23:00:00Z,the luizas vs Made In Brazil,val/events_2955877_grid.jsonl.zst,val-ability-supplements/2955877.jsonl.zst
+2934562,Game Changers NA - Split 1 2026,Playoffs,2026-05-29T21:00:00Z,Shopify Rebellion Gold vs Ghost Gaming,val/events_2934562_grid.jsonl.zst,val-ability-supplements/2934562.jsonl.zst
+2934563,Game Changers NA - Split 1 2026,Playoffs,2026-05-29T21:00:00Z,Wadadaa vs FlyQuest Red,val/events_2934563_grid.jsonl.zst,val-ability-supplements/2934563.jsonl.zst
+2938626,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-29T22:00:00Z,VISA KRÜ Blaze vs Daruma Synergy,val/events_2938626_grid.jsonl.zst,val-ability-supplements/2938626.jsonl.zst
+2934564,Game Changers NA - Split 1 2026,Playoffs,2026-05-29T23:30:00Z,Puppy Thieves vs :3,val/events_2934564_grid.jsonl.zst,val-ability-supplements/2934564.jsonl.zst
+2934565,Game Changers NA - Split 1 2026,Playoffs,2026-05-29T23:30:00Z,SwimTrek Blue vs SEN Otters,val/events_2934565_grid.jsonl.zst,val-ability-supplements/2934565.jsonl.zst
+2938629,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-30T01:00:00Z,MYVRA vs Bon Bon Bum,val/events_2938629_grid.jsonl.zst,val-ability-supplements/2938629.jsonl.zst
+2934566,Game Changers NA - Split 1 2026,Playoffs,2026-05-30T21:00:00Z,FlyQuest Red vs Ghost Gaming,val/events_2934566_grid.jsonl.zst,val-ability-supplements/2934566.jsonl.zst
+2934567,Game Changers NA - Split 1 2026,Playoffs,2026-05-30T21:00:00Z,Wadadaa vs Shopify Rebellion Gold,val/events_2934567_grid.jsonl.zst,val-ability-supplements/2934567.jsonl.zst
+2938628,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-30T22:00:00Z,Leviatan vs Looking For Laburo GC,val/events_2938628_grid.jsonl.zst,val-ability-supplements/2938628.jsonl.zst
+2934568,Game Changers NA - Split 1 2026,Playoffs,2026-05-30T23:30:00Z,SwimTrek Blue vs Puppy Thieves,val/events_2934568_grid.jsonl.zst,val-ability-supplements/2934568.jsonl.zst
+2934569,Game Changers NA - Split 1 2026,Playoffs,2026-05-30T23:30:00Z,SEN Otters vs :3,val/events_2934569_grid.jsonl.zst,val-ability-supplements/2934569.jsonl.zst
+2938627,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-31T01:00:00Z,Akave Esports vs Fusion,val/events_2938627_grid.jsonl.zst,val-ability-supplements/2938627.jsonl.zst
+2955880,Game Changers BR - Split 2 2026,Swiss,2026-05-31T20:00:00Z,Team Liquid Visa vs Pão com Rato,val/events_2955880_grid.jsonl.zst,val-ability-supplements/2955880.jsonl.zst
+2955882,Game Changers BR - Split 2 2026,Swiss,2026-05-31T20:00:00Z,Made In Brazil vs Evil Geniuses (2),val/events_2955882_grid.jsonl.zst,val-ability-supplements/2955882.jsonl.zst
+2934570,Game Changers NA - Split 1 2026,Playoffs,2026-05-31T21:00:00Z,SEN Otters vs Ghost Gaming,val/events_2934570_grid.jsonl.zst,val-ability-supplements/2934570.jsonl.zst
+2938630,Game Changers LATAM - Split 2 2026,Regular Season,2026-05-31T22:00:00Z,Polar Squad Esports vs Olimpo Gold,val/events_2938630_grid.jsonl.zst,val-ability-supplements/2938630.jsonl.zst
+2955879,Game Changers BR - Split 2 2026,Swiss,2026-05-31T23:00:00Z,Ushiras vs Angels of Delusion,val/events_2955879_grid.jsonl.zst,val-ability-supplements/2955879.jsonl.zst
+2955881,Game Changers BR - Split 2 2026,Swiss,2026-05-31T23:00:00Z,Arashi vs the luizas,val/events_2955881_grid.jsonl.zst,val-ability-supplements/2955881.jsonl.zst
+2934571,Game Changers NA - Split 1 2026,Playoffs,2026-05-31T23:30:00Z,Shopify Rebellion Gold vs Puppy Thieves,val/events_2934571_grid.jsonl.zst,val-ability-supplements/2934571.jsonl.zst
+2938631,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-01T01:00:00Z,Stray Cats (2) vs Nos Sweat Blossom,val/events_2938631_grid.jsonl.zst,val-ability-supplements/2938631.jsonl.zst
+2934572,Game Changers NA - Split 1 2026,Playoffs,2026-06-03T21:00:00Z,SwimTrek Blue vs FlyQuest Red,val/events_2934572_grid.jsonl.zst,val-ability-supplements/2934572.jsonl.zst
+2938640,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-03T22:00:00Z,Polar Squad Esports vs Leviatan,val/events_2938640_grid.jsonl.zst,val-ability-supplements/2938640.jsonl.zst
+2934573,Game Changers NA - Split 1 2026,Playoffs,2026-06-03T23:30:00Z,Ghost Gaming vs Shopify Rebellion Gold,val/events_2934573_grid.jsonl.zst,val-ability-supplements/2934573.jsonl.zst
+2938641,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-04T01:00:00Z,MYVRA vs Nos Sweat Blossom,val/events_2938641_grid.jsonl.zst,val-ability-supplements/2938641.jsonl.zst
+2934574,Game Changers NA - Split 1 2026,Playoffs,2026-06-04T21:00:00Z,Shopify Rebellion Gold vs FlyQuest Red,val/events_2934574_grid.jsonl.zst,val-ability-supplements/2934574.jsonl.zst
+2938642,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-04T22:00:00Z,Olimpo Gold vs Daruma Synergy,val/events_2938642_grid.jsonl.zst,val-ability-supplements/2938642.jsonl.zst
+2938643,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-05T01:00:00Z,Stray Cats (2) vs Fusion,val/events_2938643_grid.jsonl.zst,val-ability-supplements/2938643.jsonl.zst
+2955883,Game Changers BR - Split 2 2026,Swiss,2026-06-05T20:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2955883_grid.jsonl.zst,val-ability-supplements/2955883.jsonl.zst
+2955884,Game Changers BR - Split 2 2026,Swiss,2026-06-05T20:00:00Z,the luizas vs Angels of Delusion,val/events_2955884_grid.jsonl.zst,val-ability-supplements/2955884.jsonl.zst
+2934575,Game Changers NA - Split 1 2026,Playoffs,2026-06-05T21:00:00Z,Shopify Rebellion Gold vs SwimTrek Blue,val/events_2934575_grid.jsonl.zst,val-ability-supplements/2934575.jsonl.zst
+2938644,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-05T22:00:00Z,VISA KRÜ Blaze vs Looking For Laburo GC,val/events_2938644_grid.jsonl.zst,val-ability-supplements/2938644.jsonl.zst
+2955885,Game Changers BR - Split 2 2026,Swiss,2026-06-05T23:00:00Z,Evil Geniuses (2) vs Ushiras,val/events_2955885_grid.jsonl.zst,val-ability-supplements/2955885.jsonl.zst
+2955886,Game Changers BR - Split 2 2026,Swiss,2026-06-05T23:00:00Z,Pão com Rato vs Arashi,val/events_2955886_grid.jsonl.zst,val-ability-supplements/2955886.jsonl.zst
+2938645,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-06T01:00:00Z,Akave Esports vs Bon Bon Bum,val/events_2938645_grid.jsonl.zst,val-ability-supplements/2938645.jsonl.zst
+2955888,Game Changers BR - Split 2 2026,Swiss,2026-06-10T20:00:00Z,Evil Geniuses (2) vs Pão com Rato,val/events_2955888_grid.jsonl.zst,val-ability-supplements/2955888.jsonl.zst
+2955889,Game Changers BR - Split 2 2026,Swiss,2026-06-10T20:00:00Z,Team Liquid Visa vs Arashi,val/events_2955889_grid.jsonl.zst,val-ability-supplements/2955889.jsonl.zst
+2955890,Game Changers BR - Split 2 2026,Swiss,2026-06-10T23:00:00Z,the luizas vs Ushiras,val/events_2955890_grid.jsonl.zst,val-ability-supplements/2955890.jsonl.zst
+2955891,Game Changers BR - Split 2 2026,Swiss,2026-06-11T20:00:00Z,Pão com Rato vs Ushiras,val/events_2955891_grid.jsonl.zst,val-ability-supplements/2955891.jsonl.zst
+2938646,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-11T22:00:00Z,Leviatan vs Daruma Synergy,val/events_2938646_grid.jsonl.zst,val-ability-supplements/2938646.jsonl.zst
+2938647,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-12T01:00:00Z,MYVRA vs Fusion,val/events_2938647_grid.jsonl.zst,val-ability-supplements/2938647.jsonl.zst
+2938649,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-12T22:00:00Z,Olimpo Gold vs VISA KRÜ Blaze,val/events_2938649_grid.jsonl.zst,val-ability-supplements/2938649.jsonl.zst
+2938650,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-13T01:00:00Z,Stray Cats (2) vs Akave Esports,val/events_2938650_grid.jsonl.zst,val-ability-supplements/2938650.jsonl.zst
+2938651,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-13T22:00:00Z,Polar Squad Esports vs Looking For Laburo GC,val/events_2938651_grid.jsonl.zst,val-ability-supplements/2938651.jsonl.zst
+2938652,Game Changers LATAM - Split 2 2026,Regular Season,2026-06-14T01:00:00Z,Nos Sweat Blossom vs Bon Bon Bum,val/events_2938652_grid.jsonl.zst,val-ability-supplements/2938652.jsonl.zst
+2955892,Game Changers BR - Split 2 2026,Playoffs,2026-06-22T20:00:00Z,Ushiras vs Made In Brazil,val/events_2955892_grid.jsonl.zst,val-ability-supplements/2955892.jsonl.zst
+2955893,Game Changers BR - Split 2 2026,Playoffs,2026-06-22T23:00:00Z,Team Liquid Visa vs Evil Geniuses (2),val/events_2955893_grid.jsonl.zst,val-ability-supplements/2955893.jsonl.zst
+2955894,Game Changers BR - Split 2 2026,Playoffs,2026-06-23T20:00:00Z,Evil Geniuses (2) vs Ushiras,val/events_2955894_grid.jsonl.zst,val-ability-supplements/2955894.jsonl.zst
+2955895,Game Changers BR - Split 2 2026,Playoffs,2026-06-23T23:00:00Z,Team Liquid Visa vs Made In Brazil,val/events_2955895_grid.jsonl.zst,val-ability-supplements/2955895.jsonl.zst
+2955897,Game Changers BR - Split 2 2026,Playoffs,2026-06-25T20:00:00Z,Ushiras vs Made In Brazil,val/events_2955897_grid.jsonl.zst,val-ability-supplements/2955897.jsonl.zst
+2938653,Game Changers LATAM - Split 2 2026,Playoffs,2026-06-30T22:00:00Z,Looking For Laburo GC vs Leviatan,val/events_2938653_grid.jsonl.zst,val-ability-supplements/2938653.jsonl.zst
+2938660,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-01T01:00:00Z,Akave Esports vs Stray Cats (2),val/events_2938660_grid.jsonl.zst,val-ability-supplements/2938660.jsonl.zst
+2938654,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-01T22:00:00Z,VISA KRÜ Blaze vs Polar Squad Esports,val/events_2938654_grid.jsonl.zst,val-ability-supplements/2938654.jsonl.zst
+2938661,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-02T01:00:00Z,Fusion vs Nos Sweat Blossom,val/events_2938661_grid.jsonl.zst,val-ability-supplements/2938661.jsonl.zst
+2967646,Game Changers JPN - Split 2 2026,Playoffs,2026-07-02T07:00:00Z,FENNEL HOTELAVA vs SOLEIL GAMING GC,val/events_2967646_grid.jsonl.zst,val-ability-supplements/2967646.jsonl.zst
+2967647,Game Changers JPN - Split 2 2026,Playoffs,2026-07-02T10:00:00Z,EOTO vs Sasanqua,val/events_2967647_grid.jsonl.zst,val-ability-supplements/2967647.jsonl.zst
+2967648,Game Changers JPN - Split 2 2026,Playoffs,2026-07-03T04:00:00Z,Sasanqua vs FENNEL HOTELAVA,val/events_2967648_grid.jsonl.zst,val-ability-supplements/2967648.jsonl.zst
+2967649,Game Changers JPN - Split 2 2026,Playoffs,2026-07-03T07:00:00Z,EOTO vs SOLEIL GAMING GC,val/events_2967649_grid.jsonl.zst,val-ability-supplements/2967649.jsonl.zst
+2967650,Game Changers JPN - Split 2 2026,Playoffs,2026-07-03T10:00:00Z,EOTO vs Sasanqua,val/events_2967650_grid.jsonl.zst,val-ability-supplements/2967650.jsonl.zst
+2967651,Game Changers JPN - Split 2 2026,Playoffs,2026-07-04T08:00:00Z,Sasanqua vs FENNEL HOTELAVA,val/events_2967651_grid.jsonl.zst,val-ability-supplements/2967651.jsonl.zst
+2970983,Game Changers KR - Split 2 2026,Playoffs,2026-07-06T08:00:00Z,DRX Academy GC vs Gen.G GC,val/events_2970983_grid.jsonl.zst,val-ability-supplements/2970983.jsonl.zst
+2970984,Game Changers KR - Split 2 2026,Playoffs,2026-07-06T10:00:00Z,SUZ vs Ninetails,val/events_2970984_grid.jsonl.zst,val-ability-supplements/2970984.jsonl.zst
+2938655,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-06T22:00:00Z,Polar Squad Esports vs Leviatan,val/events_2938655_grid.jsonl.zst,val-ability-supplements/2938655.jsonl.zst
+2938662,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-07T01:00:00Z,Fusion vs Stray Cats (2),val/events_2938662_grid.jsonl.zst,val-ability-supplements/2938662.jsonl.zst
+2970985,Game Changers KR - Split 2 2026,Playoffs,2026-07-07T08:00:00Z,Gen.G GC vs Ninetails,val/events_2970985_grid.jsonl.zst,val-ability-supplements/2970985.jsonl.zst
+2970986,Game Changers KR - Split 2 2026,Playoffs,2026-07-07T10:00:00Z,SUZ vs DRX Academy GC,val/events_2970986_grid.jsonl.zst,val-ability-supplements/2970986.jsonl.zst
+2938656,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-07T22:00:00Z,VISA KRÜ Blaze vs Looking For Laburo GC,val/events_2938656_grid.jsonl.zst,val-ability-supplements/2938656.jsonl.zst
+2938663,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-08T01:00:00Z,Nos Sweat Blossom vs Akave Esports,val/events_2938663_grid.jsonl.zst,val-ability-supplements/2938663.jsonl.zst
+2955899,Game Changers BR - Split 2 2026,Playoffs,2026-07-08T21:00:00Z,Made In Brazil vs Team Liquid Visa,val/events_2955899_grid.jsonl.zst,val-ability-supplements/2955899.jsonl.zst
+2938657,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-08T22:00:00Z,Polar Squad Esports vs Looking For Laburo GC,val/events_2938657_grid.jsonl.zst,val-ability-supplements/2938657.jsonl.zst
+2938664,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-09T01:00:00Z,Fusion vs Nos Sweat Blossom,val/events_2938664_grid.jsonl.zst,val-ability-supplements/2938664.jsonl.zst
+2938658,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-13T19:00:00Z,Looking For Laburo GC vs VISA KRÜ Blaze,val/events_2938658_grid.jsonl.zst,val-ability-supplements/2938658.jsonl.zst
+2972877,Game Changers NA - Split 2 2026,Swiss,2026-07-13T20:59:00Z,Cloud9 GC vs ROSO GC,val/events_2972877_grid.jsonl.zst,val-ability-supplements/2972877.jsonl.zst
+2970987,Game Changers KR - Split 2 2026,Playoffs,2026-07-14T08:00:00Z,DRX Academy GC vs Gen.G GC,val/events_2970987_grid.jsonl.zst,val-ability-supplements/2970987.jsonl.zst
+2938665,Game Changers LATAM - Split 2 2026,Playoffs,2026-07-14T22:00:00Z,Fusion vs Akave Esports,val/events_2938665_grid.jsonl.zst,val-ability-supplements/2938665.jsonl.zst
+2970990,Game Changers KR - Split 2 2026,Playoffs,2026-07-20T08:00:00Z,Gen.G GC vs Ninetails,val/events_2970990_grid.jsonl.zst,val-ability-supplements/2970990.jsonl.zst
+2972883,Game Changers NA - Split 2 2026,Swiss,2026-07-20T21:00:00Z,Cloud9 GC vs FlyQuest Red,val/events_2972883_grid.jsonl.zst,val-ability-supplements/2972883.jsonl.zst
+2972893,Game Changers NA - Split 2 2026,Swiss,2026-07-27T21:00:00Z,Cloud9 GC vs The Spiders,val/events_2972893_grid.jsonl.zst,val-ability-supplements/2972893.jsonl.zst
+2972904,Game Changers NA - Split 2 2026,Swiss,2026-08-03T23:30:00Z,Cloud9 GC vs :3,val/events_2972904_grid.jsonl.zst,val-ability-supplements/2972904.jsonl.zst
+2972913,Game Changers NA - Split 2 2026,Swiss,2026-08-10T21:00:00Z,Revitalize GC vs Cloud9 GC,val/events_2972913_grid.jsonl.zst,val-ability-supplements/2972913.jsonl.zst
+2972924,Game Changers NA - Split 2 2026,Swiss,2026-08-12T23:30:00Z,Los Chudeles vs Cloud9 GC,val/events_2972924_grid.jsonl.zst,val-ability-supplements/2972924.jsonl.zst
+2972926,Game Changers NA - Split 2 2026,Swiss,2026-08-17T21:00:00Z,SEN Otters vs Cloud9 GC,val/events_2972926_grid.jsonl.zst,val-ability-supplements/2972926.jsonl.zst
+2972931,Game Changers NA - Split 2 2026,Playoffs,2026-09-01T23:30:00Z,Cloud9 GC vs SwimTrek Blue,val/events_2972931_grid.jsonl.zst,val-ability-supplements/2972931.jsonl.zst
+2972936,Game Changers NA - Split 2 2026,Playoffs,2026-09-02T23:30:00Z,HIMMERS vs Cloud9 GC,val/events_2972936_grid.jsonl.zst,val-ability-supplements/2972936.jsonl.zst
