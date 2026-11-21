@@ -207,8 +207,10 @@ If you want to look at a file by hand:
 | `teams.csv` | team | `team_id`, `name` (most recent), `other_names` (earlier names, `; `-separated), `series_count`, `events`, `first_seen`, `last_seen` |
 | `players.csv` | player | `player_id`, `name` (in-game name, most recent), `other_names`, `latest_team_id`, `latest_team_name`, `team_ids` (every team, oldest first), `series_count`, `first_seen`, `last_seen` |
 | `characters.csv` | VALORANT agent / LoL champion | `character_id` (the ID used in the feeds), `name`, `games_played` |
-| `games.csv` | game (map) | `series_id`, `game_id`, `game_number`, `map`, `patch`, `started_at`, `finished`, `winner_team_id`, `team{1,2}_id/name/side/score` |
-| `rosters.csv` | player in a game | `series_id`, `game_id`, `game_number`, `team_id`, `team_name`, `side`, `player_id`, `player_name`, `character_id`, `character_name`, `participation_status` |
+| `games.csv` | game (map) | `series_id`, `game_id`, `game_number`, `map`, `patch`, `started_at`, `finished`, `winner_team_id`, `team{1,2}_id/name/side/score`, `session`, `session_valid` |
+| `rosters.csv` | player in a game | `series_id`, `game_id`, `game_number`, `team_id`, `team_name`, `side`, `player_id`, `player_name`, `character_id`, `character_name`, `participation_status`, `session` |
+
+`session` and `session_valid` are the last columns, so the earlier columns keep their positions. `session` is `1` except in the three files that contain two feed sessions (see [Data caveats](#data-caveats)). `session_valid` is GRID's `valid` flag at the end of that session; check it before counting results.
 
 ```python
 import csv
@@ -222,7 +224,7 @@ Player names are in-game nicknames only. The tables deliberately contain no real
 
 ## The GRID event format
 
-A file is the complete GRID event feed for one series, from `grid-started-feed` to `grid-ended-feed`. Each **line** is a JSON **envelope**, and envelopes are in `sequenceNumber` order. Each envelope carries one or more **events** that happened at the same moment.
+A file is the GRID event feed for one series: one **feed session**, from `grid-started-feed` to `grid-ended-feed`. Three files contain two sessions (see [Data caveats](#data-caveats)). Each **line** is a JSON **envelope**, and envelopes are in `sequenceNumber` order within a session. Each envelope carries one or more **events** that happened at the same moment.
 
 ```jsonc
 {
@@ -230,7 +232,7 @@ A file is the complete GRID event feed for one series, from `grid-started-feed` 
   "correlationId": "d1ef0926-…",
   "occurredAt": "2025-02-09T20:19:00.969Z",   // UTC, millisecond precision
   "seriesId": "2767056",
-  "sequenceNumber": 400,           // strictly increasing within the file
+  "sequenceNumber": 400,           // increasing within a feed session (restarts at 1 in a new session)
   "events": [
     {
       "id": "…",                   // event ID
@@ -238,9 +240,9 @@ A file is the complete GRID event feed for one series, from `grid-started-feed` 
       "actor":  { "type": "player", "id": "…", "state": { … }, "stateDelta": { … } },
       "action": "killed",
       "target": { "type": "player", "id": "…", "state": { … }, "stateDelta": { … } },
-      "seriesState":      { … },   // full snapshot of the series AFTER this event
+      "seriesState":      { … },   // state of the series AFTER this event: complete only if includesFullState is true
       "seriesStateDelta": { … },   // only what this event changed
-      "includesFullState": false
+      "includesFullState": false   // true = seriesState is a complete snapshot; false = partial
     }
   ]
 }
@@ -249,7 +251,8 @@ A file is the complete GRID event feed for one series, from `grid-started-feed` 
 **Key ideas**
 
 - **Event types read as sentences:** `{actor}-{action}-{target}`, for example `player-used-ability`, `team-won-round`, `player-destroyed-tower` or `series-ended-game`. A `!` before the action **reverses an earlier event**. For example, `player-!purchased-item` is an undone purchase, and `series-!started-game` rolls back a game start. Undo the matching event when you replay a feed.
-- **`seriesState` is a full snapshot.** It holds the series (`teams`, `games`, `format`, `started`, `finished`, …), then each game (`map`, `clock`, `teams`, `segments` such as VALORANT rounds, `draftActions`, …), each team in a game (`name`, `side`, `score`, `won`, `kills`, `money`, …), and each player (`name`, `character`, `kills`, `deaths`, `inventory`, `abilities`, `position`, `alive`, `currentHealth`, …). **The last event in a file holds the final box score.** Use `seriesStateDelta` (and `actor`/`target` `stateDelta`) if you only care about what changed.
+- **`seriesState` is complete only when `includesFullState` is `true`.** A full state holds the series (`teams`, `games`, `format`, `started`, `finished`, `valid`, …), then each game (`map`, `clock`, `teams`, `segments` such as VALORANT rounds, `draftActions`, …), each team in a game (`name`, `side`, `score`, `won`, `kills`, `money`, …), and each player (`name`, `character`, `kills`, `deaths`, `inventory`, `abilities`, `position`, `alive`, `currentHealth`, …). Full states arrive at structural moments: series, map and round starts and ends, freeze time and VALORANT bomb plants. **The last full state of a feed session holds its final box score.**
+- **When `includesFullState` is `false`, `seriesState` is partial.** It holds only what the event touched: the series `id`, usually just the current game, sometimes `teams`, and only some of their fields. A game or field missing from a partial state hasn't been deleted; it just isn't included. Removals are always explicit `!` events, such as `series-!started-game`. To track state, start from the latest full state and merge partial states (or `seriesStateDelta`, and `actor`/`target` `stateDelta`) into it by ID.
 - **IDs are strings.** Player, team and game IDs are stable across the series, so join on them, not on names.
 - **Positions** are `{x, y}` in game units: centimetres in VALORANT, Summoner's Rift units in League of Legends. Each game's `map.bounds` gives the playable area.
 - **Draft (League of Legends):** picks and bans are `team-picked-character` and `team-banned-character` events, also in `draftActions`.
@@ -308,14 +311,15 @@ counts = Counter(e["type"] for env in read_jsonl_zst("lol/events_2754338_grid.js
 print(counts.most_common(20))
 ```
 
-**Final result of every game in a match** (from the last snapshot)
+**Final result of every game in a match** (from the last full state)
 
 ```python
-last = None
+final = None
 for env in read_jsonl_zst("val/events_2748743_grid.jsonl.zst"):
     for e in env["events"]:
-        last = e.get("seriesState") or last
-for game in last["games"]:
+        if e.get("includesFullState") and e.get("seriesState"):
+            final = e["seriesState"]
+for game in final["games"]:
     print(game["map"]["name"], {t["name"]: t["score"] for t in game["teams"]})
 ```
 
@@ -358,6 +362,8 @@ for env in read_jsonl_zst(f"val/events_{sid}_grid.jsonl.zst"):
 - **Low-rate movement.** In VCT Americas 2025, VALORANT positions are sampled once per second instead of about five times. The supplement flags this; see its README.
 - **Team names** are recorded as broadcast and can change between events (for example `MIBR (2)`), and two different teams can share a name (for example two VALORANT teams called `Shopify Rebellion Gold`). Use team IDs to follow a team over time; `meta/teams.csv` lists each team's earlier names.
 - **One invalidated series.** GRID invalidated VALORANT series `2855902` (Game Changers Pacific 2025). Its feed holds only a rolled-back game start and no match data, so it has no rows in `meta/games.csv` and no ability supplement.
+- **Two feed sessions in three files.** VALORANT `2855006` (Game Changers LATAM – Main Event 2025) and `2890336` (Game Changers LATAM – Split 1 2026), and League of Legends `2885343` (LCS – Split 1 2026), each contain two feed sessions recorded days apart. Each session runs from its own `grid-started-feed` to `grid-ended-feed`, `sequenceNumber` restarts at 1, and the second session starts with an empty `games` list. Treat each session separately. In `2885343`, session 1 holds the real result (Team Liquid Alienware won 2–0); session 2 is a short, invalid fragment. `meta/games.csv` and `meta/rosters.csv` list every session in their `session` column.
+- **Series marked invalid.** GRID ends 58 series with `valid: false` (40 VALORANT, 18 League of Legends, including `2855902` above); `meta/games.csv` shows this as `session_valid`. They include incomplete series and series with feed problems, so check their games and scores before relying on the results.
 - **Times are UTC.**
 
 ---
@@ -381,7 +387,7 @@ This summary is not a substitute for the [LICENSE](LICENSE.md), which is what ap
 ## Coverage by event
 
 <!-- EVENTS:START -->
-**VALORANT**: 857 series, 2078 games
+**VALORANT**: 857 series, 2081 games
 
 | Event | Series | Games | Dates | With ability supplement |
 |---|---:|---:|---|---:|
@@ -404,14 +410,14 @@ This summary is not a substitute for the [LICENSE](LICENSE.md), which is what ap
 | Game Changers KR - Split 2 2025 | 1 | 3 | 2025-07-04 – 2025-07-04 | 1 |
 | VCT Americas - Stage 2 2025 | 42 | 105 | 2025-07-18 – 2025-08-31 | 42 |
 | Game Changers NA - Split 2 2025 | 59 | 147 | 2025-07-28 – 2025-10-12 | 59 |
-| Game Changers LATAM - Main Event 2025 | 17 | 48 | 2025-08-18 – 2025-10-12 | 17 |
+| Game Changers LATAM - Main Event 2025 | 17 | 50 | 2025-08-18 – 2025-10-12 | 17 |
 | Game Changers BR - Season Finals 2025 | 14 | 33 | 2025-09-08 – 2025-10-11 | 14 |
 | Game Changers Pacific - 2025 | 14 | 32 | 2025-10-06 – 2025-10-12 | 13 |
 | Game Changers EMEA - Split 3 2025 | 8 | 24 | 2025-10-16 – 2025-11-02 | 8 |
 | Game Changers Championship - 2025 | 18 | 47 | 2025-11-20 – 2025-11-30 | 18 |
 | Game Changers BR - Kickoff 2026 | 14 | 35 | 2026-02-03 – 2026-02-17 | 14 |
 | Game Changers LATAM - Kickoff 2026 | 2 | 4 | 2026-02-08 – 2026-02-09 | 2 |
-| Game Changers LATAM - Split 1 2026 | 42 | 94 | 2026-02-11 – 2026-04-07 | 42 |
+| Game Changers LATAM - Split 1 2026 | 42 | 95 | 2026-02-11 – 2026-04-07 | 42 |
 | Game Changers EMEA - Stage 1 2026 | 8 | 21 | 2026-02-18 – 2026-02-22 | 8 |
 | Game Changers NA - Kickoff 2026 | 14 | 39 | 2026-02-20 – 2026-03-01 | 14 |
 | Game Changers BR - Split 1 2026 | 22 | 53 | 2026-03-21 – 2026-04-30 | 22 |
@@ -425,7 +431,7 @@ This summary is not a substitute for the [LICENSE](LICENSE.md), which is what ap
 | Game Changers KR - Split 2 2026 | 6 | 14 | 2026-07-06 – 2026-07-20 | 6 |
 | Game Changers NA - Split 2 2026 | 9 | 21 | 2026-07-13 – 2026-09-02 | 9 |
 
-**League of Legends**: 745 series, 1739 games
+**League of Legends**: 745 series, 1741 games
 
 | Event | Series | Games | Dates |
 |---|---:|---:|---|
@@ -444,7 +450,7 @@ This summary is not a substitute for the [LICENSE](LICENSE.md), which is what ap
 | LEC - Summer 2025 | 30 | 85 | 2025-08-02 – 2025-09-28 |
 | LTA Cross-Conference - Regional Championship 2025 | 6 | 22 | 2025-09-13 – 2025-09-28 |
 | LEC - LEC Versus 2026 | 79 | 101 | 2026-01-17 – 2026-03-01 |
-| LCS - Split 1 2026 | 21 | 58 | 2026-01-24 – 2026-03-01 |
+| LCS - Split 1 2026 | 21 | 60 | 2026-01-24 – 2026-03-01 |
 | LEC - Spring 2026 | 53 | 141 | 2026-03-28 – 2026-06-07 |
 | LCS - Split 2 2026 | 36 | 98 | 2026-04-04 – 2026-06-14 |
 | LCS - Split 3 2026 | 11 | 32 | 2026-07-26 – 2026-10-03 |
